@@ -1,0 +1,482 @@
+[
+  {
+    "slug": "toronto",
+    "nameEn": "Toronto",
+    "nameFr": "Toronto",
+    "province": "Ontario",
+    "provinceShort": "ON",
+    "population": 2794356,
+    "lat": 43.6532,
+    "lng": -79.3832
+  },
+  {
+    "slug": "montreal",
+    "nameEn": "Montréal",
+    "nameFr": "Montréal",
+    "province": "Quebec",
+    "provinceShort": "QC",
+    "population": 1762949,
+    "lat": 45.5017,
+    "lng": -73.5673
+  },
+  {
+    "slug": "calgary",
+    "nameEn": "Calgary",
+    "nameFr": "Calgary",
+    "province": "Alberta",
+    "provinceShort": "AB",
+    "population": 1306784,
+    "lat": 51.0447,
+    "lng": -114.0719
+  },
+  {
+    "slug": "ottawa",
+    "nameEn": "Ottawa",
+    "nameFr": "Ottawa",
+    "province": "Ontario",
+    "provinceShort": "ON",
+    "population": 1017449,
+    "lat": 45.4215,
+    "lng": -75.6972
+  },
+  {
+    "slug": "edmonton",
+    "nameEn": "Edmonton",
+    "nameFr": "Edmonton",
+    "province": "Alberta",
+    "provinceShort": "AB",
+    "population": 1010899,
+    "lat": 53.5461,
+    "lng": -113.4938
+  },
+  {
+    "slug": "mississauga",
+    "nameEn": "Mississauga",
+    "nameFr": "Mississauga",
+    "province": "Ontario",
+    "provinceShort": "ON",
+    "population": 717961,
+    "lat": 43.589,
+    "lng": -79.6441
+  },
+  {
+    "slug": "winnipeg",
+    "nameEn": "Winnipeg",
+    "nameFr": "Winnipeg",
+    "province": "Manitoba",
+    "provinceShort": "MB",
+    "population": 749607,
+    "lat": 49.8951,
+    "lng": -97.1384
+  },
+  {
+    "slug": "vancouver",
+    "nameEn": "Vancouver",
+    "nameFr": "Vancouver",
+    "province": "British Columbia",
+    "provinceShort": "BC",
+    "population": 675218,
+    "lat": 49.2827,
+    "lng": -123.1207
+  },
+  {
+    "slug": "brampton",
+    "nameEn": "Brampton",
+    "nameFr": "Brampton",
+    "province": "Ontario",
+    "provinceShort": "ON",
+    "population": 656480,
+    "lat": 43.7315,
+    "lng": -79.7624
+  },
+  {
+    "slug": "hamilton",
+    "nameEn": "Hamilton",
+    "nameFr": "Hamilton",
+    "province": "Ontario",
+    "provinceShort": "ON",
+    "population": 579200,
+    "lat": 43.2557,
+    "lng": -79.8711
+  },
+  {
+    "slug": "quebec-city",
+    "nameEn": "Quebec City",
+    "nameFr": "Ville de Québec",
+    "province": "Quebec",
+    "provinceShort": "QC",
+    "population": 542298,
+    "lat": 46.8139,
+    "lng": -71.208
+  },
+  {
+    "slug": "surrey",
+    "nameEn": "Surrey",
+    "nameFr": "Surrey",
+    "province": "British Columbia",
+    "provinceShort": "BC",
+    "population": 568322,
+    "lat": 49.1913,
+    "lng": -122.849
+  },
+  {
+    "slug": "halifax",
+    "nameEn": "Halifax",
+    "nameFr": "Halifax",
+    "province": "Nova Scotia",
+    "provinceShort": "NS",
+    "population": 439819,
+    "lat": 44.6488,
+    "lng": -63.5752
+  },
+  {
+    "slug": "london",
+    "nameEn": "London",
+    "nameFr": "London",
+    "province": "Ontario",
+    "provinceShort": "ON",
+    "population": 422324,
+    "lat": 42.9849,
+    "lng": -81.2453
+  },
+  {
+    "slug": "victoria",
+    "nameEn": "Victoria",
+    "nameFr": "Victoria",
+    "province": "British Columbia",
+    "provinceShort": "BC",
+    "population": 91867,
+    "lat": 48.4284,
+    "lng": -123.3656
+  },
+  {
+    "slug": "kitchener",
+    "nameEn": "Kitchener",
+    "nameFr": "Kitchener",
+    "province": "Ontario",
+    "provinceShort": "ON",
+    "population": 256885,
+    "lat": 43.4516,
+    "lng": -80.4925
+  },
+  {
+    "slug": "windsor",
+    "nameEn": "Windsor",
+    "nameFr": "Windsor",
+    "province": "Ontario",
+    "provinceShort": "ON",
+    "population": 229660,
+    "lat": 42.3149,
+    "lng": -83.0364
+  },
+  {
+    "slug": "saskatoon",
+    "nameEn": "Saskatoon",
+    "nameFr": "Saskatoon",
+    "province": "Saskatchewan",
+    "provinceShort": "SK",
+    "population": 273010,
+    "lat": 52.1579,
+    "lng": -106.6702
+  },
+  {
+    "slug": "regina",
+    "nameEn": "Regina",
+    "nameFr": "Regina",
+    "province": "Saskatchewan",
+    "provinceShort": "SK",
+    "population": 226404,
+    "lat": 50.4452,
+    "lng": -104.6189
+  },
+  {
+    "slug": "st-catharines",
+    "nameEn": "St. Catharines",
+    "nameFr": "St. Catharines",
+    "province": "Ontario",
+    "provinceShort": "ON",
+    "population": 141875,
+    "lat": 43.1594,
+    "lng": -79.2469
+  },
+  {
+    "slug": "kelowna",
+    "nameEn": "Kelowna",
+    "nameFr": "Kelowna",
+    "province": "British Columbia",
+    "provinceShort": "BC",
+    "population": 144576,
+    "lat": 49.888,
+    "lng": -119.496
+  },
+  {
+    "slug": "abbotsford",
+    "nameEn": "Abbotsford",
+    "nameFr": "Abbotsford",
+    "province": "British Columbia",
+    "provinceShort": "BC",
+    "population": 153524,
+    "lat": 49.0504,
+    "lng": -122.3045
+  },
+  {
+    "slug": "burnaby",
+    "nameEn": "Burnaby",
+    "nameFr": "Burnaby",
+    "province": "British Columbia",
+    "provinceShort": "BC",
+    "population": 249125,
+    "lat": 49.2488,
+    "lng": -122.9805
+  },
+  {
+    "slug": "richmond-bc",
+    "nameEn": "Richmond",
+    "nameFr": "Richmond",
+    "province": "British Columbia",
+    "provinceShort": "BC",
+    "population": 209937,
+    "lat": 49.1666,
+    "lng": -123.1336
+  },
+  {
+    "slug": "barrie",
+    "nameEn": "Barrie",
+    "nameFr": "Barrie",
+    "province": "Ontario",
+    "provinceShort": "ON",
+    "population": 153356,
+    "lat": 44.3894,
+    "lng": -79.6903
+  },
+  {
+    "slug": "oshawa",
+    "nameEn": "Oshawa",
+    "nameFr": "Oshawa",
+    "province": "Ontario",
+    "provinceShort": "ON",
+    "population": 166000,
+    "lat": 43.8971,
+    "lng": -78.8658
+  },
+  {
+    "slug": "cambridge",
+    "nameEn": "Cambridge",
+    "nameFr": "Cambridge",
+    "province": "Ontario",
+    "provinceShort": "ON",
+    "population": 138000,
+    "lat": 43.3616,
+    "lng": -80.3144
+  },
+  {
+    "slug": "greater-sudbury",
+    "nameEn": "Greater Sudbury",
+    "nameFr": "Grand Sudbury",
+    "province": "Ontario",
+    "provinceShort": "ON",
+    "population": 166004,
+    "lat": 46.4917,
+    "lng": -80.993
+  },
+  {
+    "slug": "kingston",
+    "nameEn": "Kingston",
+    "nameFr": "Kingston",
+    "province": "Ontario",
+    "provinceShort": "ON",
+    "population": 132485,
+    "lat": 44.2312,
+    "lng": -76.486
+  },
+  {
+    "slug": "thunder-bay",
+    "nameEn": "Thunder Bay",
+    "nameFr": "Thunder Bay",
+    "province": "Ontario",
+    "provinceShort": "ON",
+    "population": 107909,
+    "lat": 48.3809,
+    "lng": -89.2477
+  },
+  {
+    "slug": "fredericton",
+    "nameEn": "Fredericton",
+    "nameFr": "Fredericton",
+    "province": "New Brunswick",
+    "provinceShort": "NB",
+    "population": 63116,
+    "lat": 45.9636,
+    "lng": -66.6431
+  },
+  {
+    "slug": "moncton",
+    "nameEn": "Moncton",
+    "nameFr": "Moncton",
+    "province": "New Brunswick",
+    "provinceShort": "NB",
+    "population": 79470,
+    "lat": 46.0878,
+    "lng": -64.7782
+  },
+  {
+    "slug": "saint-john",
+    "nameEn": "Saint John",
+    "nameFr": "Saint John",
+    "province": "New Brunswick",
+    "provinceShort": "NB",
+    "population": 69895,
+    "lat": 45.2733,
+    "lng": -66.0633
+  },
+  {
+    "slug": "charlottetown",
+    "nameEn": "Charlottetown",
+    "nameFr": "Charlottetown",
+    "province": "Prince Edward Island",
+    "provinceShort": "PE",
+    "population": 40000,
+    "lat": 46.2382,
+    "lng": -63.1311
+  },
+  {
+    "slug": "st-johns-nl",
+    "nameEn": "St. John's",
+    "nameFr": "St. John's",
+    "province": "Newfoundland & Labrador",
+    "provinceShort": "NL",
+    "population": 110525,
+    "lat": 47.5615,
+    "lng": -52.7126
+  },
+  {
+    "slug": "lethbridge",
+    "nameEn": "Lethbridge",
+    "nameFr": "Lethbridge",
+    "province": "Alberta",
+    "provinceShort": "AB",
+    "population": 98406,
+    "lat": 49.6956,
+    "lng": -112.8451
+  },
+  {
+    "slug": "red-deer",
+    "nameEn": "Red Deer",
+    "nameFr": "Red Deer",
+    "province": "Alberta",
+    "provinceShort": "AB",
+    "population": 100418,
+    "lat": 52.2681,
+    "lng": -113.8112
+  },
+  {
+    "slug": "guelph",
+    "nameEn": "Guelph",
+    "nameFr": "Guelph",
+    "province": "Ontario",
+    "provinceShort": "ON",
+    "population": 132397,
+    "lat": 43.5448,
+    "lng": -80.2482
+  },
+  {
+    "slug": "whitehorse",
+    "nameEn": "Whitehorse",
+    "nameFr": "Whitehorse",
+    "province": "Yukon",
+    "provinceShort": "YT",
+    "population": 28201,
+    "lat": 60.7212,
+    "lng": -135.0568
+  },
+  {
+    "slug": "nanaimo",
+    "nameEn": "Nanaimo",
+    "nameFr": "Nanaimo",
+    "province": "British Columbia",
+    "provinceShort": "BC",
+    "population": 99863,
+    "lat": 49.1659,
+    "lng": -123.9401
+  },
+  {
+    "slug": "prince-george",
+    "nameEn": "Prince George",
+    "nameFr": "Prince George",
+    "province": "British Columbia",
+    "provinceShort": "BC",
+    "population": 74003,
+    "lat": 53.9171,
+    "lng": -122.7497
+  },
+  {
+    "slug": "trois-rivieres",
+    "nameEn": "Trois-Rivières",
+    "nameFr": "Trois-Rivières",
+    "province": "Quebec",
+    "provinceShort": "QC",
+    "population": 139600,
+    "lat": 46.3432,
+    "lng": -72.5418
+  },
+  {
+    "slug": "sherbrooke",
+    "nameEn": "Sherbrooke",
+    "nameFr": "Sherbrooke",
+    "province": "Quebec",
+    "provinceShort": "QC",
+    "population": 172950,
+    "lat": 45.4041,
+    "lng": -71.8929
+  },
+  {
+    "slug": "saguenay",
+    "nameEn": "Saguenay",
+    "nameFr": "Saguenay",
+    "province": "Quebec",
+    "provinceShort": "QC",
+    "population": 157790,
+    "lat": 48.4284,
+    "lng": -71.0647
+  },
+  {
+    "slug": "gatineau",
+    "nameEn": "Gatineau",
+    "nameFr": "Gatineau",
+    "province": "Quebec",
+    "provinceShort": "QC",
+    "population": 291041,
+    "lat": 45.4765,
+    "lng": -75.7013
+  },
+  {
+    "slug": "markham",
+    "nameEn": "Markham",
+    "nameFr": "Markham",
+    "province": "Ontario",
+    "provinceShort": "ON",
+    "population": 338503,
+    "lat": 43.8561,
+    "lng": -79.337
+  },
+  {
+    "slug": "burlington",
+    "nameEn": "Burlington",
+    "nameFr": "Burlington",
+    "province": "Ontario",
+    "provinceShort": "ON",
+    "population": 186948,
+    "lat": 43.3255,
+    "lng": -79.799
+  },
+  {
+    "slug": "laval",
+    "nameEn": "Laval",
+    "nameFr": "Laval",
+    "province": "Quebec",
+    "provinceShort": "QC",
+    "population": 438366,
+    "lat": 45.6066,
+    "lng": -73.7124
+  }
+]

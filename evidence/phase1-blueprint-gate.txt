@@ -1,0 +1,83 @@
+═══════════════════════════════════════════
+  BLUEPRINT GATE — SEO Advisor 📊
+  Blueprint: /Users/vladimirproskurov/beast/projects/business/websites/skatestopper-ca/blueprint
+═══════════════════════════════════════════
+
+━━━ CHECK 1: Required Files ━━━
+  ✅ config.json
+  ✅ products.json
+  ✅ industries.json
+  ✅ translations-en.json
+  ✅ translations-fr.json
+  ✅ keywords.json
+  ✅ meta-templates.json (at blueprint/meta-templates.json)
+  ✅ sitemap-plan.json (at blueprint/sitemap-plan.json)
+
+━━━ CHECK 2: config.json Schema ━━━
+  ✅ domain present
+  ✅ brand name present (brandName/siteName/logoText)
+  ✅ brand colors present
+  ✅ locale config present
+  ✅ city config present
+
+━━━ CHECK 3: Data Field Names ━━━
+  ✅ products.json uses nameEn
+  ✅ products.json uses nameFr
+  📦 Product count: 6
+  ✅ industries.json uses nameEn
+  🏢 Industry count: 7
+
+━━━ CHECK 4: Keyword Data Quality ━━━
+  📊 Keyword count: 136
+  ✅ Keyword count sufficient
+  ✅ Volume data looks API-sourced
+
+━━━ CHECK 5: French Content Quality ━━━
+  EN size: 3625b, FR size: 3625b
+  ✅ French translations exist
+  ✅ French content differs from English (186 diff lines)
+  ✅ Canadian French markers found
+
+━━━ CHECK 6: API Cost Tracking ━━━
+  ✅ API cost/research log found
+  💰 Total API cost: $unknown
+
+━━━ CHECK 7: Meta Templates ━━━
+  ✅ Meta templates found (12 entries) at meta-templates.json
+  ✅ French meta templates present
+
+━━━ CHECK 8: Sitemap Plan ━━━
+  ✅ Sitemap plan found (~9 URLs) at sitemap-plan.json
+  ⚠️ Low URL count (9) — expected 50+ for city×product grid
+
+━━━ CHECK 9: Content Depth ━━━
+  ✅ All product descriptions ≥50 words (JSON or content/*.md)
+
+━━━ CHECK 10: Slug Uniqueness ━━━
+  ✅ All 13 slugs unique
+
+━━━ CHECK 11: Research Depth (API Spend) ━━━
+  💰 Total API spend: $0.00
+  ⚠️ Spend < $1.00 — low research depth (budget is $5/site)
+
+━━━ CHECK 12: Extended Blueprint Files ━━━
+  ✅ faqs.json exists (16 items)
+  ✅ competitors.json exists (23 items)
+
+━━━ CHECK 13: City Content Uniqueness ━━━
+  ⚠️ No city-content-hooks.json found
+
+━━━ CHECK 14: Design & Conversion Files ━━━
+  ✅ design-hints.json exists
+  ✅ conversion-spec.json exists
+  ✅ meta-templates.json exists
+    ⚠️ Meta templates lack derivedFrom — may be generic
+
+━━━ CHECK 15: Content Depth (150 word min) ━━━
+  ✅ products: all 6 items ≥150 words (JSON or content/*.md)
+  ✅ industries: all 7 items ≥150 words (JSON or content/*.md)
+
+═══════════════════════════════════════════
+  ✅ BLUEPRINT GATE: PASS (3 warnings)
+  Blueprint ready for Prism audit.
+═══════════════════════════════════════════

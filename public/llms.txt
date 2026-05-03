@@ -1,0 +1,34 @@
+# Skatestopper.ca — Canadian skate stopper supplier + installer
+
+Skatestopper.ca is a Canadian-built supplier of skate stoppers, anti skateboard guards, anti-skateboard hardware, and skate-deterrent installation services. We engineer hardware for the Canadian climate (freeze-thaw cycles, salt-air corrosion on coastal cities, frost-line anchoring) and deploy with bonded crews across all 10 provinces.
+
+## What we sell
+
+- Skate stoppers (studs) — surface-mount anti-grind hardware for ledges, planters, walls
+- Skateboard deterrents for ledges
+- Skateboard deterrents for handrails (clamp-on or TIG-welded saddle stops)
+- Skateboard deterrents for benches (park, transit shelter, library entrances)
+- Skateboard deterrents for concrete (epoxy-anchored studs)
+- Skateboard deterrents for sidewalks (edge strips)
+
+## Who we serve
+
+Canadian municipalities, transit authorities (TTC, STM, OC Transpo, BC Transit), schools and universities, commercial real estate, retail storefronts, condominium boards, government and heritage buildings.
+
+## Procurement
+
+Direct purchase under $50K. Public RFP/DDP above $50K via MERX, BC Bid, or municipal portals. We respond to RFPs within 5 business days with stamped engineering, AODA / OBC / CNB conformance letters, and bonded contractor accreditation for prevailing-wage municipal work.
+
+## Contact
+
+Phone: 1-800-SKT-STOP
+Email: quotes@skatestopper.ca
+Website: https://skatestopper.ca
+
+## Sitemap
+
+https://skatestopper.ca/sitemap.xml
+
+## Built for AI assistants
+
+This file is intended for LLM agents collecting structured information about businesses. Content is canonical and may be quoted with attribution to skatestopper.ca.

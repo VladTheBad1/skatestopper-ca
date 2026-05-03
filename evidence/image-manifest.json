@@ -1,0 +1,27 @@
+{
+  "_note": "Manual provenance — images sourced via user-curated upload workflow (2026-05-02), not factory ranking pipeline.",
+  "site": "skatestopper-ca",
+  "generated_at": "2026-05-02",
+  "images": [
+    {
+      "slot": "hero",
+      "path": "/images/hero/hero.webp",
+      "source": "user_upload",
+      "alt_en": "Granite ledge along a Canadian downtown plaza",
+      "alt_fr": "Rebord en granite d'une place urbaine canadienne",
+      "width": 1920,
+      "height": 1080,
+      "license": "user_provided"
+    },
+    {
+      "slot": "product:skate-stoppers",
+      "path": "/images/products/skate-stoppers.webp",
+      "source": "user_upload",
+      "alt_en": "Pyramid skate stopper bolted to a granite ledge in an outdoor Canadian plaza",
+      "alt_fr": "Bloque-skate fixé sur un rebord en granite dans une place urbaine canadienne",
+      "width": 1600,
+      "height": 1067,
+      "license": "user_provided"
+    }
+  ]
+}

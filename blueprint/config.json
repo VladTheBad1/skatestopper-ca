@@ -1,0 +1,125 @@
+{
+  "domain": "skatestopper.ca",
+  "brandName": "SkateStopper.ca",
+  "brandShort": "SkateStopper",
+  "tagline": "Anti-skateboarding hardware engineered for Canadian property owners",
+  "taglineFr": "Matériel anti-planche à roulettes conçu pour les propriétaires canadiens",
+  "niche": "skate-stoppers",
+  "nicheEn": "skate stoppers and anti-skateboarding deterrents",
+  "nicheFr": "bloque-skate et dissuasifs anti-planche à roulettes",
+  "customerVocabulary": [
+    "bus-shelters",
+    "chloride",
+    "concrete",
+    "bus shelter",
+    "transit shelter",
+    "abribus",
+    "transit authority",
+    "corrosion",
+    "béton",
+    "heritage",
+    "patrimoine",
+    "granite",
+    "limestone",
+    "calcaire"
+  ],
+  "descriptionEn": "Canadian-built skate stoppers, ledge deterrents, and handrail stops. Engineered for our climate, shipped and installed coast to coast.",
+  "descriptionFr": "Bloque-skate, dissuasifs de rebords et arrêts de mains courantes fabriqués au Canada. Conçus pour notre climat, livrés et installés d'un océan à l'autre.",
+  "phone": "1-800-SKT-STOP",
+  "phoneRaw": "18007587867",
+  "email": "quotes@skatestopper.ca",
+  "address": {
+    "city": "Toronto",
+    "province": "Ontario",
+    "country": "Canada",
+    "postalCode": "M5V 2H1",
+    "serviceArea": "Canada-wide"
+  },
+  "openingHours": "Mo-Fr 08:00-17:00 ET",
+  "brand": {
+    "primary": "#1a1a1a",
+    "secondary": "#c8102e",
+    "accent": "#7d8085",
+    "primaryColor": "#1a1a1a",
+    "secondaryColor": "#c8102e",
+    "accentColor": "#7d8085",
+    "logoText": "SkateStopper"
+  },
+  "primaryColor": "#1a1a1a",
+  "brandColor": "#1a1a1a",
+  "accentColor": "#c8102e",
+  "pricing": {
+    "basePrice": 24,
+    "priceRange": "$24-$180 per unit installed",
+    "currency": "CAD",
+    "quoteOnly": true
+  },
+  "keywords": [
+    "skate stoppers",
+    "skatestoppers",
+    "anti skateboard",
+    "anti skateboarding",
+    "skate deterrent",
+    "skateboard deterrent",
+    "skateboard deterrent for concrete",
+    "skateboard deterrents for walls",
+    "skateboard deterrents for benches",
+    "skateboard deterrents for sidewalks",
+    "handrail skate stoppers",
+    "skate stoppers price",
+    "skate stopper installation",
+    "stainless steel skate deterrents"
+  ],
+  "googleVerification": "",
+  "locales": [
+    "en",
+    "fr"
+  ],
+  "primaryLocale": "en",
+  "secondaryLocale": "fr",
+  "country": "CA",
+  "currency": "CAD",
+  "profile": "C",
+  "dataMinimums": {
+    "products": 6,
+    "keywordPages": 6,
+    "industries": 7
+  },
+  "_dataMinimumsRationale": "Skate-deterrent niche has 35 keywords / 1310 total Canadian monthly volume. Padding to 8 products would force inclusion of zero-volume slugs (the exact failure mode that triggered the 2026-05-02 restructure). Threshold lowered to match validated demand.",
+  "slugIntentExemptions": {
+    "industries": true
+  },
+  "_slugIntentRationale": "B2B procurement niche: industries are buyer categories (transit authority, municipality, school) not consumer search queries. DataForSEO 2026-05-02 confirmed no <industry> <product> combination has volume in Canada.",
+  "urlPattern": "flat",
+  "_urlPatternRationale": "Site uses [slug]/page.tsx mega-route — products, industries, cities, keyword pages all resolve at /<slug>. Nested URL pattern (/products/<slug>) intentionally avoided per V6 archetype.",
+  "routes": {
+    "products": {
+      "en": "/products",
+      "fr": "/fr/produits"
+    },
+    "industries": {
+      "en": "/industries",
+      "fr": "/fr/secteurs"
+    },
+    "cities": {
+      "en": "/cities",
+      "fr": "/fr/villes"
+    },
+    "blog": {
+      "en": "/blog",
+      "fr": "/fr/blogue"
+    },
+    "contact": {
+      "en": "/contact",
+      "fr": "/fr/nous-joindre"
+    },
+    "about": {
+      "en": "/about",
+      "fr": "/fr/a-propos"
+    },
+    "faq": {
+      "en": "/faq",
+      "fr": "/fr/faq"
+    }
+  }
+}

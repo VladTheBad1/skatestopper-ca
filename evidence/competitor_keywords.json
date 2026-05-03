@@ -1,0 +1,37 @@
+{
+  "www.skatestoppers.com": [
+    {
+      "keyword": "skate stoppers",
+      "volume": 90,
+      "cpc": null,
+      "rank": 1
+    }
+  ],
+  "preventer.ca": [
+    {
+      "keyword": "preventer",
+      "volume": 70,
+      "cpc": null,
+      "rank": 8
+    },
+    {
+      "keyword": "anti skateboarding",
+      "volume": 110,
+      "cpc": 0.019999999552965164,
+      "rank": 15
+    },
+    {
+      "keyword": "skate stoppers",
+      "volume": 90,
+      "cpc": null,
+      "rank": 15
+    },
+    {
+      "keyword": "slip sign",
+      "volume": 70,
+      "cpc": 5.090000152587891,
+      "rank": 18
+    }
+  ],
+  "www.parkwarehouse.com": []
+}

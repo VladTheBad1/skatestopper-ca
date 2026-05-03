@@ -1,0 +1,55 @@
+{
+  "domain": "skatestopper.ca",
+  "locales": ["en", "fr"],
+  "primaryLocale": "en",
+  "routePatterns": {
+    "homepage": { "en": "/", "fr": "/fr" },
+    "productsHub": { "en": "/products", "fr": "/fr/produits" },
+    "productDetail": { "en": "/products/{slug}", "fr": "/fr/produits/{slug}" },
+    "industriesHub": { "en": "/industries", "fr": "/fr/industries" },
+    "industryDetail": { "en": "/industries/{slug}", "fr": "/fr/industries/{slug}" },
+    "citiesHub": { "en": "/cities", "fr": "/fr/villes" },
+    "cityDetail": { "en": "/cities/{slug}", "fr": "/fr/villes/{slug}" },
+    "geoCross": { "en": "/{city}/{product-slug}", "fr": "/fr/{city}/{product-slug}" },
+    "blogHub": { "en": "/blog", "fr": "/fr/guides" },
+    "blogPost": { "en": "/blog/{slug}", "fr": "/fr/guides/{slug}" },
+    "keywordPage": { "en": "/{slug}", "fr": "/fr/{slug-fr}" },
+    "faq": { "en": "/faq", "fr": "/fr/faq" },
+    "contact": { "en": "/contact", "fr": "/fr/contact" },
+    "about": { "en": "/about", "fr": "/fr/a-propos" },
+    "privacy": { "en": "/privacy", "fr": "/fr/confidentialite" },
+    "terms": { "en": "/terms", "fr": "/fr/conditions" }
+  },
+  "staticRoutes": [
+    "/", "/products", "/industries", "/cities", "/blog", "/faq", "/contact", "/about", "/privacy", "/terms"
+  ],
+  "dynamicRoutes": {
+    "productDetail": 6,
+    "industryDetail": 7,
+    "cityDetail": 15,
+    "geoCross": 90,
+    "blogPost": 4,
+    "keywordPage": 8
+  },
+  "totals": {
+    "uniquePagesEn": 140,
+    "uniquePagesFr": 140,
+    "totalIndexable": 280,
+    "comment": "Profile C build, focused 15 cities, 6 products. ~280 indexable pages × 2 locales. Well under doorway-page risk threshold."
+  },
+  "internalLinkingModel": {
+    "homepage": "Links to all hubs (products, industries, cities, blog, contact)",
+    "productDetail": "Links to industries it serves + 6+ city pages (geo cross matrix)",
+    "industryDetail": "Links to relevant products + city pages",
+    "cityDetail": "Links to all 6 product geo pages for that city + 2-3 nearby cities",
+    "geoCross": "Links to city hub + product hub + 2-3 related geo pages + contact",
+    "blogPost": "Links to relevant products, industries, cities + 1-2 sibling articles",
+    "keywordPage": "Links to underlying product/industry/city per intent",
+    "every": "Links to locale alternate via hreflang"
+  },
+  "hreflang": {
+    "en": "en-CA",
+    "fr": "fr-CA",
+    "xDefault": "en-CA"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "slug": "skatestopper-ca",
+  "domain": "skatestopper.ca",
+  "profile": "C",
+  "mode": "build",
+  "status": "running",
+  "phases": [
+    {
+      "id": 1,
+      "name": "research",
+      "status": "done",
+      "details": "Phase 1 blueprint-gate PASS — 6 products, 7 industries, 15 cities, 16 FAQs, 8 keyword pages, configs + translations EN+FR",
+      "completedAt": "2026-04-27T03:53:48.000Z"
+    },
+    {
+      "id": 2,
+      "name": "content",
+      "status": "done",
+      "completedAt": "2026-04-27T04:15:20.000Z",
+      "details": "Phase 2 content-gate PASS — full ≥400-word product descs (6), ≥350-word industry descs (7), ≥150-word city descs w/ unique ## headings (15), ≥100-word FAQ answers (16), about page, 5 testimonials, 4 blog stubs, content-research-notes.md w/ 250+ lines"
+    },
+    {
+      "id": 3,
+      "name": "assembly",
+      "status": "done",
+      "startedAt": "2026-04-27T04:32:38.000Z",
+      "details": "Phase 3 done — dev server LIVE on localhost:3200, all 21 tested route types HTTP 200 (homepage, products, industries, cities, geo-cross, blog, about, FAQ, contact, FR locale, keyword pages). 15 cities filled in locations.ts (51KB, full uniqueness fields). 3 utility functions added. Address nested object added to siteConfig. Production build still has data-shape mismatches Pixel will harden in Phase 5; dev-mode functional NOW.",
+      "completedAt": "2026-04-27T04:38:03.000Z"
+    },
+    {
+      "id": 4,
+      "name": "images",
+      "status": "pending"
+    },
+    {
+      "id": 5,
+      "name": "design",
+      "status": "pending"
+    },
+    {
+      "id": 6,
+      "name": "qa",
+      "status": "pending"
+    },
+    {
+      "id": 7,
+      "name": "ship",
+      "status": "pending"
+    }
+  ],
+  "created_at": "2026-04-27T03:45:30.000Z",
+  "buildLog": [
+    {
+      "step": 1,
+      "label": "Phase 1 blueprint-gate PASS — 6 products, 7 industries, 15 cities, 16 FAQs, 8 keyword pages, configs + translations EN+FR",
+      "phase": "research",
+      "timestamp": "2026-04-27T03:53:48.000Z",
+      "status": "done"
+    },
+    {
+      "step": 2,
+      "label": "Phase 2 content-gate PASS — full ≥400-word product descs (6), ≥350-word industry descs (7), ≥150-word city descs w/ unique ## headings (15), ≥100-word FAQ answers (16), about page, 5 testimonials, 4 blog stubs, content-research-notes.md w/ 250+ lines",
+      "phase": "content",
+      "timestamp": "2026-04-27T04:15:20.000Z",
+      "status": "done"
+    },
+    {
+      "step": 3,
+      "label": "Phase 3 done — dev server LIVE on localhost:3200, all 21 tested route types HTTP 200 (homepage, products, industries, cities, geo-cross, blog, about, FAQ, contact, FR locale, keyword pages). 15 cities filled in locations.ts (51KB, full uniqueness fields). 3 utility functions added. Address nested object added to siteConfig. Production build still has data-shape mismatches Pixel will harden in Phase 5; dev-mode functional NOW.",
+      "phase": "assembly",
+      "timestamp": "2026-04-27T04:38:03.000Z",
+      "status": "done"
+    }
+  ]
+}

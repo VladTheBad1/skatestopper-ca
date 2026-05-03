@@ -1,0 +1,39 @@
+{
+  "brandTone": "Industrial-credible. Specifications-forward. Quietly confident, not aggressive. We sell engineering, not anti-skater rhetoric. Avoid 'gotcha' framing — the buyer is a property manager or city planner solving a maintenance problem, not a skater-hater.",
+  "audience": "Primary: facilities managers, transit-authority spec writers, school plant operations, condo board chairs, heritage conservation officers. Secondary: architects specifying built-in deterrents at design phase.",
+  "competitorReferences": {
+    "preventer.ca": "Closest Canadian competitor. Their tone is technical-clinical. We can be similar but slightly warmer. Their site is dated — opportunity for cleaner UX.",
+    "www.skatestoppers.com": "US incumbent — generic global. We win on Canadian climate specs and bilingual.",
+    "www.maglin.com": "Site furniture brand (benches/bins) — adjacent. Our deterrents fit on their hardware. Reference for tasteful industrial photography.",
+    "classic-arch.com": "Architectural product catalog. Reference for product detail pages with specs."
+  },
+  "globalIdentity": {
+    "colorMood": "Industrial steel + safety-orange accent. Charcoal #1a1a1a primary, red #c8102e accent (Canadian-flag-coded), warm grey #7d8085 secondary. Avoid skater-aesthetic / graffiti / urban-grunge — wrong audience.",
+    "typography": "Sans-serif primary (Inter or similar). Geometric, slightly condensed for headlines. No display-serif. No script.",
+    "imagery": "Real product installs in Canadian context: TTC bus shelter, Vancouver waterfront, heritage Quebec stone. Macro shots of hardware. Worker-installation in-progress shots. NO skater-on-rail before/after composites — too aggressive.",
+    "antiPatterns": [
+      "Stock skater-doing-trick photos",
+      "Graffiti background textures",
+      "Lock-and-chain / no-trespassing signage aesthetic",
+      "Aggressive headlines like 'Stop them dead' or 'Skater-proof'",
+      "Generic stock photography of generic urban scenes",
+      "US-flag color cues"
+    ],
+    "doPatterns": [
+      "Crisp product macros — pyramid stud, dome, edge strip",
+      "Workers installing on real Canadian hardscape",
+      "Climate context (winter snow on installed hardware)",
+      "Heritage approval signoff documents (faux but plausible)",
+      "Side-by-side stainless-grade comparison"
+    ]
+  },
+  "heroStyle": "Split layout: full-bleed product macro on right (e.g., pyramid stud installed on granite), value-prop headline + 4-step CTA path on left. NOT a giant urban hero scene with text overlay.",
+  "signatureElement": "Animated grade-comparison slider on homepage — drag between '304 stainless (inland)' and '316 marine grade (coastal)' to see corrosion resistance after 10 years. Educational + memorable. Reinforces climate-aware positioning.",
+  "components": {
+    "ProductCard": "Macro hardware photo + product name + 1-line short + 'View specs' link. NO price (quote-only).",
+    "IndustryCard": "Real-context photo (transit bus shelter, school courtyard) + industry name + use-case bullets count.",
+    "CityGrid": "Map outline of Canada with 15 city pins + grid below. City detail card has population + transit authority + climate zone badge.",
+    "GradeBadge": "Visual chip: '304 / 316' with corrosion-resistance icon.",
+    "ClimateZoneBadge": "Visual chip showing Zone 4 (warm coast) → Zone 7B (deep cold) with frost-depth annotation."
+  }
+}

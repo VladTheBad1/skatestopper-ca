@@ -1,0 +1,1687 @@
+{
+  "ts": "2026-04-28T22:09:27.187190+00:00",
+  "seeds": [
+    "skate stoppers",
+    "skateboard deterrent",
+    "anti skateboarding"
+  ],
+  "location": "Canada",
+  "language": "en",
+  "count": 279,
+  "keywords": [
+    {
+      "keyword": "skate stoppers",
+      "volume": 90,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "skateboard deterrent",
+      "volume": 10,
+      "cpc": 0.78,
+      "competition": "MEDIUM"
+    },
+    {
+      "keyword": "anti skateboarding",
+      "volume": 110,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "grimple stix",
+      "volume": 70,
+      "cpc": 0.52,
+      "competition": "MEDIUM"
+    },
+    {
+      "keyword": "anti hero deck",
+      "volume": 70,
+      "cpc": 0.38,
+      "competition": "HIGH"
+    },
+    {
+      "keyword": "skateboard deterrent for concrete",
+      "volume": 10,
+      "cpc": null,
+      "competition": "HIGH"
+    },
+    {
+      "keyword": "jeff grosso deck",
+      "volume": 20,
+      "cpc": 1.15,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "skate deterrents",
+      "volume": 20,
+      "cpc": 0.23,
+      "competition": "MEDIUM"
+    },
+    {
+      "keyword": "skateboard stoppers",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "anti hero 8.75",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "anti hero skateboards clothing",
+      "volume": 10,
+      "cpc": null,
+      "competition": "MEDIUM"
+    },
+    {
+      "keyword": "anti hero 8.5",
+      "volume": 10,
+      "cpc": null,
+      "competition": "MEDIUM"
+    },
+    {
+      "keyword": "anti hero skateboard decks",
+      "volume": 70,
+      "cpc": 0.38,
+      "competition": "HIGH"
+    },
+    {
+      "keyword": "antihero skateboard",
+      "volume": 210,
+      "cpc": 0.42,
+      "competition": "MEDIUM"
+    },
+    {
+      "keyword": "grimple stix skateboards",
+      "volume": 20,
+      "cpc": 0.19,
+      "competition": "MEDIUM"
+    },
+    {
+      "keyword": "anti hero 8.25",
+      "volume": 10,
+      "cpc": 0.21,
+      "competition": "HIGH"
+    },
+    {
+      "keyword": "skateboard deterrents for concrete",
+      "volume": 10,
+      "cpc": null,
+      "competition": "MEDIUM"
+    },
+    {
+      "keyword": "skate stopper",
+      "volume": 90,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "anti hero skateboards hat",
+      "volume": 20,
+      "cpc": 0.2,
+      "competition": "HIGH"
+    },
+    {
+      "keyword": "skateboard deterrents for walls",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti hero complete skateboard",
+      "volume": 10,
+      "cpc": 0.36,
+      "competition": "HIGH"
+    },
+    {
+      "keyword": "anti hero shaped deck",
+      "volume": 10,
+      "cpc": 0.29,
+      "competition": "HIGH"
+    },
+    {
+      "keyword": "anti hero 8.5 deck",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "grosso deck",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti hero skateboards hoodie",
+      "volume": 10,
+      "cpc": 0.48,
+      "competition": "HIGH"
+    },
+    {
+      "keyword": "anti hero boards",
+      "volume": 480,
+      "cpc": 0.33,
+      "competition": "HIGH"
+    },
+    {
+      "keyword": "skateboard deterrents for benches",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "antihero skateboards clothing",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "stainless steel skateboard deterrents",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "anti hero skate deck",
+      "volume": 10,
+      "cpc": null,
+      "competition": "HIGH"
+    },
+    {
+      "keyword": "anti hero 9 inch deck",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "antihero skate",
+      "volume": 70,
+      "cpc": 1.17,
+      "competition": "MEDIUM"
+    },
+    {
+      "keyword": "john cardiel deck",
+      "volume": 10,
+      "cpc": null,
+      "competition": "HIGH"
+    },
+    {
+      "keyword": "skateboard deterrents for sidewalks",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "anti hero 8.38",
+      "volume": 10,
+      "cpc": null,
+      "competition": "MEDIUM"
+    },
+    {
+      "keyword": "anti hero 8.25 deck",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti hero 9.0 deck",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "antihero skateboards hat",
+      "volume": 10,
+      "cpc": 0.17,
+      "competition": "MEDIUM"
+    },
+    {
+      "keyword": "anti hero grosso deck",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "anti hero eagle deck",
+      "volume": 10,
+      "cpc": null,
+      "competition": "MEDIUM"
+    },
+    {
+      "keyword": "antihero skateboard deck",
+      "volume": 10,
+      "cpc": null,
+      "competition": "MEDIUM"
+    },
+    {
+      "keyword": "anti hero deck 8.5",
+      "volume": 10,
+      "cpc": null,
+      "competition": "HIGH"
+    },
+    {
+      "keyword": "antihero green giant",
+      "volume": 10,
+      "cpc": null,
+      "competition": "MEDIUM"
+    },
+    {
+      "keyword": "anti hero grimple stix",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "antihero skateboards hoodie",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti hero blue meanie",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "anti hero 8.75 deck",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti hero deck 8.25",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "handrail skateboard deterrents",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "anti hero classic eagle",
+      "volume": 10,
+      "cpc": null,
+      "competition": "MEDIUM"
+    },
+    {
+      "keyword": "grant taylor deck",
+      "volume": 10,
+      "cpc": null,
+      "competition": "HIGH"
+    },
+    {
+      "keyword": "anti hero huffer",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "anti hero 8.62",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti hero cardiel deck",
+      "volume": 10,
+      "cpc": null,
+      "competition": "HIGH"
+    },
+    {
+      "keyword": "grosso skateboard deck",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "skatestopper",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "anti hero grant taylor deck",
+      "volume": 10,
+      "cpc": null,
+      "competition": "HIGH"
+    },
+    {
+      "keyword": "anti hero 8.6",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti hero complete",
+      "volume": 10,
+      "cpc": null,
+      "competition": "MEDIUM"
+    },
+    {
+      "keyword": "anti hero skateboards 8.5",
+      "volume": 10,
+      "cpc": null,
+      "competition": "HIGH"
+    },
+    {
+      "keyword": "brian anderson anti hero deck",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "8.25 anti hero",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "8.25 anti hero deck",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "8.75 anti hero",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "andy roy anti hero",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "andy roy anti hero deck",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti gravity skateboard",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "anti hero 7.75",
+      "volume": 10,
+      "cpc": 0.18,
+      "competition": "HIGH"
+    },
+    {
+      "keyword": "anti hero 8.0",
+      "volume": 10,
+      "cpc": 0.5,
+      "competition": "HIGH"
+    },
+    {
+      "keyword": "anti hero 8.0 deck",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti hero 8.06",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti hero 8.12",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti hero 8.125",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "anti hero 8.28",
+      "volume": 10,
+      "cpc": null,
+      "competition": "MEDIUM"
+    },
+    {
+      "keyword": "anti hero 8.38 deck",
+      "volume": 10,
+      "cpc": null,
+      "competition": "HIGH"
+    },
+    {
+      "keyword": "anti hero 9.25",
+      "volume": 10,
+      "cpc": 0.14,
+      "competition": "HIGH"
+    },
+    {
+      "keyword": "anti hero anderson deck",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti hero austin kanfoush",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti hero beach bum deck",
+      "volume": 10,
+      "cpc": null,
+      "competition": "HIGH"
+    },
+    {
+      "keyword": "anti hero beres",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti hero beres deck",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti hero blue meanie deck",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "anti hero brand",
+      "volume": 10,
+      "cpc": null,
+      "competition": "MEDIUM"
+    },
+    {
+      "keyword": "anti hero brian anderson",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "anti hero brian anderson deck",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "anti hero cardiel",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti hero chris pfanner",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti hero classic eagle 7.75",
+      "volume": 0,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti hero classic eagle 8.25",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti hero classic eagle 8.5",
+      "volume": 10,
+      "cpc": 0.43,
+      "competition": "HIGH"
+    },
+    {
+      "keyword": "anti hero classic eagle 8.75",
+      "volume": 10,
+      "cpc": 0.23,
+      "competition": "HIGH"
+    },
+    {
+      "keyword": "anti hero classic eagle deck",
+      "volume": 10,
+      "cpc": null,
+      "competition": "MEDIUM"
+    },
+    {
+      "keyword": "anti hero concave",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "anti hero copier eagle",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti hero copier eagle deck",
+      "volume": 0,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti hero cruiser deck",
+      "volume": 10,
+      "cpc": 0.19,
+      "competition": "HIGH"
+    },
+    {
+      "keyword": "anti hero curb crusher",
+      "volume": 0,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti hero curb pit deck",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti hero daan van der linden",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti hero deck 8.0",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti hero deck 8.38",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti hero deck review",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti hero eagle 8.5",
+      "volume": 10,
+      "cpc": 0.01,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "anti hero eagle 8.75",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "anti hero frank gerwer",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "anti hero gerwer",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti hero grant taylor",
+      "volume": 10,
+      "cpc": null,
+      "competition": "MEDIUM"
+    },
+    {
+      "keyword": "anti hero green giant 9.56",
+      "volume": 0,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti hero green giant deck",
+      "volume": 10,
+      "cpc": null,
+      "competition": "MEDIUM"
+    },
+    {
+      "keyword": "anti hero grimple",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti hero grimple stix true full",
+      "volume": 0,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti hero grosso 9.25",
+      "volume": 10,
+      "cpc": null,
+      "competition": "MEDIUM"
+    },
+    {
+      "keyword": "anti hero huffer shape",
+      "volume": 10,
+      "cpc": 0.29,
+      "competition": "MEDIUM"
+    },
+    {
+      "keyword": "anti hero jeff grosso",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti hero jeff grosso deck",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti hero john cardiel",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "anti hero john cardiel deck",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "anti hero julien stranger",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "anti hero kanfoush",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "anti hero kanfoush deck",
+      "volume": 10,
+      "cpc": 0.11,
+      "competition": "MEDIUM"
+    },
+    {
+      "keyword": "anti hero lance mountain",
+      "volume": 10,
+      "cpc": null,
+      "competition": "MEDIUM"
+    },
+    {
+      "keyword": "anti hero mini skateboard",
+      "volume": 10,
+      "cpc": null,
+      "competition": "HIGH"
+    },
+    {
+      "keyword": "anti hero misregister",
+      "volume": 0,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti hero old yeller deck",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "anti hero pfanner",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti hero pfanner deck",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti hero pigeon deck",
+      "volume": 10,
+      "cpc": null,
+      "competition": "MEDIUM"
+    },
+    {
+      "keyword": "anti hero price point deck",
+      "volume": 0,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti hero raney beres",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "anti hero raney beres deck",
+      "volume": 10,
+      "cpc": 0.31,
+      "competition": "HIGH"
+    },
+    {
+      "keyword": "anti hero robbie russo",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "anti hero robbie russo deck",
+      "volume": 10,
+      "cpc": 1.03,
+      "competition": "HIGH"
+    },
+    {
+      "keyword": "anti hero russo",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti hero shaped",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti hero shaped eagle",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti hero skate brand",
+      "volume": 10,
+      "cpc": null,
+      "competition": "MEDIUM"
+    },
+    {
+      "keyword": "anti hero skate team",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "anti hero skate videos",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "anti hero skateboard graphics",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "anti hero skateboard logo",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "anti hero skateboard review",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti hero skateboard stickers",
+      "volume": 10,
+      "cpc": null,
+      "competition": "MEDIUM"
+    },
+    {
+      "keyword": "anti hero skateboard team",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "anti hero skateboard videos",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "anti hero skateboards 2013",
+      "volume": null,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti hero skateboards 2014",
+      "volume": null,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti hero skateboards 7.75",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti hero skateboards 8.0",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti hero skateboards 8.125",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti hero skateboards 8.25",
+      "volume": 10,
+      "cpc": null,
+      "competition": "HIGH"
+    },
+    {
+      "keyword": "anti hero skateboards 8.38",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti hero skateboards 8.75",
+      "volume": 10,
+      "cpc": 0.17,
+      "competition": "HIGH"
+    },
+    {
+      "keyword": "anti hero skateboards andy roy",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti hero skateboards apparel",
+      "volume": 10,
+      "cpc": null,
+      "competition": "MEDIUM"
+    },
+    {
+      "keyword": "anti hero skateboards beanie",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti hero skateboards brian anderson",
+      "volume": 10,
+      "cpc": 0.23,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "anti hero skateboards cap",
+      "volume": 20,
+      "cpc": 0.2,
+      "competition": "HIGH"
+    },
+    {
+      "keyword": "anti hero skateboards classic eagle",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti hero skateboards com",
+      "volume": 0,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti hero skateboards concave",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "anti hero skateboards eagle",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "anti hero skateboards flag",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti hero skateboards for sale",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "anti hero skateboards grant taylor",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti hero skateboards grimple stix",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti hero skateboards grosso",
+      "volume": 10,
+      "cpc": null,
+      "competition": "MEDIUM"
+    },
+    {
+      "keyword": "anti hero skateboards history",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "anti hero skateboards jacket",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "anti hero skateboards merch",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti hero skateboards owner",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "anti hero skateboards patch",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti hero skateboards pigeon",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "anti hero skateboards shop",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "anti hero skateboards sweatshirt",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti hero skateboards t shirts",
+      "volume": 10,
+      "cpc": 0.32,
+      "competition": "HIGH"
+    },
+    {
+      "keyword": "anti hero skateboards tattoo",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "anti hero skateboards team riders",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti hero skateboards trucker hat",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "anti hero skateboards wallpaper",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "anti hero skateboards website",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti hero skates",
+      "volume": 70,
+      "cpc": 1.17,
+      "competition": "MEDIUM"
+    },
+    {
+      "keyword": "anti hero space junk",
+      "volume": 10,
+      "cpc": 0.52,
+      "competition": "HIGH"
+    },
+    {
+      "keyword": "anti hero stranger deck",
+      "volume": 0,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti hero tony trujillo",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "anti hero trucks",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti hero trujillo deck",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti hero x grimple stix",
+      "volume": 0,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti skate deterrents",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "anti slip skateboard",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "anti social skate",
+      "volume": 40,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "anti social skate shop",
+      "volume": 170,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "anti social skateshop",
+      "volume": 170,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "anti social social club skateboard",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "antifashion skateboards",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "antihero 9.0",
+      "volume": 10,
+      "cpc": 0.19,
+      "competition": "HIGH"
+    },
+    {
+      "keyword": "antihero cruiser",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "antihero eagle",
+      "volume": 20,
+      "cpc": 0.11,
+      "competition": "MEDIUM"
+    },
+    {
+      "keyword": "antihero huffer",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "antihero shaped deck",
+      "volume": 10,
+      "cpc": 0.29,
+      "competition": "HIGH"
+    },
+    {
+      "keyword": "antihero skateboard team",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "antihero skateboards 8.25",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "antihero skateboards grosso",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "antihero skateboards logo",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "antihero skateboards pigeon",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "antihero skateboards shop",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "antihero team riders",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "antiheroskateboards com",
+      "volume": 0,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "antisocial skate",
+      "volume": 1000,
+      "cpc": 0.63,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "antisocial skateboard",
+      "volume": 40,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "austin kanfoush",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "austin kanfoush anti hero",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "blue anti hero deck",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "blue meanie anti hero",
+      "volume": 10,
+      "cpc": 0.13,
+      "competition": "MEDIUM"
+    },
+    {
+      "keyword": "bob burnquist anti hero",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "brian anderson anti hero",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "buy anti hero skateboards",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "chris pfanner anti hero",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "deck anti hero",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "eagle skateboard",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "frank gerwer anti hero",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "frank gerwer deck",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "frank gerwer grimple stix",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "gorilla skateboard deterrents",
+      "volume": 0,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "grant taylor anti hero deck",
+      "volume": 10,
+      "cpc": null,
+      "competition": "HIGH"
+    },
+    {
+      "keyword": "grimple mini beach bum",
+      "volume": 0,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "grimple nighthammer",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "grimple skate",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "grimple skateboard",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "grimple snips",
+      "volume": 0,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "grimple stix 8.75",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "grimple stix anti hero",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "grimple stix beach bum",
+      "volume": 10,
+      "cpc": null,
+      "competition": "MEDIUM"
+    },
+    {
+      "keyword": "grimple stix boards",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "grimple stix freestyle",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "grimple stix full",
+      "volume": 0,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "grimple stix gerwer",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "grimple stix hat",
+      "volume": 10,
+      "cpc": null,
+      "competition": "MEDIUM"
+    },
+    {
+      "keyword": "grimple stix hewitt",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "grimple stix logo",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "grimple stix night hammer",
+      "volume": 0,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "grimple stix nighthammer",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "grimple stix on vacation",
+      "volume": 0,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "grimple stix slick",
+      "volume": 0,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "grimple stix spacewalker",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "grimple stix sticker",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "grimple stix team",
+      "volume": 0,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "grimple stix true full",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "grimple stix true full 9.0",
+      "volume": 0,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "grimple stix truefull",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "grosso dagwood",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "handrail skate stoppers",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "jalopi skate co",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "jeff grosso boards",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "jeff grosso deck for sale",
+      "volume": 0,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "jeff grosso skateboard decks",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "john cardiel anti hero deck",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "julien stranger anti hero",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "kanfoush",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "meanie skateboards",
+      "volume": null,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "nighthammer skateboard",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "peter hewitt anti hero",
+      "volume": 0,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "raney beres skateboard",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "robbie russo anti hero",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "robbie russo skateboard",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "skate stoppers amazon",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "skate stoppers com",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "skate stoppers price",
+      "volume": 0,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "skateboard deck anti hero",
+      "volume": 10,
+      "cpc": null,
+      "competition": "MEDIUM"
+    },
+    {
+      "keyword": "skateboard deterrent products",
+      "volume": 0,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "skateboard eagle",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "skateboard grind stoppers",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "skateboard prevention",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "skatestoppers com",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "stainless steel skate deterrents",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "supreme antihero deck",
+      "volume": 10,
+      "cpc": null,
+      "competition": "HIGH"
+    },
+    {
+      "keyword": "the grimple stix",
+      "volume": 0,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "todd francis anti hero",
+      "volume": 10,
+      "cpc": null,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "tony miorana anti hero",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    },
+    {
+      "keyword": "zumiez anti hero",
+      "volume": 10,
+      "cpc": null,
+      "competition": null
+    }
+  ]
+}

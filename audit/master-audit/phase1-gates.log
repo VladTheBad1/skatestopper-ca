@@ -1,0 +1,346 @@
+===== phase1-gate.sh =====
+
+═══════════════════════════════════════════
+  PHASE 1 GATE — SEO Research & Blueprint
+  Site: skatestopper-ca
+  Blueprint: /Users/vladimirproskurov/beast/projects/business/websites/skatestopper-ca/blueprint
+═══════════════════════════════════════════
+
+━━━ 1.1 Keyword Research ━━━
+Traceback (most recent call last):
+  File "<string>", line 6, in <module>
+TypeError: list indices must be integers or slices, not str
+  ✅ 1.1.1: Keywords file: 133 entries
+Traceback (most recent call last):
+  File "<string>", line 6, in <module>
+TypeError: list indices must be integers or slices, not str
+  ✅ 1.1.2: 35 keywords with volume data
+Traceback (most recent call last):
+  File "<string>", line 6, in <module>
+TypeError: list indices must be integers or slices, not str
+  ✅ 1.1.3: 15 competitors found
+Traceback (most recent call last):
+  File "<string>", line 6, in <module>
+TypeError: list indices must be integers or slices, not str
+  ❌ 1.1.4: Only 0 competitors have keyword data (need 2+)
+Traceback (most recent call last):
+  File "<string>", line 6, in <module>
+TypeError: list indices must be integers or slices, not str
+  ✅ 1.1.5: API cost log exists: api-costs.json
+Traceback (most recent call last):
+  File "<string>", line 6, in <module>
+TypeError: list indices must be integers or slices, not str
+  ❌ 1.1.6: Only 35 keywords with integer volumes (need 50+)
+Traceback (most recent call last):
+  File "<string>", line 6, in <module>
+TypeError: list indices must be integers or slices, not str
+  ❌ 1.1.7: Only 0/133 keywords have source: dataforseo
+Traceback (most recent call last):
+  File "<string>", line 6, in <module>
+TypeError: list indices must be integers or slices, not str
+  ✅ 1.1.8: API cost: $0.00 (< $5)
+
+━━━ 1.2 Competitor Analysis ━━━
+Traceback (most recent call last):
+  File "<string>", line 6, in <module>
+TypeError: list indices must be integers or slices, not str
+  ✅ 1.2.1: 15 competitors with real URLs
+Traceback (most recent call last):
+  File "<string>", line 6, in <module>
+TypeError: list indices must be integers or slices, not str
+  ❌ 1.2.2: Only 0 competitors have analysis
+Traceback (most recent call last):
+  File "<string>", line 6, in <module>
+TypeError: list indices must be integers or slices, not str
+  ❌ 1.2.3: Incomplete competitor analysis
+Traceback (most recent call last):
+  File "<string>", line 6, in <module>
+TypeError: list indices must be integers or slices, not str
+  ✅ 1.2.4: 15 competitors with real URLs
+
+━━━ 1.2b Competitor Service Extraction ━━━
+Traceback (most recent call last):
+  File "<string>", line 6, in <module>
+TypeError: list indices must be integers or slices, not str
+  ❌ 1.2b.1: Competitors with services extracted: 0 / 15 (need 3+)
+Traceback (most recent call last):
+  File "<string>", line 6, in <module>
+TypeError: list indices must be integers or slices, not str
+  ❌ 1.2b.2: Service entries with real names: 0/0 (need 10+)
+Traceback (most recent call last):
+  File "<string>", line 6, in <module>
+TypeError: list indices must be integers or slices, not str
+  ❌ 1.2b.3: No competitor-services-matrix.json — cannot verify product decisions are data-driven
+
+━━━ 1.3 Product/Service Definition ━━━
+Traceback (most recent call last):
+  File "<string>", line 6, in <module>
+TypeError: list indices must be integers or slices, not str
+  ❌ 1.3.1: Only 6 products (need 8+)
+Traceback (most recent call last):
+  File "<string>", line 6, in <module>
+TypeError: list indices must be integers or slices, not str
+  ✅ 1.3.2: Product field structure (nameEn, nameFr, slug)
+Traceback (most recent call last):
+  File "<string>", line 6, in <module>
+TypeError: list indices must be integers or slices, not str
+  ✅ 1.3.3: products.json exists
+Traceback (most recent call last):
+  File "<string>", line 6, in <module>
+TypeError: list indices must be integers or slices, not str
+  ✅ 1.3.4: All products use nameEn/nameFr (no bare 'name')
+Traceback (most recent call last):
+  File "<string>", line 6, in <module>
+TypeError: list indices must be integers or slices, not str
+  ❌ 1.3.5: 6 products (need 8+)
+Traceback (most recent call last):
+  File "<string>", line 6, in <module>
+TypeError: list indices must be integers or slices, not str
+  ✅ 1.3.6: Products with competitorsCovering: 6 / 6 (need all)
+Traceback (most recent call last):
+  File "<string>", line 6, in <module>
+TypeError: list indices must be integers or slices, not str
+  ✅ 1.3.7: Products with keyword volume data: 5 / 6
+Traceback (most recent call last):
+  File "<string>", line 6, in <module>
+TypeError: list indices must be integers or slices, not str
+  ✅ 1.3.8: product-rationale.md exists
+Traceback (most recent call last):
+  File "<string>", line 6, in <module>
+TypeError: list indices must be integers or slices, not str
+  ✅ 1.3.9: All product slugs validate against DataForSEO volume corpus
+
+━━━ 1.4 Industry/Sector Definition ━━━
+Traceback (most recent call last):
+  File "<string>", line 6, in <module>
+TypeError: list indices must be integers or slices, not str
+  ❌ 1.4.1: Only 7 industries (need 8+)
+Traceback (most recent call last):
+  File "<string>", line 6, in <module>
+TypeError: list indices must be integers or slices, not str
+  ✅ 1.4.2: Industry field structure
+Traceback (most recent call last):
+  File "<string>", line 6, in <module>
+TypeError: list indices must be integers or slices, not str
+  ✅ 1.4.3: industries.json exists
+Traceback (most recent call last):
+  File "<string>", line 6, in <module>
+TypeError: list indices must be integers or slices, not str
+  ❌ 1.4.4: 7 industries (need 8+)
+
+━━━ 1.5 City Strategy ━━━
+Traceback (most recent call last):
+  File "<string>", line 6, in <module>
+TypeError: list indices must be integers or slices, not str
+  ❌ 1.5.1: Only 15 cities (need 48+)
+Traceback (most recent call last):
+  File "<string>", line 6, in <module>
+TypeError: list indices must be integers or slices, not str
+  ✅ 1.5.2: 15 cities with priority/volume data
+Traceback (most recent call last):
+  File "<string>", line 6, in <module>
+TypeError: list indices must be integers or slices, not str
+  ❌ 1.5.3: Only 6 provinces (need 10)
+
+━━━ 1.6 Keyword Landing Pages ━━━
+Traceback (most recent call last):
+  File "<string>", line 6, in <module>
+TypeError: list indices must be integers or slices, not str
+  ✅ 1.6.1: 8 keyword pages
+Traceback (most recent call last):
+  File "<string>", line 6, in <module>
+TypeError: list indices must be integers or slices, not str
+  ✅ 1.6.2: Keyword page field structure
+Traceback (most recent call last):
+  File "<string>", line 6, in <module>
+TypeError: list indices must be integers or slices, not str
+  ✅ 1.6.3: keyword-pages file exists
+Traceback (most recent call last):
+  File "<string>", line 6, in <module>
+TypeError: list indices must be integers or slices, not str
+  ✅ 1.6.4: No keyword cannibalization
+
+━━━ 1.7 FAQ Mining ━━━
+Traceback (most recent call last):
+  File "<string>", line 6, in <module>
+TypeError: list indices must be integers or slices, not str
+  ✅ 1.7.1: FAQs sourced
+Traceback (most recent call last):
+  File "<string>", line 6, in <module>
+TypeError: list indices must be integers or slices, not str
+  ✅ 1.7.2: 16 bilingual FAQs (need 15+)
+Traceback (most recent call last):
+  File "<string>", line 6, in <module>
+TypeError: list indices must be integers or slices, not str
+  ✅ 1.7.3: faqs.json exists
+Traceback (most recent call last):
+  File "<string>", line 6, in <module>
+TypeError: list indices must be integers or slices, not str
+  ✅ 1.7.4: 16 FAQs (need 15+)
+
+━━━ 1.8 Brand & Config ━━━
+Traceback (most recent call last):
+  File "<string>", line 6, in <module>
+TypeError: list indices must be integers or slices, not str
+  ✅ 1.8.1: config.json has all required fields
+Traceback (most recent call last):
+  File "<string>", line 6, in <module>
+TypeError: list indices must be integers or slices, not str
+  ✅ 1.8.2: meta-templates.json exists
+Traceback (most recent call last):
+  File "<string>", line 6, in <module>
+TypeError: list indices must be integers or slices, not str
+  ❌ 1.8.3: EN translations: 12 keys (need 80+)
+Traceback (most recent call last):
+  File "<string>", line 6, in <module>
+TypeError: list indices must be integers or slices, not str
+  ❌ 1.8.4: FR translations: 12 keys (need 80+)
+Traceback (most recent call last):
+  File "<string>", line 6, in <module>
+TypeError: list indices must be integers or slices, not str
+  ✅ 1.8.5: conversion-spec.json exists
+Traceback (most recent call last):
+  File "<string>", line 6, in <module>
+TypeError: list indices must be integers or slices, not str
+  ✅ 1.8.6: design-hints.json exists
+Traceback (most recent call last):
+  File "<string>", line 6, in <module>
+TypeError: list indices must be integers or slices, not str
+  ✅ 1.8.7: sitemap-plan.json exists
+Traceback (most recent call last):
+  File "<string>", line 6, in <module>
+TypeError: list indices must be integers or slices, not str
+  ✅ 1.8.8: FR/EN overlap: 0% identical (need < 30%)
+Traceback (most recent call last):
+  File "<string>", line 6, in <module>
+TypeError: list indices must be integers or slices, not str
+  ❌ 1.8.9: Only 1 Canadian French markers (need 2+: soumission, courriel, magasiner)
+
+━━━ 1.9 Blueprint Gate ━━━
+Traceback (most recent call last):
+  File "<string>", line 6, in <module>
+TypeError: list indices must be integers or slices, not str
+  ✅ 1.9.1: blueprint-gate.sh executed
+Traceback (most recent call last):
+  File "<string>", line 6, in <module>
+TypeError: list indices must be integers or slices, not str
+  ✅ 1.9.2: Blueprint gate: PASS
+Traceback (most recent call last):
+  File "<string>", line 6, in <module>
+TypeError: list indices must be integers or slices, not str
+  ✅ 1.9.3: No fixes needed
+
+═══════════════════════════════════════════
+  PHASE 1 RESULTS
+  ✅ Passed: 34
+  ❌ Failed: 17
+  Total: 51/35
+═══════════════════════════════════════════
+[exit=0]
+
+===== slug-search-volume-gate.sh =====
+=== Slug ↔ Search-Volume Gate (P0) ===
+Site: /Users/vladimirproskurov/beast/projects/business/websites/skatestopper-ca
+
+Verified keyword corpus: 47 keywords
+Products to validate: 6
+
+WARNINGS:
+  ⚠ skateboard-deterrents-for-ledges: 0 vol but on-pattern with cluster 'skateboard deterrents for benches' (10/mo)
+
+✓ PASS — 6/6 product slugs validate against search-volume corpus
+[exit=0]
+
+===== slug-intent-gate.sh =====
+═══════════════════════════════════════════
+  SLUG INTENT GATE
+  Site: skatestopper-ca
+═══════════════════════════════════════════
+
+--- Industry slug intent check ---
+  ⏭  Skipped: blueprint declares B2B industries exempt (procurement nav, not consumer search)
+
+--- Product slug intent check ---
+  ✅ skate-stoppers
+  ✅ skateboard-deterrents-for-ledges
+  ✅ skateboard-deterrents-for-handrails
+  ✅ skateboard-deterrents-for-benches
+  ✅ skateboard-deterrents-for-concrete
+  ✅ skateboard-deterrents-for-sidewalks
+
+--- Geo URL suffix check ---
+  ✅ No hardcoded suffixes — slugs are self-contained
+
+--- Cross-data taxonomy pattern check ---
+  ⚠️  industries.ts: 'municipalities-parks' may be taxonomy — verify search intent
+  ⚠️  industries.ts: 'transit-authorities' may be taxonomy — verify search intent
+  ⚠️  industries.ts: 'schools-universities' may be taxonomy — verify search intent
+  ⚠️  industries.ts: 'commercial-real-estate' may be taxonomy — verify search intent
+  ⚠️  industries.ts: 'retail-storefronts' may be taxonomy — verify search intent
+  ⚠️  industries.ts: 'condominiums-hoas' may be taxonomy — verify search intent
+  ⚠️  industries.ts: 'government-heritage' may be taxonomy — verify search intent
+  ⚠️  locations.ts: 'british-columbia' may be taxonomy — verify search intent
+  ⚠️  locations.ts: 'nova-scotia' may be taxonomy — verify search intent
+  ⚠️  locations.ts: 'northwest-territories' may be taxonomy — verify search intent
+  ⚠️  locations.ts: 'quebec-city' may be taxonomy — verify search intent
+  ⚠️  locations.ts: 'richmond-bc' may be taxonomy — verify search intent
+  ⚠️  locations.ts: 'greater-sudbury' may be taxonomy — verify search intent
+  ⚠️  locations.ts: 'thunder-bay' may be taxonomy — verify search intent
+  ⚠️  locations.ts: 'saint-john' may be taxonomy — verify search intent
+  ⚠️  locations.ts: 'red-deer' may be taxonomy — verify search intent
+  ⚠️  locations.ts: 'trois-rivieres' may be taxonomy — verify search intent
+  ⚠️  products.ts: 'skate-stoppers' may be taxonomy — verify search intent
+
+═══════════════════════════════════════════
+  Slug Intent: Pass=8 Fail=0 Warn=0
+  ✅ PASS
+[exit=0]
+
+===== slug-collision-gate.sh =====
+═══════════════════════════════════════════
+  SLUG COLLISION GATE
+  Site: skatestopper-ca
+═══════════════════════════════════════════
+
+--- Slug sources ---
+  Total slugs: 63
+  Sources: blog,industry,material,province
+
+--- Collision check ---
+
+--- EN↔FR cross-collision check ---
+  ✅ No EN↔FR slug overlaps
+  ✅ No collisions detected across 63 slugs
+
+═══════════════════════════════════════════
+  Slug Collision: Pass=2 Fail=0
+  ✅ PASS
+[exit=0]
+
+===== slug-fr-completeness-gate.sh =====
+=== Slug-FR Completeness Gate ===
+Site: /Users/vladimirproskurov/beast/projects/business/websites/skatestopper-ca
+
+  ✓ products.ts                    6 entries — all have slugFr
+  ✓ industries.ts                  7 entries — all have slugFr
+  ✓ blog.ts                        4 entries — all have slugFr
+  ⚠ keyword-pages.ts               (0 entries — below min 1, skipping)
+
+=== Slug-FR Completeness Gate Result ===
+Pass: 3 | Fail: 0 | Total entities scanned: 17
+✅ PASS — every translatable entity has slugFr
+[exit=0]
+
+===== dataforseo-research-gate.sh =====
+=== DataForSEO Research Gate ===
+Site: /Users/vladimirproskurov/beast/projects/business/websites/skatestopper-ca
+
+  ✓ 50 verified keywords (all marked source=dataforseo)
+  ✓ 5 competitors discovered
+  ✓ $0.1601 spent across 4 API calls (1.1.1-1.1.4 all present)
+
+=== DataForSEO Research Gate Result ===
+Pass: 3 | Fail: 0
+✅ PASS — Phase 1 used real DataForSEO data
+[exit=0]
+

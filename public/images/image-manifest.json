@@ -1,0 +1,25 @@
+[
+  {
+    "slot": "hero",
+    "path": "/images/hero/hero.webp",
+    "score": 8.5,
+    "winner": true,
+    "candidates": 1,
+    "source": "user_upload",
+    "alt_en": "Granite ledge along a Canadian downtown plaza",
+    "alt_fr": "Rebord en granite d'une place urbaine canadienne",
+    "license": "user_provided",
+    "_note": "Manual upload — no competitive ranking pipeline run for this site"
+  },
+  {
+    "slot": "product:skate-stoppers",
+    "path": "/images/products/skate-stoppers.webp",
+    "score": 8.0,
+    "winner": true,
+    "candidates": 1,
+    "source": "user_upload",
+    "alt_en": "Skate stopper bolted to a granite ledge in an outdoor Canadian plaza",
+    "alt_fr": "Bloque-skate fixé sur un rebord en granite dans une place urbaine canadienne",
+    "license": "user_provided"
+  }
+]

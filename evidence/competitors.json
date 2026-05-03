@@ -1,0 +1,105 @@
+[
+  {
+    "domain": "www.skatestoppers.com",
+    "url": "http://www.skatestoppers.com/",
+    "title": "Skatestoppers.com",
+    "rank": 1,
+    "country": "US",
+    "wordCount": 1200,
+    "analysis": "US-based supplier of pyramid skate stoppers and rail guards. Ships internationally. Primarily serves municipalities and property managers. Strong brand recognition from .com domain.",
+    "strengths": ["Established brand", "Wide product range", "International shipping"],
+    "services": [
+      {"name": "Pyramid Skate Stoppers"},
+      {"name": "Rail Guards"},
+      {"name": "Bench Armrests"},
+      {"name": "Concrete Skate Deterrents"},
+      {"name": "Stainless Steel Hardware"}
+    ],
+    "keywords": [
+      {"keyword": "skate stoppers", "volume": 90, "rank": 1},
+      {"keyword": "skatestoppers", "volume": 90, "rank": 2}
+    ],
+    "ranked_keywords": [
+      {"keyword": "skate stoppers", "volume": 90, "rank": 1}
+    ]
+  },
+  {
+    "domain": "preventer.ca",
+    "url": "https://preventer.ca/",
+    "title": "Preventer — Canadian Skateboard Deterrents",
+    "rank": 2,
+    "country": "CA",
+    "wordCount": 800,
+    "analysis": "Canadian competitor selling skate deterrent hardware direct to property managers and municipalities. Strong SEO presence on anti-skateboarding terms in Canada.",
+    "strengths": ["Canadian supplier", "Direct-to-property focus", "Anti-skateboarding keyword ranking"],
+    "services": [
+      {"name": "Skate Stoppers"},
+      {"name": "Ledge Protectors"},
+      {"name": "Anti-Skateboarding Devices"},
+      {"name": "Bench Guards"},
+      {"name": "Wax Deterrents"}
+    ],
+    "keywords": [
+      {"keyword": "anti skateboarding", "volume": 110, "rank": 15},
+      {"keyword": "preventer", "volume": 70, "rank": 8},
+      {"keyword": "skate deterrent", "volume": 10, "rank": 5},
+      {"keyword": "skateboard deterrent", "volume": 10, "rank": 6}
+    ],
+    "ranked_keywords": [
+      {"keyword": "anti skateboarding", "volume": 110, "rank": 15},
+      {"keyword": "skate deterrent", "volume": 10, "rank": 5}
+    ]
+  },
+  {
+    "domain": "www.parkwarehouse.com",
+    "url": "https://www.parkwarehouse.com/",
+    "title": "Park Warehouse — Outdoor Furniture and Site Amenities",
+    "rank": 3,
+    "country": "US",
+    "wordCount": 2000,
+    "analysis": "Large US distributor of park and site amenities including anti-skateboarding hardware. Ships to Canada but US-focused. Strong for institutional procurement buyers.",
+    "strengths": ["Large product catalog", "Institutional buyers", "Distribution network"],
+    "services": [
+      {"name": "Skateboard Deterrents"},
+      {"name": "Bench Armrests"},
+      {"name": "Anti-Grind Rails"},
+      {"name": "Concrete Bolt-On Deterrents"},
+      {"name": "Surface-Mount Studs"},
+      {"name": "Planter Guards"}
+    ],
+    "keywords": [],
+    "ranked_keywords": []
+  },
+  {
+    "domain": "en.wikipedia.org",
+    "url": "https://en.wikipedia.org/wiki/Skatestopper",
+    "title": "Skatestopper — Wikipedia",
+    "rank": 4,
+    "country": "US",
+    "wordCount": 500,
+    "analysis": "Informational Wikipedia article about skatestoppers. Ranks for branded searches. Not a commercial competitor.",
+    "strengths": ["Domain authority", "Informational coverage"],
+    "services": [],
+    "keywords": [],
+    "ranked_keywords": []
+  },
+  {
+    "domain": "www.sitescape.ca",
+    "url": "https://www.sitescape.ca/",
+    "title": "Sitescape — Canadian Site Furnishings",
+    "rank": 5,
+    "country": "CA",
+    "wordCount": 1500,
+    "analysis": "Canadian site furnishings supplier offering anti-skateboarding hardware as part of larger catalog. Serves municipalities and landscape architects.",
+    "strengths": ["Canadian supplier", "Municipal procurement", "Landscape architect relationships"],
+    "services": [
+      {"name": "Anti-Skateboarding Hardware"},
+      {"name": "Bench Armrests"},
+      {"name": "Skate Deterrent Studs"},
+      {"name": "Municipal Site Furniture"},
+      {"name": "Architectural Hardware"}
+    ],
+    "keywords": [],
+    "ranked_keywords": []
+  }
+]

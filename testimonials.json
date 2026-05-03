@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Sarah MacDonald",
+    "role": "Facilities Director",
+    "organization": "Halifax Regional School Board (sample)",
+    "city": "Halifax",
+    "cityFr": "Halifax",
+    "rating": 5,
+    "textEn": "We were repairing the same three handrails every year — same schools, same grind damage, same maintenance budget hit. SkateStopper.ca's 316L stoppers went in over a summer recess in 2024. Two winters later, **zero handrail repair calls** at those locations. Their AODA documentation made the facilities-and-accessibility sign-off straightforward.",
+    "textFr": "Nous réparions les mêmes trois mains courantes chaque année — mêmes écoles, mêmes dégâts de glisse, même impact budget. Les arrêts 316L de SkateStopper.ca ont été installés pendant une relâche d'été en 2024. Deux hivers plus tard, **zéro appel de réparation** à ces emplacements. Leur documentation LAPHO a rendu l'approbation simple."
+  },
+  {
+    "name": "Marcus Chen",
+    "role": "Property Manager",
+    "organization": "Class-A office tower (sample)",
+    "city": "Toronto",
+    "cityFr": "Toronto",
+    "rating": 5,
+    "textEn": "Our flagship retail tenant on King West was about to invoke the rent-abatement clause for property condition. SkateStopper.ca did a Saturday-overnight install on the granite display ledge — 14 pyramid studs, brushed-stainless finish to match the tenant's brand. Tenant withdrew the abatement notice. Quoted, scheduled, installed, invoiced — no surprises.",
+    "textFr": "Notre locataire commercial phare sur King West était sur le point d'invoquer la clause de remise de loyer. SkateStopper.ca a fait une installation samedi soir sur le rebord en granite — 14 plots pyramide, finition inox brossé. Le locataire a retiré l'avis. Devis, planification, installation, facturation — aucune surprise."
+  },
+  {
+    "name": "Jean-François Lévesque",
+    "role": "Conservateur du patrimoine",
+    "organization": "Ville de Québec patrimoine (sample)",
+    "city": "Quebec City",
+    "cityFr": "Ville de Québec",
+    "rating": 5,
+    "textEn": "Heritage-stone deterrent installs are notoriously difficult — most vendors don't understand the conservation review process. SkateStopper.ca submitted a complete heritage-approval package in French, with artificially-aged bronze finish samples on Quebec limestone substrate, and reversibility documentation that satisfied both the provincial and Parks Canada reviewers. UNESCO World Heritage compliance, on time.",
+    "textFr": "Les installations dissuasives sur pierre patrimoniale sont notoirement difficiles. SkateStopper.ca a soumis un dossier d'approbation patrimoniale complet en français, avec des échantillons de finition bronze vieillie artificiellement sur substrat de calcaire de Québec, et une documentation de réversibilité qui a satisfait les examinateurs provinciaux et de Parcs Canada. Conformité au patrimoine mondial UNESCO, à temps."
+  },
+  {
+    "name": "Priya Sharma",
+    "role": "Procurement Lead",
+    "organization": "Major Canadian transit authority (sample)",
+    "city": "Vancouver",
+    "cityFr": "Vancouver",
+    "rating": 5,
+    "textEn": "We standardize on 316L low-carbon stainless for SkyTrain station hardware because of Pacific salt-air pitting. SkateStopper.ca was the only Canadian vendor with that grade in stock and field-proven on coastal transit. Multi-year supply agreement signed in 2024 — they've shipped to 6 SkyTrain stations and 40+ shelter benches with zero warranty claims.",
+    "textFr": "Nous standardisons sur l'inox 316L à faible carbone pour le matériel des stations SkyTrain en raison de la corrosion par air salin du Pacifique. SkateStopper.ca était le seul fournisseur canadien avec ce grade en stock et éprouvé sur le transit côtier. Entente d'approvisionnement pluriannuelle signée en 2024 — ils ont livré à 6 stations SkyTrain et 40+ bancs d'abribus avec zéro réclamation de garantie."
+  },
+  {
+    "name": "Robert McKinnon",
+    "role": "Condo Board President",
+    "organization": "Downtown condo corporation (sample)",
+    "city": "Calgary",
+    "cityFr": "Calgary",
+    "rating": 4.8,
+    "textEn": "Our lobby plaza ledge was getting hit weekly. SkateStopper.ca's board-presentation deck made the conversation with our 7-member board easy — photos, lifecycle costs, install timeline, resident-communication template all in one document. Saturday morning install, no resident complaints, lobby stays clean. Their Plus-15 transition finish coordination was the detail no other vendor offered.",
+    "textFr": "Notre rebord de place de hall était frappé chaque semaine. La présentation au conseil de SkateStopper.ca a rendu la conversation avec notre conseil de 7 membres facile — photos, coûts du cycle de vie, calendrier d'installation, modèle de communication aux résidents en un document. Installation samedi matin, aucune plainte. Leur coordination de finition de transition Plus-15 était le détail qu'aucun autre fournisseur n'offrait."
+  }
+]

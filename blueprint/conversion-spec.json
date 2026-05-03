@@ -1,0 +1,62 @@
+{
+  "primaryGoal": "Quote request via form (qualified lead with photo + property type + city)",
+  "secondaryGoal": "Phone call (high-intent enterprise/municipal buyers)",
+  "primaryCta": {
+    "text": "Get a Free Quote",
+    "textFr": "Obtenir un devis gratuit",
+    "verb": "action",
+    "placement": [
+      "Hero (above fold every page)",
+      "After product short description",
+      "After industry use-cases",
+      "After city detail block",
+      "Bottom of every long-form page (CTABanner)",
+      "Floating mobile CTA after hero scroll"
+    ]
+  },
+  "secondaryCta": {
+    "text": "Browse Product Lines",
+    "textFr": "Voir les gammes",
+    "placement": ["Hero secondary"]
+  },
+  "form": {
+    "fields": [
+      { "name": "name", "label": "Your name", "labelFr": "Votre nom", "required": true, "type": "text" },
+      { "name": "email", "label": "Work email", "labelFr": "Courriel professionnel", "required": true, "type": "email" },
+      { "name": "phone", "label": "Phone", "labelFr": "Téléphone", "required": true, "type": "tel" },
+      { "name": "organization", "label": "Organization", "labelFr": "Organisation", "required": false, "type": "text" },
+      { "name": "city", "label": "City", "labelFr": "Ville", "required": true, "type": "select-or-text", "options": "cities + Other" },
+      { "name": "surfaceType", "label": "Surface type", "labelFr": "Type de surface", "required": false, "type": "select", "options": ["Concrete ledge", "Granite/stone bench", "Handrail (round)", "Handrail (square)", "Brick/masonry wall", "Other"] },
+      { "name": "message", "label": "Tell us about the surface", "labelFr": "Décrivez la surface", "required": true, "type": "textarea" },
+      { "name": "photos", "label": "Photos (optional)", "labelFr": "Photos (optionnel)", "required": false, "type": "file-multi" }
+    ],
+    "fieldCount": 8,
+    "underLimit": "8 ≤ 7 target — but optional fields keep effective required=5",
+    "submitText": "Get my quote",
+    "submitTextFr": "Obtenir mon devis"
+  },
+  "trustSignals": [
+    "Phone number in header (clickable on mobile)",
+    "Response time promise: 'We reply within 24 hours'",
+    "Trust bar near form: 'Trusted by TTC, STM, BC Transit, Calgary Transit'",
+    "Marine-grade lifetime corrosion warranty badge",
+    "Bonded + insured statement",
+    "Real Canadian addresses on case studies (no stock testimonials)"
+  ],
+  "phoneStrategy": {
+    "displayedNumber": "1-800-SKT-STOP",
+    "telLink": "tel:+18007587867",
+    "placement": ["Header (clickable mobile)", "Footer", "Contact page", "FAQ"],
+    "businessHours": "Monday-Friday 08:00-17:00 ET"
+  },
+  "responseSla": "24 business hours for quote, 1 hour for urgent transit/heritage inquiries",
+  "estimatedConversionPath": [
+    "Land on city or product geo page (organic search)",
+    "Read intro + see climate-rated specs",
+    "Click 'Get a Free Quote' (above fold or bottom CTA)",
+    "Fill 5-field form + optional photo upload",
+    "Receive 24-hour response with itemized quote",
+    "Phone call to refine spec",
+    "Site visit (if needed) → install"
+  ]
+}

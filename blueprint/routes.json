@@ -1,0 +1,48 @@
+{
+  "generated_at": "2026-05-03T06:25:41.292625Z",
+  "en": [
+    "/",
+    "/[slug]",
+    "/[slug]/[service]",
+    "/about",
+    "/blog",
+    "/blog/[slug]",
+    "/cities",
+    "/contact",
+    "/faq",
+    "/industries",
+    "/privacy",
+    "/products",
+    "/terms"
+  ],
+  "fr": [
+    "/fr",
+    "/fr/[slug]",
+    "/fr/[slug]/[service]",
+    "/fr/a-propos",
+    "/fr/blogue",
+    "/fr/blogue/[slug]",
+    "/fr/conditions",
+    "/fr/confidentialite",
+    "/fr/faq",
+    "/fr/nous-joindre",
+    "/fr/produits",
+    "/fr/secteurs",
+    "/fr/villes"
+  ],
+  "patterns": {
+    "slug": [
+      "/[slug]",
+      "/[slug]/[service]",
+      "/blog/[slug]",
+      "/fr/[slug]",
+      "/fr/[slug]/[service]",
+      "/fr/blogue/[slug]"
+    ]
+  },
+  "counts": {
+    "en": 13,
+    "fr": 13,
+    "total": 26
+  }
+}

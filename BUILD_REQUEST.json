@@ -1,0 +1,14 @@
+{
+  "domain": "skatestopper.ca",
+  "slug": "skatestopper-ca",
+  "profile": "C",
+  "mode": "build",
+  "niche": "skate-stoppers",
+  "blueprint_dir": "/Users/vladimirproskurov/beast/projects/business/websites/skatestopper-ca",
+  "site_dir": "/Users/vladimirproskurov/beast/projects/business/websites/skatestopper-ca",
+  "factory_master_version": "v1.3",
+  "topic": "Canada-wide supplier of skate stoppers (anti-skateboarding deterrent hardware) for property owners, schools, transit authorities, and municipalities",
+  "marketScope": "country",
+  "primaryArea": "Canada",
+  "created_at": "2026-04-27T03:45:30.000Z"
+}

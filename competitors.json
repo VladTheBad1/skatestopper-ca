@@ -1,0 +1,386 @@
+[
+  {
+    "domain": "www.skatestoppers.com",
+    "url": "http://www.skatestoppers.com/",
+    "title": "Skatestoppers.com",
+    "rank": 1,
+    "seed_query": "skate stoppers",
+    "country": "??",
+    "wordCount": 166,
+    "headings": {
+      "h1": [],
+      "h2": [],
+      "h3": []
+    },
+    "strengths": [
+      "(not analyzed)"
+    ],
+    "weaknesses": [
+      "No Canadian-geo signaling in headings",
+      "Thin product taxonomy / single-page catalog"
+    ],
+    "discoveredVia": "brave-serp-2026-05-02 + dataforseo competitors_domain"
+  },
+  {
+    "domain": "www.reddit.com",
+    "url": "https://www.reddit.com/r/wikipedia/comments/1hyioqj/skatestoppers_are_skatedeterrent_or_antiskate/",
+    "title": "Skatestoppers are skate-deterrent or anti- ...",
+    "rank": 4,
+    "seed_query": "skate stoppers",
+    "country": "??"
+  },
+  {
+    "domain": "www.rollergirl.ca",
+    "url": "https://www.rollergirl.ca/skateshop/stoppers-c-26_30.html?srsltid=AfmBOopaGTZqQzvgMBTs22lejyw5C6f6tz_UloQn_tPbKEICkO-ymYsU",
+    "title": "Stoppers - RollerGirl",
+    "rank": 7,
+    "seed_query": "skate stoppers",
+    "country": "CA"
+  },
+  {
+    "domain": "preventer.ca",
+    "url": "https://preventer.ca/products/skate-stopper",
+    "title": "Skate Deterrents | Preventer",
+    "rank": 8,
+    "seed_query": "skate stoppers",
+    "country": "CA",
+    "wordCount": 643,
+    "headings": {
+      "h1": [
+        "SKATE DETERRETS"
+      ],
+      "h2": [
+        "WHY SHOULD YOUR FACILITY USE SKATESTOPPER?"
+      ],
+      "h3": []
+    },
+    "services": [
+      {
+        "name": "WHY SHOULD YOUR FACILITY USE SKATESTOPPER?",
+        "extractedFrom": "h2/h3"
+      }
+    ],
+    "strengths": [
+      "Substantive copy (643 words)"
+    ],
+    "weaknesses": [
+      "No Canadian-geo signaling in headings"
+    ],
+    "discoveredVia": "brave-serp-2026-05-02 + dataforseo competitors_domain"
+  },
+  {
+    "domain": "www.jenkemmag.com",
+    "url": "https://www.jenkemmag.com/home/2023/08/16/a-collection-of-tricks-made-better-by-skate-stoppers/",
+    "title": "A COLLECTION OF TRICKS MADE BETTER BY SKATE ...",
+    "rank": 9,
+    "seed_query": "skate stoppers",
+    "country": "??"
+  },
+  {
+    "domain": "parkwarehouse.com",
+    "url": "https://parkwarehouse.com/product-category/other/skateboard-deterrents/?srsltid=AfmBOoqT_NUt15AJPRSecBvqU32xPV9vhEtWiuCtASLw9W1nwds08SYU",
+    "title": "Skateboard Deterrents - Skate Stoppers",
+    "rank": 11,
+    "seed_query": "skate stoppers",
+    "country": "??"
+  },
+  {
+    "domain": "classic-arch.com",
+    "url": "https://classic-arch.com/skate-deterrents/",
+    "title": "Skateboard Deterrents | Skate stops",
+    "rank": 12,
+    "seed_query": "skate stoppers",
+    "country": "??"
+  },
+  {
+    "domain": "www.seton.ca",
+    "url": "https://www.seton.ca/skateboard-prevention-devices-for-wood-and-aluminum-94131.html",
+    "title": "seton.ca",
+    "rank": 1,
+    "seed_query": "skate deterrent canada",
+    "country": "CA",
+    "wordCount": 9,
+    "headings": {
+      "h1": [],
+      "h2": [],
+      "h3": []
+    },
+    "strengths": [
+      "(not analyzed)"
+    ],
+    "weaknesses": [
+      "No Canadian-geo signaling in headings",
+      "Thin product taxonomy / single-page catalog"
+    ],
+    "discoveredVia": "brave-serp-2026-05-02 + dataforseo competitors_domain"
+  },
+  {
+    "domain": "www.bcsiteservice.com",
+    "url": "https://www.bcsiteservice.com/product/maple-leaf-anti-skateboard-guard/",
+    "title": "Flat Radius Anti-Skateboard Guards – BC Site Service",
+    "rank": 2,
+    "seed_query": "skate deterrent canada",
+    "country": "??",
+    "wordCount": 751,
+    "headings": {
+      "h1": [
+        "Flat Radius Anti-Skateboard Guards"
+      ],
+      "h2": [
+        "Description",
+        "Additional information",
+        "Product Enquiry",
+        "Related products",
+        "Raised Diamondback Handrail Guards",
+        "Raised Block Anti-Skateboard Guards",
+        "“No Skateboarding Allowed” Sign 12″ x 18″ Safety Sign",
+        "45 Degree Chamfer Anti-Skateboard Guards",
+        "Rounded Radius (0.5″) Anti-Skateboard Guards",
+        "Rounded Bullnose (1″) Anti-Skateboard Guards"
+      ],
+      "h3": [
+        "Specifications:",
+        "Kit Contains:",
+        "Installation:",
+        "Item Number:"
+      ]
+    },
+    "services": [
+      {
+        "name": "Description",
+        "extractedFrom": "h2/h3"
+      },
+      {
+        "name": "Additional information",
+        "extractedFrom": "h2/h3"
+      },
+      {
+        "name": "Product Enquiry",
+        "extractedFrom": "h2/h3"
+      },
+      {
+        "name": "Related products",
+        "extractedFrom": "h2/h3"
+      },
+      {
+        "name": "Raised Diamondback Handrail Guards",
+        "extractedFrom": "h2/h3"
+      },
+      {
+        "name": "Raised Block Anti-Skateboard Guards",
+        "extractedFrom": "h2/h3"
+      },
+      {
+        "name": "“No Skateboarding Allowed” Sign 12″ x 18″ Safety Sign",
+        "extractedFrom": "h2/h3"
+      },
+      {
+        "name": "45 Degree Chamfer Anti-Skateboard Guards",
+        "extractedFrom": "h2/h3"
+      },
+      {
+        "name": "Rounded Radius (0.5″) Anti-Skateboard Guards",
+        "extractedFrom": "h2/h3"
+      },
+      {
+        "name": "Rounded Bullnose (1″) Anti-Skateboard Guards",
+        "extractedFrom": "h2/h3"
+      }
+    ],
+    "strengths": [
+      "Product-detail-rich pages",
+      "Internal cross-linking via Related Products",
+      "Substantive copy (751 words)"
+    ],
+    "weaknesses": [
+      "(not analyzed)"
+    ],
+    "discoveredVia": "brave-serp-2026-05-02 + dataforseo competitors_domain"
+  },
+  {
+    "domain": "www.maglin.com",
+    "url": "https://www.maglin.com/product/300-skate-deterrent-wall-mount/",
+    "title": "Page not found - Maglin",
+    "rank": 4,
+    "seed_query": "skate deterrent canada",
+    "country": "??",
+    "wordCount": 433,
+    "headings": {
+      "h1": [
+        "Oh no! \n\t\t\t\t\t 404 error."
+      ],
+      "h2": [
+        "Page not Found.",
+        "Quick quote"
+      ],
+      "h3": [
+        "Subscribe Today"
+      ]
+    },
+    "strengths": [
+      "(not analyzed)"
+    ],
+    "weaknesses": [
+      "No Canadian-geo signaling in headings",
+      "Thin product taxonomy / single-page catalog"
+    ],
+    "discoveredVia": "brave-serp-2026-05-02 + dataforseo competitors_domain"
+  },
+  {
+    "domain": "www.amazon.ca",
+    "url": "https://www.amazon.ca/roller-skate-stoppers/s?k=roller+skate+stoppers",
+    "title": "Roller Skate Stoppers",
+    "rank": 6,
+    "seed_query": "skate deterrent canada",
+    "country": "CA"
+  },
+  {
+    "domain": "www.barsec.com.au",
+    "url": "https://www.barsec.com.au/just-ask/street-hardware-3/how-to-install-skateboard-deterrents.html",
+    "title": "How to install skateboard deterrents",
+    "rank": 5,
+    "seed_query": "skatestopper installation",
+    "country": "??"
+  },
+  {
+    "domain": "www.ctagroup.com.au",
+    "url": "http://www.ctagroup.com.au/wp-content/uploads/CTA_Skateboard_Deterrents_Install_Instruction.pdf",
+    "title": "Skateboard Deterrent Installation Instructions",
+    "rank": 7,
+    "seed_query": "skatestopper installation",
+    "country": "??"
+  },
+  {
+    "domain": "www.youtube.com",
+    "url": "https://www.youtube.com/watch?v=j11jGVMCfuw",
+    "title": "The Most Clever Way to Stop Skaters",
+    "rank": 8,
+    "seed_query": "skatestopper installation",
+    "country": "??"
+  },
+  {
+    "domain": "www.niklsonecall.com",
+    "url": "https://www.niklsonecall.com/anti-skateboarding-guards/",
+    "title": "Decorative Anti-Skateboarding Guards",
+    "rank": 11,
+    "seed_query": "skatestopper installation",
+    "country": "??"
+  },
+  {
+    "domain": "avenir-voirie.fr",
+    "url": "https://www.avenir-voirie.fr/categorie-produit/001-mobilier-urbain-design/036-ergots-anti-skate/",
+    "name": "Ergots anti-skate - Avenir Voirie",
+    "discoveredVia": "brave-serp-2026-05-02",
+    "hitCount": 2,
+    "wordCount": 0,
+    "services": [],
+    "strengths": [],
+    "weaknesses": []
+  },
+  {
+    "domain": "grindtoahalt.com",
+    "url": "https://www.grindtoahalt.com/",
+    "name": "Grind To A Halt – GRINDERMINDERS– SKATEBOARD DETERRENT – BY GRIND TO A HALT",
+    "discoveredVia": "brave-serp-2026-05-02",
+    "hitCount": 2,
+    "wordCount": 0,
+    "services": [
+      {
+        "name": "PURCHASE ONLINE  –  OR CALL  630.365.2375",
+        "extractedFrom": "h2/h3"
+      },
+      {
+        "name": "PROJECT  INSPIRATION",
+        "extractedFrom": "h2/h3"
+      },
+      {
+        "name": "GET A QUOTE \n  FOR YOUR NEXT PROJECT",
+        "extractedFrom": "h2/h3"
+      },
+      {
+        "name": "CLIENT  TESTIMONIALS",
+        "extractedFrom": "h2/h3"
+      },
+      {
+        "name": "REQUEST \n  A SAMPLE",
+        "extractedFrom": "h2/h3"
+      },
+      {
+        "name": "CONTACT  US",
+        "extractedFrom": "h2/h3"
+      },
+      {
+        "name": "GrinderMinders are proudly sourced and made in the USA!",
+        "extractedFrom": "h2/h3"
+      }
+    ],
+    "strengths": [],
+    "weaknesses": []
+  },
+  {
+    "domain": "batirama.com",
+    "url": "https://www.batirama.com/produit/9221-divers-mobiliers-urbains/53566-anti-skate-page-1.html",
+    "name": "ANTI SKATE Anti-skate en inox",
+    "discoveredVia": "brave-serp-2026-05-02",
+    "hitCount": 1,
+    "wordCount": 0,
+    "services": [],
+    "strengths": [],
+    "weaknesses": []
+  },
+  {
+    "domain": "openspace-urbain.fr",
+    "url": "https://www.openspace-urbain.fr/accessibilite-de-la-voirie/securite/anti-skate,p586.html",
+    "name": "anti skate - Sécurité | Openspace - Fabricant de mobilier urbain design",
+    "discoveredVia": "brave-serp-2026-05-02",
+    "hitCount": 1,
+    "wordCount": 0,
+    "services": [],
+    "strengths": [],
+    "weaknesses": []
+  },
+  {
+    "domain": "design-espaces.fr",
+    "url": "http://www.design-espaces.fr/produit-1-43-179-dispositif_anti-skate.html",
+    "name": "Anti-skate Protection Des Ouvrages - Design Espaces - Mobilier urbain par Sotral",
+    "discoveredVia": "brave-serp-2026-05-02",
+    "hitCount": 1,
+    "wordCount": 0,
+    "services": [],
+    "strengths": [],
+    "weaknesses": []
+  },
+  {
+    "domain": "normequip.com",
+    "url": "https://www.normequip.com/59693-ergot-anti-skate.html",
+    "name": "Protection anti-skate pour banc public",
+    "discoveredVia": "brave-serp-2026-05-02",
+    "hitCount": 1,
+    "wordCount": 0,
+    "services": [],
+    "strengths": [],
+    "weaknesses": []
+  },
+  {
+    "domain": "gtsm.ch",
+    "url": "https://www.gtsm.ch/fr/blog/anti-skate-stoppeur-de-skate-eviter-degats-bancs-mobilier-urbain-n967",
+    "name": "Anti-Skate / Stoppeur de skate evite les dégâts aux bancs et au mobilier urbain",
+    "discoveredVia": "brave-serp-2026-05-02",
+    "hitCount": 1,
+    "wordCount": 0,
+    "services": [],
+    "strengths": [],
+    "weaknesses": []
+  },
+  {
+    "domain": "urbastyle.com",
+    "url": "https://www.urbastyle.com/fr/produits/street-furniture/accessories-anti-skate/syst%C3%A8me-anti-skate-optionnel-carr%C3%A9",
+    "name": "SYSTÈME ANTI-SKATE OPTIONNEL Carré",
+    "discoveredVia": "brave-serp-2026-05-02",
+    "hitCount": 1,
+    "wordCount": 0,
+    "services": [],
+    "strengths": [],
+    "weaknesses": []
+  }
+]

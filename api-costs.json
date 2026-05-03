@@ -1,0 +1,111 @@
+{
+  "phase": "1.1",
+  "calls": [
+    {
+      "ts": "2026-04-24T23:36:39.448745+00:00",
+      "endpoint": "/keywords_data/google_ads/keywords_for_keywords/live",
+      "cost": 0.075,
+      "duration_ms": 3670,
+      "status": "Ok."
+    },
+    {
+      "ts": "2026-04-24T23:36:43.225166+00:00",
+      "endpoint": "/keywords_data/google_ads/search_volume/live",
+      "cost": 0.075,
+      "duration_ms": 3771,
+      "status": "Ok."
+    },
+    {
+      "ts": "2026-04-24T23:36:44.593383+00:00",
+      "endpoint": "/serp/google/organic/live/regular",
+      "cost": 0.002,
+      "duration_ms": 1366,
+      "status": "Ok."
+    },
+    {
+      "ts": "2026-04-24T23:36:45.279825+00:00",
+      "endpoint": "/dataforseo_labs/google/ranked_keywords/live",
+      "cost": 0.0101,
+      "duration_ms": 684,
+      "status": "Ok."
+    },
+    {
+      "ts": "2026-04-24T23:36:49.309488+00:00",
+      "endpoint": "/dataforseo_labs/google/ranked_keywords/live",
+      "cost": 0.02,
+      "duration_ms": 4020,
+      "status": "Ok."
+    },
+    {
+      "ts": "2026-04-24T23:36:54.804883+00:00",
+      "endpoint": "/dataforseo_labs/google/ranked_keywords/live",
+      "cost": 0.02,
+      "duration_ms": 5485,
+      "status": "Ok."
+    },
+    {
+      "ts": "2026-04-24T23:38:13.337483+00:00",
+      "endpoint": "/keywords_data/google_ads/keywords_for_keywords/live",
+      "cost": 0.075,
+      "duration_ms": 3082,
+      "status": "Ok."
+    },
+    {
+      "ts": "2026-04-24T23:38:15.998577+00:00",
+      "endpoint": "/keywords_data/google_ads/search_volume/live",
+      "cost": 0.075,
+      "duration_ms": 2655,
+      "status": "Ok."
+    },
+    {
+      "ts": "2026-04-24T23:38:18.048792+00:00",
+      "endpoint": "/serp/google/organic/live/regular",
+      "cost": 0.002,
+      "duration_ms": 2048,
+      "status": "Ok."
+    },
+    {
+      "ts": "2026-04-24T23:38:22.658740+00:00",
+      "endpoint": "/serp/google/organic/live/regular",
+      "cost": 0.002,
+      "duration_ms": 4609,
+      "status": "Ok."
+    },
+    {
+      "ts": "2026-04-24T23:38:23.373769+00:00",
+      "endpoint": "/dataforseo_labs/google/ranked_keywords/live",
+      "cost": 0.0101,
+      "duration_ms": 711,
+      "status": "Ok."
+    },
+    {
+      "ts": "2026-04-24T23:38:24.786088+00:00",
+      "endpoint": "/dataforseo_labs/google/ranked_keywords/live",
+      "cost": 0.03,
+      "duration_ms": 1401,
+      "status": "Ok."
+    },
+    {
+      "ts": "2026-04-24T23:38:26.482629+00:00",
+      "endpoint": "/dataforseo_labs/google/ranked_keywords/live",
+      "cost": 0.03,
+      "duration_ms": 1681,
+      "status": "Ok."
+    },
+    {
+      "ts": "2026-04-24T23:38:27.264329+00:00",
+      "endpoint": "/dataforseo_labs/google/ranked_keywords/live",
+      "cost": 0.0104,
+      "duration_ms": 778,
+      "status": "Ok."
+    },
+    {
+      "ts": "2026-04-24T23:38:29.171931+00:00",
+      "endpoint": "/dataforseo_labs/google/ranked_keywords/live",
+      "cost": 0.03,
+      "duration_ms": 1896,
+      "status": "Ok."
+    }
+  ],
+  "total_cost_usd": 0.4666
+}

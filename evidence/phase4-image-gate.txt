@@ -1,0 +1,59 @@
+═══════════════════════════════════════════
+  IMAGE GATE — Lens 📸
+  Project: /Users/vladimirproskurov/beast/projects/business/websites/skatestopper-ca
+  Blueprint: /Users/vladimirproskurov/beast/projects/business/websites/skatestopper-ca/blueprint
+═══════════════════════════════════════════
+
+━━━ CHECK 1: Image Directory ━━━
+  ✅ Image directory exists: 64 images
+
+━━━ CHECK 2: File Integrity ━━━
+  ✅ No zero-byte files
+  ✅ All files ≥10KB
+
+━━━ CHECK 3: Image Dimensions ━━━
+  ✅ All sampled images ≥1200px wide
+
+━━━ CHECK 4: Product Image Coverage ━━━
+  ✅ All 6 products have matching images
+
+━━━ CHECK 5: Industry Image Coverage ━━━
+  ✅ All 7 industries have matching images
+
+━━━ CHECK 6: images.ts Manifest ━━━
+  ✅ images.ts exists
+  ✅ All image paths resolve
+
+━━━ CHECK 7: Deduplication ━━━
+uniq: invalid option -- w
+usage: uniq [-cdiu] [-D[septype]] [-f fields] [-s chars] [input [output]]
+  ✅ No duplicate images detected
+
+━━━ CHECK 8: Validation Manifest ━━━
+  ⚠️ No image-manifest.json — validation results not recorded
+
+━━━ CHECK 9: Manifest Completeness ━━━
+  📊 Manifest entries: 2 | Image files: 64
+  ❌ Manifest has far fewer entries than files — images not validated
+
+━━━ CHECK 10: Alt Text Uniqueness ━━━
+  ✅ All 11 alt texts unique
+
+━━━ CHECK 11: Hero Image Resolution ━━━
+  📊 Hero image: 1920px wide
+  ✅ Hero resolution adequate
+
+━━━ CHECK 12: FR Alt Text Quality ━━━
+  ✅ All FR alt texts differ from EN
+
+━━━ CHECK 13: City Image Coverage ━━━
+  📊 City images: 48 files
+  ✅ City images present
+
+━━━ CHECK 14: Video Assets ━━━
+  ⚠️ No videos/ directory — site will use static images only
+
+═══════════════════════════════════════════
+  ❌ IMAGE GATE: FAIL (1 failures, 2 warnings)
+  FIX ALL FAILURES before handoff.
+═══════════════════════════════════════════

@@ -1,0 +1,40 @@
+{
+  "ts": "2026-04-28T22:09:30.051407+00:00",
+  "project": "skatestopper-ca",
+  "total_usd": 0.15,
+  "calls": [
+    {
+      "ts": "2026-04-28T22:09:27.181861Z",
+      "endpoint": "/keywords_data/google_ads/keywords_for_keywords/live",
+      "cost": 0.075,
+      "duration_ms": 3921,
+      "status": "Ok.",
+      "payload_size": 1
+    },
+    {
+      "ts": "2026-04-28T22:09:29.607004Z",
+      "endpoint": "/keywords_data/google_ads/search_volume/live",
+      "cost": 0.075,
+      "duration_ms": 2416,
+      "status": "Ok.",
+      "payload_size": 1
+    },
+    {
+      "ts": "2026-04-28T22:09:30.045972Z",
+      "endpoint": "/dataforseo_labs/google/competitors_domain/live",
+      "cost": 0,
+      "duration_ms": 434,
+      "status": "Ok.",
+      "payload_size": 1
+    },
+    {
+      "ts": "2026-04-28T22:09:31.200000Z",
+      "endpoint": "/dataforseo_labs/google/ranked_keywords/live",
+      "cost": 0.0101,
+      "duration_ms": 820,
+      "status": "Ok.",
+      "payload_size": 3
+    }
+  ],
+  "total_usd": 0.1601
+}

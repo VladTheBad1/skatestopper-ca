@@ -1,0 +1,72 @@
+═══════════════════════════════════════════
+  Factory Template Validator
+  Site: /Users/vladimirproskurov/beast/projects/business/websites/skatestopper-ca
+═══════════════════════════════════════════
+
+── JSON-LD Schema Coverage ──
+[32m✓ EN Homepage has JSON-LD[0m
+[32m✓ EN [slug] page has JSON-LD[0m
+[32m✓ EN [slug]/[service] page has JSON-LD[0m
+[31m✗ P0: EN Contact page missing JSON-LD schema[0m
+[32m✓ EN FAQ page has JSON-LD[0m
+[32m✓ FR Homepage has JSON-LD[0m
+[32m✓ FR [slug] page has JSON-LD[0m
+[32m✓ FR [slug]/[service] page has JSON-LD[0m
+[33m⚠ P1: FR Contact page file not found: /Users/vladimirproskurov/beast/projects/business/websites/skatestopper-ca/src/app/fr/contact/page.tsx[0m
+[32m✓ FR FAQ page has JSON-LD[0m
+
+── Fake Rating Check ──
+[32m✓ No fake aggregateRating[0m
+
+── Image Optimization ──
+[32m✓ All images use next/image[0m
+
+── Font Optimization ──
+[32m✓ next/font configured in root layout[0m
+
+── Viewport Export ──
+[32m✓ viewport export found[0m
+
+── Robots Config ──
+[32m✓ robots.ts uses siteConfig.domain[0m
+
+── Site Config ──
+[32m✓ siteConfig has address block[0m
+[32m✓ siteConfig has openingHours[0m
+[32m✓ siteConfig has keywords array[0m
+[32m✓ siteConfig has googleVerification[0m
+
+── Root Layout Metadata ──
+[31m✗ P0: keywords missing from root metadata[0m
+[32m✓ robots directive in root metadata[0m
+[32m✓ google verification in metadata[0m
+
+── Dead Code Check ──
+[32m✓ buildOrganizationSchema used in 8 files[0m
+[32m✓ buildBreadcrumbSchema used in 44 files[0m
+[32m✓ buildProductSchema used in 2 files[0m
+[32m✓ buildFAQSchema used in 17 files[0m
+[32m✓ buildContactSchema used in 10 files[0m
+[32m✓ buildServiceSchema used in 4 files[0m
+[32m✓ buildSpeakableSchema used in 12 files[0m
+
+── Hardcoded Values ──
+[32m✓ No hardcoded domains found[0m
+
+── E-E-A-T Pages ──
+[32m✓ About page exists (EN)[0m
+[32m✓ About page exists (FR)[0m
+
+── Error Pages ──
+[32m✓ Custom 404 page exists[0m
+
+── Next Config ──
+[32m✓ next.config.ts has headers/redirects/rewrites[0m
+
+── Data Coverage ──
+[33m⚠ P1: Cities: 17 (target: 50+)[0m
+[33m⚠ P1: Products: 1 (target: 12+)[0m
+
+═══════════════════════════════════════════
+[31m  FAILED: 2 errors, 3 warnings[0m
+  Fix all P0 errors before deployment.

@@ -1,0 +1,58 @@
+
+> skatestopper-ca@0.1.0 build
+> next build
+
+▲ Next.js 16.2.1 (Turbopack)
+
+⚠ The "middleware" file convention is deprecated. Please use "proxy" instead. Learn more: https://nextjs.org/docs/messages/middleware-to-proxy
+  Creating an optimized production build ...
+✓ Compiled successfully in 1435ms
+  Skipping validation of types
+  Finished TypeScript config validation in 4ms ...
+  Collecting page data using 9 workers ...
+  Generating static pages using 9 workers (0/1445) ...
+  Generating static pages using 9 workers (361/1445) 
+  Generating static pages using 9 workers (722/1445) 
+  Generating static pages using 9 workers (1083/1445) 
+✓ Generating static pages using 9 workers (1445/1445) in 721ms
+  Finalizing page optimization ...
+
+Route (app)
+┌ ƒ /
+├ ƒ /_not-found
+├ ƒ /[slug]
+├ ƒ /[slug]/[service]
+├ ƒ /about
+├ ƒ /api/quote
+├ ƒ /api/track
+├ ƒ /blog
+├ ƒ /blog/[slug]
+├ ƒ /cities
+├ ƒ /contact
+├ ƒ /faq
+├ ƒ /fr
+├ ƒ /fr/[slug]
+├ ƒ /fr/[slug]/[service]
+├ ƒ /fr/a-propos
+├ ƒ /fr/blogue
+├ ƒ /fr/blogue/[slug]
+├ ƒ /fr/conditions
+├ ƒ /fr/confidentialite
+├ ƒ /fr/faq
+├ ƒ /fr/nous-joindre
+├ ƒ /fr/produits
+├ ƒ /fr/secteurs
+├ ƒ /fr/villes
+├ ƒ /industries
+├ ○ /manifest.webmanifest
+├ ƒ /privacy
+├ ƒ /products
+├ ○ /robots.txt
+├ ○ /sitemap.xml
+└ ƒ /terms
+
+
+ƒ Proxy (Middleware)
+
+○  (Static)   prerendered as static content
+ƒ  (Dynamic)  server-rendered on demand

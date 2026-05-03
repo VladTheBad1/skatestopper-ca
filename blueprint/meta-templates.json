@@ -1,0 +1,74 @@
+{
+  "homepage": {
+    "titleEn": "Skate Stoppers Canada — Engineered Anti-Skateboarding Deterrents | SkateStopper.ca",
+    "titleFr": "Bloque-skate Canada — Dissuasifs Anti-planche Conçus pour le Climat Canadien | SkateStopper.ca",
+    "descriptionEn": "Stainless and bronze skate stoppers shipped + installed across Canada. Pyramid, dome, handrail, and concrete-set deterrents engineered for our winter climate.",
+    "descriptionFr": "Bloque-skate en inox et bronze livrés et installés partout au Canada. Plots pyramidaux, dômes, mains courantes et ancrés au béton conçus pour notre climat hivernal."
+  },
+  "productHub": {
+    "titleEn": "Skate Stopper Products — Pyramid, Handrail, Concrete-Set | SkateStopper.ca",
+    "titleFr": "Produits Bloque-skate — Pyramide, Main Courante, Béton | SkateStopper.ca",
+    "descriptionEn": "Six engineered skate stopper product lines for Canadian climate. Surface-mount, concrete-set, handrail, and continuous-edge deterrents with full installation.",
+    "descriptionFr": "Six gammes de bloque-skate conçues pour le climat canadien. En surface, ancrés au béton, mains courantes et bords continus avec installation complète."
+  },
+  "productDetail": {
+    "titleEn": "{productName} — Canadian-Made Skate Deterrent | SkateStopper.ca",
+    "titleFr": "{productNameFr} — Dissuasif Anti-skate Fabriqué au Canada | SkateStopper.ca",
+    "descriptionEn": "{shortEn} Engineered for Canadian climate, shipped + installed coast to coast.",
+    "descriptionFr": "{shortFr} Conçu pour le climat canadien, livré et installé d'un océan à l'autre."
+  },
+  "industryHub": {
+    "titleEn": "Industries We Serve — Transit, Schools, Heritage, Retail | SkateStopper.ca",
+    "titleFr": "Industries Desservies — Transport, Écoles, Patrimoine, Commerces | SkateStopper.ca",
+    "descriptionEn": "Skate stopper deployments for municipalities, transit authorities, schools, condominiums, retail, and heritage buildings across Canada.",
+    "descriptionFr": "Déploiements de bloque-skate pour municipalités, autorités de transport, écoles, copropriétés, commerces et bâtiments patrimoniaux partout au Canada."
+  },
+  "industryDetail": {
+    "titleEn": "Skate Stoppers for {industryName} | SkateStopper.ca",
+    "titleFr": "Bloque-skate pour {industryNameFr} | SkateStopper.ca",
+    "descriptionEn": "{shortEn}",
+    "descriptionFr": "{shortFr}"
+  },
+  "cityHub": {
+    "titleEn": "Skate Stoppers Across Canada — 15 Cities | SkateStopper.ca",
+    "titleFr": "Bloque-skate au Canada — 15 villes | SkateStopper.ca",
+    "descriptionEn": "Local skate-stopper installation in Toronto, Vancouver, Montréal, Calgary, Ottawa, and 10 more Canadian cities. Stainless and bronze hardware for every climate zone.",
+    "descriptionFr": "Installation locale de bloque-skate à Toronto, Vancouver, Montréal, Calgary, Ottawa et 10 autres villes canadiennes. Matériel en inox et bronze pour chaque zone climatique."
+  },
+  "cityDetail": {
+    "titleEn": "Skate Stoppers in {city}, {province} — Local Installation | SkateStopper.ca",
+    "titleFr": "Bloque-skate à {cityFr}, {provinceFr} — Installation Locale | SkateStopper.ca",
+    "descriptionEn": "Local skate-stopper supply and installation in {city}. Climate-rated for {climateZone}, with {transitAuthority} and municipal procurement experience.",
+    "descriptionFr": "Fourniture et installation locales de bloque-skate à {cityFr}. Adaptés à la zone {climateZone}, avec expérience auprès de {transitAuthority} et des marchés municipaux."
+  },
+  "geoCross": {
+    "titleEn": "{productName} in {city}, {province} | SkateStopper.ca",
+    "titleFr": "{productNameFr} à {cityFr}, {provinceFr} | SkateStopper.ca",
+    "descriptionEn": "{productName} engineered for {city} climate (Zone {climateZone}, {avgWinterTempC}°C avg winter). Local supply, installation, and {transitAuthority} procurement experience.",
+    "descriptionFr": "{productNameFr} conçus pour le climat de {cityFr} (Zone {climateZone}, {avgWinterTempC}°C en moyenne hivernale). Fourniture, installation et expérience auprès de {transitAuthority}."
+  },
+  "blogHub": {
+    "titleEn": "Skate Stopper Guides & Specifications | SkateStopper.ca",
+    "titleFr": "Guides et spécifications de bloque-skate | SkateStopper.ca",
+    "descriptionEn": "How-to guides, climate specs, and installation walkthroughs for skate-stopper deployment across Canadian climates and industries.",
+    "descriptionFr": "Guides pratiques, spécifications climatiques et procédures d'installation de bloque-skate pour les climats et industries canadiens."
+  },
+  "faq": {
+    "titleEn": "Skate Stopper FAQ — Pricing, Installation, Permits | SkateStopper.ca",
+    "titleFr": "FAQ bloque-skate — Prix, Installation, Permis | SkateStopper.ca",
+    "descriptionEn": "Common questions on skate stopper pricing, AODA compliance, permits, heritage approvals, and stainless grades for Canadian coastal cities.",
+    "descriptionFr": "Questions courantes sur le prix des bloque-skate, la conformité LAPHO, les permis, les approbations patrimoniales et les grades d'inox pour les villes côtières."
+  },
+  "contact": {
+    "titleEn": "Get a Skate Stopper Quote — 24-Hour Response | SkateStopper.ca",
+    "titleFr": "Obtenir un devis bloque-skate — Réponse en 24 h | SkateStopper.ca",
+    "descriptionEn": "Request a custom skate-stopper quote for your property, transit shelter, or municipal deployment. 24-hour response, Canada-wide service.",
+    "descriptionFr": "Demandez un devis bloque-skate personnalisé pour votre propriété, abribus ou déploiement municipal. Réponse en 24 h, service partout au Canada."
+  },
+  "about": {
+    "titleEn": "About SkateStopper.ca — Canadian-Made Anti-Skate Hardware",
+    "titleFr": "À propos de SkateStopper.ca — Matériel Anti-skate Fabriqué au Canada",
+    "descriptionEn": "Canadian-built skate-stopper hardware engineered for our climate. Stainless 316 marine-grade for coastal cities, bronze patina for heritage sites.",
+    "descriptionFr": "Matériel bloque-skate fabriqué au Canada, conçu pour notre climat. Inox 316 grade marin pour villes côtières, patine bronze pour sites patrimoniaux."
+  }
+}

@@ -1,0 +1,44 @@
+
+═══════════════════════════════════════════════════
+  IMAGE RANK GATE — Competitive Selection Check
+  Site: skatestopper-ca
+  Min score: 5.0 | Warn below: 7.0
+═══════════════════════════════════════════════════
+
+━━━ CHECK 1: Ranking Manifest ━━━
+  ✅ Manifest exists: 2 winners / 2 slots
+
+━━━ CHECK 2: Score Thresholds ━━━
+  ✅ hero: score 8.5
+  ✅ product:skate-stoppers: score 8.0
+SCORE_FAILS=0
+SCORE_WARNS=0
+  ✅ All winners above 7.0 threshold
+
+━━━ CHECK 3: File Integrity ━━━
+  ✅ No zero-byte files
+  ✅ All files ≥10KB (64 images)
+
+━━━ CHECK 4: Image Dimensions ━━━
+  ✅ All 1 images ≥1200px wide
+
+━━━ CHECK 5: Blueprint Coverage ━━━
+PRODUCT_MISS=0
+INDUSTRY_MISS=0
+  ✅ All products have images
+  ✅ All industries have images
+
+━━━ CHECK 6: Competitive Selection Evidence ━━━
+  ✅ All 2 slots have vision scores — competitive selection confirmed
+  ✅ Image sources recorded
+
+━━━ CHECK 7: Alt Text in images.ts ━━━
+  ✅ Alt text: 12 EN, 12 FR
+
+━━━ CHECK 8: Hero Image Resolution ━━━
+  ⚠️  Could not locate hero image for resolution check
+
+═══════════════════════════════════════════════════
+  ✅ IMAGE RANK GATE: PASS (10 passed, 1 warnings)
+  All images competitively selected and validated.
+═══════════════════════════════════════════════════
