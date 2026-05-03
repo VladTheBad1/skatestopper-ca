@@ -1,15 +1,9 @@
 {
     "total": 48,
-    "en_short": 48,
-    "fr_short": 48,
-    "no_hook": 48,
+    "en_short": 0,
+    "fr_short": 0,
+    "no_hook": 0,
     "duplicates": 0,
-    "en_short_list": [
-        "Toronto: 0w",
-        "Montr\u00e9al: 0w",
-        "Calgary: 0w",
-        "Ottawa: 0w",
-        "Edmonton: 0w"
-    ],
+    "en_short_list": [],
     "dupe_list": []
 }

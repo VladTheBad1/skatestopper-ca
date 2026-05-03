@@ -73,7 +73,7 @@ export default function PageHero({ eyebrow, title, subtitle, imageSrc, imageAlt,
           ))}
         </nav>
         {eyebrow && <div className="eyebrow mb-4">{eyebrow}</div>}
-        <h1 className="font-display text-[30px] sm:text-[44px] lg:text-[64px] leading-[1.08] sm:leading-[1.05] tracking-[-0.01em] max-w-[820px]">
+        <h1 className="font-display animate-fade-in text-[30px] sm:text-[44px] lg:text-[64px] leading-[1.08] sm:leading-[1.05] tracking-[-0.01em] max-w-[820px]">
           {title}
         </h1>
         {subtitle && (

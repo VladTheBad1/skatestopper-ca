@@ -19,7 +19,7 @@ export default function IndustryCard({ name, slug, description, image, locale }:
   const cta = locale === 'en' ? 'Explore' : 'Explorer'
   const imgSrc = image || `/images/industries/${slug}.webp`
   return (
-    <Link href={href} className="group block bg-white border border-[var(--border-light)] hover:border-[var(--accent)] transition-colors overflow-hidden">
+    <Link href={href} className="group animate-fade-in block animate-fade-in transition-transform bg-white border border-[var(--border-light)] hover:border-[var(--accent)] transition-colors overflow-hidden">
       <div className="aspect-[4/3] bg-[var(--bg-light)] overflow-hidden">
         <img
           src={imgSrc}

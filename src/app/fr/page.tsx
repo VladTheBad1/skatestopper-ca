@@ -10,7 +10,7 @@ import { siteConfig } from '@/config/site-config'
 import { buildPageMeta, buildOrganizationSchema, buildFAQSchema, buildSpeakableSchema } from '@/lib/seo'
 import { faqs } from '@/data/faqs'
 
-import HomeHero from '@/components/home/HomeHero'
+import HeroSection from '@/components/HeroSection'
 import TrustStrip from '@/components/home/TrustStrip'
 import SolutionsSection from '@/components/home/SolutionsSection'
 import ApplicationsSection from '@/components/home/ApplicationsSection'
@@ -31,7 +31,7 @@ export default function HomePageFr() {
   return (
     <main>
       {/* Héros en premier pour que le H1 soit haut dans le document (hero-presence-gate). */}
-      <HomeHero locale="fr" />
+      <HeroSection locale="fr" />
       <TrustStrip locale="fr" />
       <SolutionsSection locale="fr" />
       <ApplicationsSection locale="fr" />

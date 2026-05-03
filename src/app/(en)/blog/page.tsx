@@ -39,7 +39,7 @@ export default function BlogPage() {
         <div className="mx-auto max-w-[1320px] px-6 lg:px-12">
         <SectionHeader eyebrow="Resources" title="Articles & Guides" highlight="Guides" description="Articles on procurement, code compliance, climate engineering, and field-tested install patterns." />
           {posts.length === 0 ? (
-            <p className="text-center text-[var(--text-light)] py-20">Articles coming soon.</p>
+            <p className="text-center text-[var(--text-light)] py-20">No articles published yet — check back shortly.</p>
           ) : (
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
               {posts.map((post) => (

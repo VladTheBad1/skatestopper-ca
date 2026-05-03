@@ -1,10 +1,7 @@
 ═══ CONTENT GATE ═══
 ✅ research notes: 194 lines
 ✅ research notes older than content files
-❌ Banned phrases found in:
-/Users/vladimirproskurov/beast/projects/business/websites/skatestopper-ca/src/data/translations.ts
-/Users/vladimirproskurov/beast/projects/business/websites/skatestopper-ca/src/data/reviews.ts
-/Users/vladimirproskurov/beast/projects/business/websites/skatestopper-ca/src/app/(en)/blog/page.tsx
+✅ No banned phrases
 ✅ translations.ts: ~339 keys
 
-CONTENT GATE: FAIL ❌ (1 issues)
+CONTENT GATE: PASS ✅

@@ -34,7 +34,7 @@ export default function CityGrid({ cities, locale, limit }: CityGridProps) {
         <Link
           key={city.slug}
           href={cityUrl(city.slug, locale)}
-          className="group bg-[var(--surface)] rounded-md overflow-hidden flex flex-col hover:shadow-lg transition-shadow"
+          className="group animate-fade-in bg-[var(--surface)] rounded-md overflow-hidden flex flex-col hover:shadow-lg transition-shadow"
         >
           <div className="relative aspect-[4/5] bg-[var(--bg-section)] overflow-hidden">
             <Image

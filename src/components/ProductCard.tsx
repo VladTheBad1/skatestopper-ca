@@ -24,7 +24,7 @@ export default function ProductCard({ name, slug, image, locale }: ProductCardPr
   return (
     <Link
       href={href}
-      className="group block"
+      className="group animate-fade-in block animate-fade-in transition-transform"
     >
       <div className="aspect-[4/5] bg-[var(--bg-deep)] overflow-hidden">
         <img

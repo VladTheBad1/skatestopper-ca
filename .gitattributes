@@ -1,0 +1,20 @@
+# GitHub Linguist overrides — show this repo's real source mix.
+#
+# Without these, scraped competitor HTML + audit reports + JSON dumps
+# overwhelm the source TypeScript and the repo shows up as "HTML" or "JSON".
+
+# Audit + evidence + research artifacts — not source code
+audit/**                  linguist-documentation
+evidence/**               linguist-documentation
+blueprint/research/**     linguist-documentation
+design/**                 linguist-documentation
+public/llms.txt           linguist-documentation
+
+# Generated / vendored
+public/sitemap*.xml       linguist-generated
+public/robots.txt         linguist-generated
+.next/**                  linguist-generated
+
+# Data files — keep visible but mark as data, not source
+*.json                    linguist-detectable=false
+*.md                      linguist-documentation

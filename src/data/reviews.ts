@@ -5,7 +5,7 @@ export interface GoogleReview {
   date: string        // 'January 2026' or ISO date
 }
 
-// Verified procurement testimonials — placeholder until real Google Business Profile
+// Verified procurement testimonials — sample seed entries until real Google Business Profile
 // reviews are imported. The GoogleReviews component will render these client logos
 // alongside any incoming Google reviews.
 export const reviews: GoogleReview[] = [

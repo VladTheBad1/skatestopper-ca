@@ -21,7 +21,8 @@ interface SectionHeaderProps {
  * product/section noun highlighted in accent red. Used by ProductDetailPage,
  * IndustryDetailPage, and any future detail-page section.
  */
-export default function SectionHeader({
+export default // Section heading — animates in on first paint via CSS-only animate-fade-in.
+function SectionHeader({
   eyebrow,
   title,
   highlight,

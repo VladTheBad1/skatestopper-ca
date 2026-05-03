@@ -43,11 +43,27 @@ yarn-error.log*
 *.bak
 *.tmp
 
-# Audit working dirs (keep main reports)
+# Audit + evidence working dirs (keep main reports, exclude raw artifacts)
 audit/screenshots/
 audit/logs/
 audit/master-audit/_*.txt
 /tmp/
+
+# Research evidence — raw competitor scrapes + screenshots are not source
+evidence/competitor-pages/
+evidence/competitor-pages-v2/
+evidence/screenshots/
+evidence/brave/*.json
+evidence/dfs/*.json
+!evidence/keywords_verified.json
+!evidence/competitor-services-matrix.json
+!evidence/keywords_filtered.json
+
+# Design mockup screenshots (large PNGs, kept locally only)
+design/screenshots/
+design/mockup-sections/
+design/mockup-*.png
+phase6-homepage.html
 
 # Build artifacts
 /.factory-build-state.json

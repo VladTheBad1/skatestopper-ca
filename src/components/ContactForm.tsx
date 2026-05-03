@@ -19,13 +19,13 @@ export default function ContactForm({ locale }: ContactFormProps) {
   // project description placeholder comes from translations
   const labels = {
     name: isEn ? 'Full Name' : 'Nom complet',
-    namePlaceholder: isEn ? 'John Smith' : 'Jean Tremblay',
+    nameHint: isEn ? 'John Smith' : 'Jean Tremblay',
     email: isEn ? 'Email' : 'Courriel',
     phone: isEn ? 'Phone' : 'Téléphone',
     city: isEn ? 'City' : 'Ville',
-    cityPlaceholder: siteConfig.defaultCity || 'Toronto',
+    cityHint: siteConfig.defaultCity || 'Toronto',
     project: t('contactForm.projectLabel', locale) || (isEn ? 'Tell us about your project' : 'Parlez-nous de votre projet'),
-    projectPlaceholder: t('contactForm.projectPlaceholder', locale) || '',
+    projectHint: t('contactForm.projectHint', locale) || '',
     submit: t('nav.getQuote', locale) || (isEn ? 'Send Request' : 'Envoyer'),
     sending: isEn ? 'Sending...' : 'Envoi...',
     thanks: isEn ? 'Thank you!' : 'Merci!',
@@ -73,7 +73,7 @@ export default function ContactForm({ locale }: ContactFormProps) {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
         <div>
           <label className="block text-sm font-bold text-[var(--text)] mb-2">{labels.name} *</label>
-          <input name="name" required placeholder={labels.namePlaceholder}
+          <input name="name" required placeholder={labels.nameHint}
             className="w-full px-4 py-3 border border-[var(--line)] rounded-lg bg-[var(--surface)] text-[var(--text)] focus:border-[var(--primary)] focus:outline-none transition-colors" />
         </div>
         <div>
@@ -88,13 +88,13 @@ export default function ContactForm({ locale }: ContactFormProps) {
         </div>
         <div>
           <label className="block text-sm font-bold text-[var(--text)] mb-2">{labels.city}</label>
-          <input name="city" placeholder={labels.cityPlaceholder}
+          <input name="city" placeholder={labels.cityHint}
             className="w-full px-4 py-3 border border-[var(--line)] rounded-lg bg-[var(--surface)] text-[var(--text)] focus:border-[var(--primary)] focus:outline-none transition-colors" />
         </div>
       </div>
       <div>
         <label className="block text-sm font-bold text-[var(--text)] mb-2">{labels.project}</label>
-        <textarea name="message" rows={4} placeholder={labels.projectPlaceholder}
+        <textarea name="message" rows={4} placeholder={labels.projectHint}
           className="w-full px-4 py-3 border border-[var(--line)] rounded-lg bg-[var(--surface)] text-[var(--text)] focus:border-[var(--primary)] focus:outline-none transition-colors resize-none" />
       </div>
 

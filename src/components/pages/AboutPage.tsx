@@ -1,5 +1,9 @@
 import PageHero from '@/components/PageHero'
 import SectionHeader from '@/components/SectionHeader'
+import StatsBar from '@/components/StatsBar'
+import HowItWorks from '@/components/HowItWorks'
+import WhyChooseUs from '@/components/WhyChooseUs'
+import Testimonials from '@/components/Testimonials'
 import { siteConfig } from '@/config/site-config'
 import { renderProse } from '@/lib/prose'
 import about from '@/data/about.json'
@@ -138,6 +142,14 @@ export default function AboutPage({ locale }: AboutPageProps) {
           </div>
         </section>
       )}
+      <StatsBar locale={locale} />
+      <HowItWorks locale={locale} />
+      <WhyChooseUs locale={locale} />
+      <Testimonials locale={locale} max={3} />
+      {/* CTABanner intentionally not rendered here — the integrated
+          footer band already provides the page CTA. CTABanner is
+          available for landing-page variants where the footer is
+          suppressed. */}
 </main>
   )
 }

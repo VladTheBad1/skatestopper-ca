@@ -1,9 +1,11 @@
 import Link from 'next/link'
-import { MessageCircle, Phone, Mail, Clock, ShieldCheck, MapPin } from 'lucide-react'
+import { Phone, Mail, Clock, ShieldCheck, MapPin } from 'lucide-react'
 import { siteConfig } from '@/config/site-config'
 import { staticUrl, contactUrl, productUrl } from '@/lib/routes'
 import { materials } from '@/data/products'
 import { industries } from '@/data/industries'
+import CTABanner from '@/components/CTABanner'
+import Logo from '@/components/Logo'
 
 interface FooterProps {
   locale: 'en' | 'fr'
@@ -24,45 +26,16 @@ export default function Footer({ locale }: FooterProps) {
   const apps = industries.slice(0, 4)
 
   return (
-    <footer className="bg-[var(--bg-dark)] text-white">
-      {/* Full-width red CTA band — pulled up to bridge the section above and the dark footer below */}
-      <div className="bg-[var(--accent)] lg:-mt-8">
-        <div className="mx-auto max-w-[1320px] px-6 lg:px-12 py-6 lg:py-7 flex flex-col lg:flex-row lg:items-center gap-5 lg:gap-8">
-          <div className="flex items-center gap-4 flex-1 min-w-0">
-            <div className="w-11 h-11 rounded-full bg-white/15 flex items-center justify-center flex-shrink-0">
-              <MessageCircle className="w-5 h-5" />
-            </div>
-            <div className="min-w-0">
-              <div className="font-display text-[20px] lg:text-[22px] leading-tight">
-                {isEn ? 'Free site assessment.' : 'Évaluation de site gratuite.'}
-              </div>
-              <p className="text-[13px] text-white/90 mt-1 leading-snug">
-                {isEn
-                  ? 'Send us your address — we reply with specs, install method, and lead time. No obligation.'
-                  : 'Envoyez-nous votre adresse — nous répondons avec spécifications, méthode et délai. Sans engagement.'}
-              </p>
-            </div>
-          </div>
-          <Link
-            href={contactUrl(locale)}
-            className="inline-flex items-center justify-center gap-2 bg-white text-[var(--accent)] font-semibold text-[13px] px-5 py-3 rounded-sm hover:bg-white/90 transition-colors flex-shrink-0 self-start lg:self-auto"
-          >
-            {isEn ? 'Get my assessment →' : 'Obtenir mon évaluation →'}
-          </Link>
-        </div>
-      </div>
+    <footer className="bg-[var(--bg-dark)] text-white animate-fade-in">
+      {/* Red CTA band — "Free site assessment". Bridges the section above and the dark footer below. */}
+      <CTABanner locale={locale} bridge />
 
       <div className="mx-auto max-w-[1320px] px-6 lg:px-12">
         {/* Dark column area */}
         <div className="py-12 grid grid-cols-2 lg:grid-cols-4 gap-x-8 gap-y-10">
-            {/* Brand identity */}
+            {/* Brand identity — signature element (Phase 5.3) */}
             <div className="col-span-2 lg:col-span-1">
-              <div className="font-display text-[20px] leading-none">
-                SKATE<span className="text-[var(--accent)]">STOPPER</span>.CA
-              </div>
-              <div className="text-[8.5px] tracking-[0.22em] text-[var(--text-muted-on-dark)] mt-1.5">
-                {isEn ? 'SKATE DETERRENT SOLUTIONS' : 'SOLUTIONS ANTI-PLANCHE'}
-              </div>
+              <Logo locale={locale} variant="light" />
               <p className="text-[13px] text-white/70 leading-[1.65] mt-5 max-w-[260px]">
                 {isEn
                   ? 'Canadian-built skate stoppers, ledge deterrents, and handrail stops — engineered for our climate, shipped coast to coast.'
