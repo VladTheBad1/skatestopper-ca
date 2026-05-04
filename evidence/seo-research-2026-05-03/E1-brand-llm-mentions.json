@@ -1,0 +1,34 @@
+{
+    "version": "0.1.20260430",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "0 sec.",
+    "cost": 0,
+    "tasks_count": 1,
+    "tasks_error": 1,
+    "tasks": [
+        {
+            "id": "05040700-1495-0635-0000-39b49bff408b",
+            "status_code": 40204,
+            "status_message": "Access denied. Visit Plans and Subscriptions to activate your subscription and get access to this API.",
+            "time": "0 sec.",
+            "cost": 0,
+            "result_count": 0,
+            "path": [
+                "v3",
+                "ai_optimization",
+                "llm_mentions",
+                "aggregated_metrics",
+                "live"
+            ],
+            "data": {
+                "api": "ai_optimization",
+                "function": "aggregated_metrics",
+                "target": "skatestopper.ca",
+                "date_from": "2026-04-01",
+                "date_to": "2026-05-03"
+            },
+            "result": null
+        }
+    ]
+}

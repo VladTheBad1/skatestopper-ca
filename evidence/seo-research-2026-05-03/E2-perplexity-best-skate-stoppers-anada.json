@@ -1,0 +1,86 @@
+{
+    "version": "0.1.20260430",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "5.4164 sec.",
+    "cost": 0.005919,
+    "tasks_count": 1,
+    "tasks_error": 0,
+    "tasks": [
+        {
+            "id": "05040700-1495-0612-0000-2977b1ae2037",
+            "status_code": 20000,
+            "status_message": "Ok.",
+            "time": "5.3889 sec.",
+            "cost": 0.005919,
+            "result_count": 1,
+            "path": [
+                "v3",
+                "ai_optimization",
+                "perplexity",
+                "llm_responses",
+                "live"
+            ],
+            "data": {
+                "api": "ai_optimization",
+                "function": "llm_responses",
+                "se": "perplexity",
+                "user_prompt": "best skate stoppers Canada",
+                "model_name": "sonar"
+            },
+            "result": [
+                {
+                    "model_name": "sonar",
+                    "input_tokens": 13,
+                    "output_tokens": 306,
+                    "reasoning_tokens": 0,
+                    "web_search": true,
+                    "money_spent": 0.005319,
+                    "datetime": "2026-05-04 07:00:18 +00:00",
+                    "items": [
+                        {
+                            "type": "message",
+                            "sections": [
+                                {
+                                    "type": "text",
+                                    "text": "# Best Skate Stoppers in Canada\n\nBased on the search results, here are some top options for roller skate toe stops available in Canada:\n\n## Recommended Products\n\n**1. Crazy Bounce Stopper (5\/8\")**\n- Available at: RollerGirl.ca\n- Known for outstanding performance, stability, and longevity\n\n**2. Bont ToeGo Roller Skate Toe Stops**\n- Available at: Canada.bont.com\n- Features optimal stem length and stopper angle\n- Minimizes wheel clipping with a large surface area for stability\n- Designed for modern roller derby (used for momentum, not just stopping)\n\n**3. Roll-Line Metric Toe Stops**\n- Available at: Rollerskatin.ca\n- Price: $26.34\n\n**4. BIONIC Mirage Toe Stops**\n- Available at: Rollerskatin.ca\n- Price: $21.95\n\n**5. Snyder Toe Stops**\n- Available at: Rollerskatin.ca\n- Price: $32.92\n\n## Canadian Retailers\n\n- **RollerGirl.ca** - Specializes in roller skate equipment\n- **Rollerskatin.ca** - Good selection of stopper brands\n- **Lowlifemtl.com** - Montreal-based full-service roller skate shop with various toe stop options ($13-$40)\n\nFor the best choice, consider your skating style and budget. The Bont ToeGo and Crazy Bounce are well-regarded for performance, while Montreal's Lowlife offers competitive pricing.",
+                                    "annotations": [
+                                        {
+                                            "title": "Stoppers - RollerGirl",
+                                            "url": "https:\/\/www.rollergirl.ca\/skateshop\/stoppers-c-26_30.html"
+                                        },
+                                        {
+                                            "title": "Maple Leaf Anti-Skateboard Guard (20pc kit) - BC Site Service",
+                                            "url": "https:\/\/www.bcsiteservice.com\/product\/maple-leaf-anti-skateboard-guard\/"
+                                        },
+                                        {
+                                            "title": "Stoppers - Rollerskatin.ca",
+                                            "url": "https:\/\/rollerskatin.ca\/products\/parts\/stoppers"
+                                        },
+                                        {
+                                            "title": "ToeGo Roller Skate Toe Stops - Bont Canada",
+                                            "url": "https:\/\/canada.bont.com\/products\/toego-roller-skate-toe-stops"
+                                        },
+                                        {
+                                            "title": "Skateboard Deterrents - The Park Catalog",
+                                            "url": "https:\/\/www.theparkcatalog.com\/skateboard-deterrents"
+                                        },
+                                        {
+                                            "title": "Skatestoppers.com",
+                                            "url": "http:\/\/www.skatestoppers.com"
+                                        },
+                                        {
+                                            "title": "toe stops – lowlifemtl",
+                                            "url": "https:\/\/www.lowlifemtl.com\/collections\/toe-stops"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "fan_out_queries": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "version": "0.1.20260430",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "4.8995 sec.",
+    "cost": 0.005964,
+    "tasks_count": 1,
+    "tasks_error": 0,
+    "tasks": [
+        {
+            "id": "05040700-1495-0612-0000-828c5b9289a8",
+            "status_code": 20000,
+            "status_message": "Ok.",
+            "time": "4.8866 sec.",
+            "cost": 0.005964,
+            "result_count": 1,
+            "path": [
+                "v3",
+                "ai_optimization",
+                "perplexity",
+                "llm_responses",
+                "live"
+            ],
+            "data": {
+                "api": "ai_optimization",
+                "function": "llm_responses",
+                "se": "perplexity",
+                "user_prompt": "where to buy skateboard deterrents Canada",
+                "model_name": "sonar"
+            },
+            "result": [
+                {
+                    "model_name": "sonar",
+                    "input_tokens": 15,
+                    "output_tokens": 349,
+                    "reasoning_tokens": 0,
+                    "web_search": true,
+                    "money_spent": 0.005364,
+                    "datetime": "2026-05-04 07:00:24 +00:00",
+                    "items": [
+                        {
+                            "type": "message",
+                            "sections": [
+                                {
+                                    "type": "text",
+                                    "text": "**Skateboard deterrents can be purchased online from Canadian retailers like Preventer.ca and BC Site Service, as well as international suppliers such as Park Warehouse that ship to Canada.** [1][6][7]\n\n### Canadian Suppliers\n- **Preventer.ca**: Offers **SkateStopper** deterrents designed for commercial and public spaces in Canada. These durable products prevent grinding damage on infrastructure while maintaining safety and aesthetics.[7]\n- **BC Site Service**: Sells the **Maple Leaf Anti-Skateboard Guard** (20-piece kit), featuring decorative leaf designs with varied edge profiles to deter skating.[6]\n\n### International Options Likely Shipping to Canada\n- **Park Warehouse**: Provides a range of **aluminum skateboard deterrents** (e.g., Cylinder, Hemi, and Sphere Shaped GrinderMinders; 8\" Aluminum Gorilla Clips for walls). These are suited for curbs, benches, handrails, and more; confirm shipping to Canada via their site.[1]\n- Other U.S.-based manufacturers like Grind to a Halt (GrinderMinders), Skatestoppers.com, and Intellicept SKATESTOPPERS may ship internationally—contact them directly (e.g., Grind to a Halt in Elburn, IL at 630.365.2375).[4][5]\n\nNo major Canadian retail chains like Canadian Tire or Walmart carry these specialized products; they focus on skateboards rather than deterrents.[2] For custom or stainless steel\/brass options, check architectural suppliers like Classic Architectural Group, though they emphasize U.K.\/European focus.[3] Search local hardware stores or contact manufacturers for bulk\/installation needs, as availability may vary by province.",
+                                    "annotations": [
+                                        {
+                                            "title": "Skateboard Deterrents - Skate Stoppers - Park Warehouse",
+                                            "url": "https:\/\/parkwarehouse.com\/product-category\/other\/skateboard-deterrents\/"
+                                        },
+                                        {
+                                            "title": "Parent FAQ | Toronto - Impact Skateboard Club",
+                                            "url": "https:\/\/www.impactskateclub.com\/faq"
+                                        },
+                                        {
+                                            "title": "Skateboard Deterrents | Skate stops - Classic Architectural Group",
+                                            "url": "https:\/\/classic-arch.com\/skate-deterrents\/"
+                                        },
+                                        {
+                                            "title": "LandscapeArchitecture.com>Manufacturers>Skate Deterrent",
+                                            "url": "https:\/\/landscapearchitecture.com\/categories\/manufacturers\/skatedeterrents.html"
+                                        },
+                                        {
+                                            "title": "Skatestoppers.com",
+                                            "url": "http:\/\/www.skatestoppers.com"
+                                        },
+                                        {
+                                            "title": "Maple Leaf Anti-Skateboard Guard (20pc kit) - BC Site Service",
+                                            "url": "https:\/\/www.bcsiteservice.com\/product\/maple-leaf-anti-skateboard-guard\/"
+                                        },
+                                        {
+                                            "title": "Skate Deterrents - Preventer",
+                                            "url": "https:\/\/preventer.ca\/products\/skate-stopper"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "fan_out_queries": null
+                }
+            ]
+        }
+    ]
+}

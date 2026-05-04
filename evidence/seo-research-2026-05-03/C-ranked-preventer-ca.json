@@ -1,0 +1,2776 @@
+{
+    "version": "0.1.20260430",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "0.2815 sec.",
+    "cost": 0.0114,
+    "tasks_count": 1,
+    "tasks_error": 0,
+    "tasks": [
+        {
+            "id": "05040657-1495-0381-0000-f901a8c4dbe5",
+            "status_code": 20000,
+            "status_message": "Ok.",
+            "time": "0.2542 sec.",
+            "cost": 0.0114,
+            "result_count": 1,
+            "path": [
+                "v3",
+                "dataforseo_labs",
+                "google",
+                "ranked_keywords",
+                "live"
+            ],
+            "data": {
+                "api": "dataforseo_labs",
+                "function": "ranked_keywords",
+                "se_type": "google",
+                "target": "preventer.ca",
+                "location_code": 2124,
+                "language_code": "en",
+                "limit": 50,
+                "order_by": [
+                    "keyword_data.keyword_info.search_volume,desc"
+                ]
+            },
+            "result": [
+                {
+                    "se_type": "google",
+                    "target": "preventer.ca",
+                    "location_code": 2124,
+                    "language_code": "en",
+                    "total_count": 14,
+                    "items_count": 14,
+                    "metrics": {
+                        "organic": {
+                            "pos_1": 0,
+                            "pos_2_3": 0,
+                            "pos_4_10": 3,
+                            "pos_11_20": 1,
+                            "pos_21_30": 0,
+                            "pos_31_40": 1,
+                            "pos_41_50": 5,
+                            "pos_51_60": 0,
+                            "pos_61_70": 3,
+                            "pos_71_80": 1,
+                            "pos_81_90": 0,
+                            "pos_91_100": 0,
+                            "etv": 16.302000045776367,
+                            "count": 14,
+                            "estimated_paid_traffic_cost": 38.09981060400605,
+                            "is_new": 4,
+                            "is_up": 7,
+                            "is_down": 3,
+                            "is_lost": 0,
+                            "clickstream_etv": null,
+                            "clickstream_gender_distribution": null,
+                            "clickstream_age_distribution": null
+                        },
+                        "paid": {
+                            "pos_1": 0,
+                            "pos_2_3": 0,
+                            "pos_4_10": 0,
+                            "pos_11_20": 0,
+                            "pos_21_30": 0,
+                            "pos_31_40": 0,
+                            "pos_41_50": 0,
+                            "pos_51_60": 0,
+                            "pos_61_70": 0,
+                            "pos_71_80": 0,
+                            "pos_81_90": 0,
+                            "pos_91_100": 0,
+                            "etv": 0,
+                            "count": 0,
+                            "estimated_paid_traffic_cost": 0,
+                            "is_new": 0,
+                            "is_up": 0,
+                            "is_down": 0,
+                            "is_lost": 0,
+                            "clickstream_etv": null,
+                            "clickstream_gender_distribution": null,
+                            "clickstream_age_distribution": null
+                        },
+                        "featured_snippet": null,
+                        "local_pack": null,
+                        "ai_overview_reference": null
+                    },
+                    "metrics_absolute": null,
+                    "items": [
+                        {
+                            "se_type": "google",
+                            "keyword_data": {
+                                "se_type": "google",
+                                "keyword": "signage wet floor",
+                                "location_code": 2124,
+                                "language_code": "en",
+                                "keyword_info": {
+                                    "se_type": "google",
+                                    "last_updated_time": "2026-04-13 22:46:11 +00:00",
+                                    "competition": 1,
+                                    "competition_level": "HIGH",
+                                    "cpc": 2.9100000858306885,
+                                    "search_volume": 1300,
+                                    "low_top_of_page_bid": 0.6899999976158142,
+                                    "high_top_of_page_bid": 11.5,
+                                    "categories": [
+                                        10004,
+                                        10308,
+                                        11398
+                                    ],
+                                    "monthly_searches": [
+                                        {
+                                            "year": 2026,
+                                            "month": 3,
+                                            "search_volume": 1300
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 2,
+                                            "search_volume": 1600
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 1,
+                                            "search_volume": 1600
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 12,
+                                            "search_volume": 1300
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 11,
+                                            "search_volume": 1300
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 10,
+                                            "search_volume": 1600
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 9,
+                                            "search_volume": 1600
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 8,
+                                            "search_volume": 1000
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 7,
+                                            "search_volume": 1300
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 6,
+                                            "search_volume": 1300
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 5,
+                                            "search_volume": 1300
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 4,
+                                            "search_volume": 1000
+                                        }
+                                    ],
+                                    "search_volume_trend": {
+                                        "monthly": -19,
+                                        "quarterly": -19,
+                                        "yearly": 0
+                                    }
+                                },
+                                "keyword_info_normalized_with_bing": null,
+                                "keyword_info_normalized_with_clickstream": null,
+                                "clickstream_keyword_info": null,
+                                "keyword_properties": {
+                                    "se_type": "google",
+                                    "core_keyword": null,
+                                    "synonym_clustering_algorithm": "text_processing",
+                                    "keyword_difficulty": 0,
+                                    "detected_language": "en",
+                                    "is_another_language": false
+                                },
+                                "serp_info": {
+                                    "se_type": "google",
+                                    "check_url": "https:\/\/www.google.com\/search?q=signage%20wet%20floor&hl=en&gl=CA&ie=UTF-8&uule=w+CAIQIFISCdlqzDfTAw1LEaWPQ6Iqt2iZ",
+                                    "serp_item_types": [
+                                        "images",
+                                        "organic",
+                                        "popular_products",
+                                        "people_also_ask",
+                                        "related_searches"
+                                    ],
+                                    "se_results_count": 12100000,
+                                    "last_updated_time": "2026-04-18 13:39:26 +00:00",
+                                    "previous_updated_time": "2026-03-05 00:32:59 +00:00"
+                                },
+                                "avg_backlinks_info": {
+                                    "se_type": "google",
+                                    "backlinks": 0.5,
+                                    "dofollow": 0.5,
+                                    "referring_pages": 0.5,
+                                    "referring_domains": 0.30000001192092896,
+                                    "referring_main_domains": 0.20000000298023224,
+                                    "rank": 2.700000047683716,
+                                    "main_domain_rank": 430.29998779296875,
+                                    "last_updated_time": "2026-04-18 13:39:28 +00:00"
+                                },
+                                "search_intent_info": {
+                                    "se_type": "google",
+                                    "main_intent": "transactional",
+                                    "foreign_intent": null,
+                                    "last_updated_time": "2026-04-29 01:37:01 +00:00"
+                                }
+                            },
+                            "ranked_serp_element": {
+                                "se_type": "google",
+                                "serp_item": {
+                                    "se_type": "google",
+                                    "type": "organic",
+                                    "rank_group": 79,
+                                    "rank_absolute": 89,
+                                    "position": "left",
+                                    "xpath": "\/html[1]\/body[1]\/div[3]\/div[1]\/div[12]\/div[1]\/div[2]\/div[2]\/div[1]\/div[1]\/div[10]\/div[1]\/div[1]\/div[1]",
+                                    "domain": "preventer.ca",
+                                    "title": "wet floor caution signs - Preventer",
+                                    "url": "https:\/\/preventer.ca\/products\/caution-wet-floor-signs",
+                                    "breadcrumb": "https:\/\/preventer.ca › products › caution-wet-floor-signs",
+                                    "website_name": "preventer.ca",
+                                    "is_image": false,
+                                    "is_video": false,
+                                    "is_featured_snippet": false,
+                                    "is_malicious": false,
+                                    "description": "Jul 9, 2023 — A commercial facility like an office tower should utilize leak-capturing products, such as buckets and caution signs, for several reasons. Read more",
+                                    "pre_snippet": "07\/09\/2023 00:00:00",
+                                    "extended_snippet": null,
+                                    "amp_version": false,
+                                    "rating": null,
+                                    "highlighted": null,
+                                    "links": null,
+                                    "about_this_result": null,
+                                    "main_domain": "preventer.ca",
+                                    "relative_url": "\/products\/caution-wet-floor-signs",
+                                    "etv": 2.7300000190734863,
+                                    "estimated_paid_traffic_cost": 7.944300174713135,
+                                    "clickstream_etv": null,
+                                    "rank_changes": {
+                                        "previous_rank_absolute": 70,
+                                        "is_new": false,
+                                        "is_up": false,
+                                        "is_down": true
+                                    },
+                                    "backlinks_info": null,
+                                    "rank_info": {
+                                        "page_rank": 0,
+                                        "main_domain_rank": 150
+                                    }
+                                },
+                                "check_url": "https:\/\/www.google.com\/search?q=signage%20wet%20floor&hl=en&gl=CA&ie=UTF-8&uule=w+CAIQIFISCdlqzDfTAw1LEaWPQ6Iqt2iZ",
+                                "serp_item_types": [
+                                    "images",
+                                    "organic",
+                                    "popular_products",
+                                    "people_also_ask",
+                                    "related_searches"
+                                ],
+                                "se_results_count": 12100000,
+                                "keyword_difficulty": 0,
+                                "is_lost": false,
+                                "last_updated_time": "2026-04-18 13:39:26 +00:00",
+                                "previous_updated_time": "2026-03-05 00:32:59 +00:00"
+                            }
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword_data": {
+                                "se_type": "google",
+                                "keyword": "wet floor sign",
+                                "location_code": 2124,
+                                "language_code": "en",
+                                "keyword_info": {
+                                    "se_type": "google",
+                                    "last_updated_time": "2026-04-14 09:49:30 +00:00",
+                                    "competition": 1,
+                                    "competition_level": "HIGH",
+                                    "cpc": 2.9100000858306885,
+                                    "search_volume": 1300,
+                                    "low_top_of_page_bid": 0.6899999976158142,
+                                    "high_top_of_page_bid": 11.5,
+                                    "categories": [
+                                        10004,
+                                        10308,
+                                        11398
+                                    ],
+                                    "monthly_searches": [
+                                        {
+                                            "year": 2026,
+                                            "month": 3,
+                                            "search_volume": 1300
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 2,
+                                            "search_volume": 1600
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 1,
+                                            "search_volume": 1600
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 12,
+                                            "search_volume": 1300
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 11,
+                                            "search_volume": 1300
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 10,
+                                            "search_volume": 1600
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 9,
+                                            "search_volume": 1600
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 8,
+                                            "search_volume": 1000
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 7,
+                                            "search_volume": 1300
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 6,
+                                            "search_volume": 1300
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 5,
+                                            "search_volume": 1300
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 4,
+                                            "search_volume": 1000
+                                        }
+                                    ],
+                                    "search_volume_trend": {
+                                        "monthly": -19,
+                                        "quarterly": -19,
+                                        "yearly": 0
+                                    }
+                                },
+                                "keyword_info_normalized_with_bing": null,
+                                "keyword_info_normalized_with_clickstream": null,
+                                "clickstream_keyword_info": null,
+                                "keyword_properties": {
+                                    "se_type": "google",
+                                    "core_keyword": null,
+                                    "synonym_clustering_algorithm": "text_processing",
+                                    "keyword_difficulty": 0,
+                                    "detected_language": "en",
+                                    "is_another_language": false
+                                },
+                                "serp_info": {
+                                    "se_type": "google",
+                                    "check_url": "https:\/\/www.google.com\/search?q=wet%20floor%20sign&hl=en&gl=CA&ie=UTF-8&uule=w+CAIQIFISCdlqzDfTAw1LEaWPQ6Iqt2iZ",
+                                    "serp_item_types": [
+                                        "organic",
+                                        "images",
+                                        "people_also_ask",
+                                        "video",
+                                        "related_searches"
+                                    ],
+                                    "se_results_count": 447000000,
+                                    "last_updated_time": "2026-04-18 12:34:17 +00:00",
+                                    "previous_updated_time": "2026-03-05 00:10:37 +00:00"
+                                },
+                                "avg_backlinks_info": {
+                                    "se_type": "google",
+                                    "backlinks": 0.20000000298023224,
+                                    "dofollow": 0.20000000298023224,
+                                    "referring_pages": 0.20000000298023224,
+                                    "referring_domains": 0.20000000298023224,
+                                    "referring_main_domains": 0.20000000298023224,
+                                    "rank": 2.9000000953674316,
+                                    "main_domain_rank": 401.20001220703125,
+                                    "last_updated_time": "2026-04-18 12:34:19 +00:00"
+                                },
+                                "search_intent_info": {
+                                    "se_type": "google",
+                                    "main_intent": "transactional",
+                                    "foreign_intent": [
+                                        "informational"
+                                    ],
+                                    "last_updated_time": "2026-04-30 11:30:03 +00:00"
+                                }
+                            },
+                            "ranked_serp_element": {
+                                "se_type": "google",
+                                "serp_item": {
+                                    "se_type": "google",
+                                    "type": "organic",
+                                    "rank_group": 63,
+                                    "rank_absolute": 73,
+                                    "position": "left",
+                                    "xpath": "\/html[1]\/body[1]\/div[3]\/div[1]\/div[12]\/div[1]\/div[2]\/div[2]\/div[1]\/div[1]\/div[6]\/div[1]\/div[1]\/div[1]",
+                                    "domain": "preventer.ca",
+                                    "title": "wet floor caution signs - Preventer",
+                                    "url": "https:\/\/preventer.ca\/products\/caution-wet-floor-signs",
+                                    "breadcrumb": "https:\/\/preventer.ca › products › caution-wet-floor-signs",
+                                    "website_name": "preventer.ca",
+                                    "is_image": false,
+                                    "is_video": false,
+                                    "is_featured_snippet": false,
+                                    "is_malicious": false,
+                                    "description": "Jul 9, 2023 — A commercial facility like an office tower should utilize leak-capturing products, such as buckets and caution signs, for several reasons. Read more",
+                                    "pre_snippet": "07\/09\/2023 00:00:00",
+                                    "extended_snippet": null,
+                                    "amp_version": false,
+                                    "rating": null,
+                                    "highlighted": [
+                                        "signs"
+                                    ],
+                                    "links": null,
+                                    "about_this_result": null,
+                                    "main_domain": "preventer.ca",
+                                    "relative_url": "\/products\/caution-wet-floor-signs",
+                                    "etv": 2.7300000190734863,
+                                    "estimated_paid_traffic_cost": 7.944300174713135,
+                                    "clickstream_etv": null,
+                                    "rank_changes": {
+                                        "previous_rank_absolute": 76,
+                                        "is_new": false,
+                                        "is_up": true,
+                                        "is_down": false
+                                    },
+                                    "backlinks_info": null,
+                                    "rank_info": {
+                                        "page_rank": 0,
+                                        "main_domain_rank": 150
+                                    }
+                                },
+                                "check_url": "https:\/\/www.google.com\/search?q=wet%20floor%20sign&hl=en&gl=CA&ie=UTF-8&uule=w+CAIQIFISCdlqzDfTAw1LEaWPQ6Iqt2iZ",
+                                "serp_item_types": [
+                                    "organic",
+                                    "images",
+                                    "people_also_ask",
+                                    "video",
+                                    "related_searches"
+                                ],
+                                "se_results_count": 447000000,
+                                "keyword_difficulty": 0,
+                                "is_lost": false,
+                                "last_updated_time": "2026-04-18 12:34:17 +00:00",
+                                "previous_updated_time": "2026-03-05 00:10:37 +00:00"
+                            }
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword_data": {
+                                "se_type": "google",
+                                "keyword": "wet floors sign",
+                                "location_code": 2124,
+                                "language_code": "en",
+                                "keyword_info": {
+                                    "se_type": "google",
+                                    "last_updated_time": "2026-04-11 16:11:20 +00:00",
+                                    "competition": 1,
+                                    "competition_level": "HIGH",
+                                    "cpc": 2.9100000858306885,
+                                    "search_volume": 1300,
+                                    "low_top_of_page_bid": 0.6899999976158142,
+                                    "high_top_of_page_bid": 11.5,
+                                    "categories": [
+                                        10004,
+                                        10308,
+                                        11398
+                                    ],
+                                    "monthly_searches": [
+                                        {
+                                            "year": 2026,
+                                            "month": 3,
+                                            "search_volume": 1300
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 2,
+                                            "search_volume": 1600
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 1,
+                                            "search_volume": 1600
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 12,
+                                            "search_volume": 1300
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 11,
+                                            "search_volume": 1300
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 10,
+                                            "search_volume": 1600
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 9,
+                                            "search_volume": 1600
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 8,
+                                            "search_volume": 1000
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 7,
+                                            "search_volume": 1300
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 6,
+                                            "search_volume": 1300
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 5,
+                                            "search_volume": 1300
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 4,
+                                            "search_volume": 1000
+                                        }
+                                    ],
+                                    "search_volume_trend": {
+                                        "monthly": -19,
+                                        "quarterly": -19,
+                                        "yearly": 0
+                                    }
+                                },
+                                "keyword_info_normalized_with_bing": null,
+                                "keyword_info_normalized_with_clickstream": null,
+                                "clickstream_keyword_info": null,
+                                "keyword_properties": {
+                                    "se_type": "google",
+                                    "core_keyword": "wet floor sign",
+                                    "synonym_clustering_algorithm": "text_processing",
+                                    "keyword_difficulty": 0,
+                                    "detected_language": "en",
+                                    "is_another_language": false
+                                },
+                                "serp_info": {
+                                    "se_type": "google",
+                                    "check_url": "https:\/\/www.google.com\/search?q=wet%20floors%20sign&hl=en&gl=CA&ie=UTF-8&uule=w+CAIQIFISCdlqzDfTAw1LEaWPQ6Iqt2iZ",
+                                    "serp_item_types": [
+                                        "images",
+                                        "organic",
+                                        "popular_products",
+                                        "people_also_ask",
+                                        "video",
+                                        "discussions_and_forums",
+                                        "related_searches"
+                                    ],
+                                    "se_results_count": 33100000,
+                                    "last_updated_time": "2026-03-08 06:15:31 +00:00",
+                                    "previous_updated_time": "2026-01-25 05:42:54 +00:00"
+                                },
+                                "avg_backlinks_info": {
+                                    "se_type": "google",
+                                    "backlinks": 0.699999988079071,
+                                    "dofollow": 0.699999988079071,
+                                    "referring_pages": 0.699999988079071,
+                                    "referring_domains": 0.5,
+                                    "referring_main_domains": 0.4000000059604645,
+                                    "rank": 5.800000190734863,
+                                    "main_domain_rank": 312.1000061035156,
+                                    "last_updated_time": "2026-03-08 06:15:57 +00:00"
+                                },
+                                "search_intent_info": {
+                                    "se_type": "google",
+                                    "main_intent": "informational",
+                                    "foreign_intent": [
+                                        "transactional",
+                                        "commercial"
+                                    ],
+                                    "last_updated_time": "2026-04-30 08:57:20 +00:00"
+                                }
+                            },
+                            "ranked_serp_element": {
+                                "se_type": "google",
+                                "serp_item": {
+                                    "se_type": "google",
+                                    "type": "organic",
+                                    "rank_group": 64,
+                                    "rank_absolute": 75,
+                                    "position": "left",
+                                    "xpath": "\/html[1]\/body[1]\/div[3]\/div[1]\/div[12]\/div[1]\/div[2]\/div[2]\/div[1]\/div[1]\/div[7]\/div[1]\/div[1]",
+                                    "domain": "preventer.ca",
+                                    "title": "wet floor caution signs - Preventer",
+                                    "url": "https:\/\/preventer.ca\/products\/caution-wet-floor-signs",
+                                    "breadcrumb": "https:\/\/preventer.ca › products › caution-wet-floor-signs",
+                                    "website_name": "preventer.ca",
+                                    "is_image": false,
+                                    "is_video": false,
+                                    "is_featured_snippet": false,
+                                    "is_malicious": false,
+                                    "description": "Jul 9, 2023 — SlipSign Wet Floor Caution Sign. ... floors, or valuable equipment within the facility. This helps minimize repair costs and reduces the ... Read more",
+                                    "pre_snippet": "07\/09\/2023 00:00:00",
+                                    "extended_snippet": null,
+                                    "amp_version": false,
+                                    "rating": null,
+                                    "highlighted": [
+                                        "Wet Floor",
+                                        "Sign",
+                                        "floors"
+                                    ],
+                                    "links": null,
+                                    "about_this_result": null,
+                                    "main_domain": "preventer.ca",
+                                    "relative_url": "\/products\/caution-wet-floor-signs",
+                                    "etv": 2.7300000190734863,
+                                    "estimated_paid_traffic_cost": 7.944300174713135,
+                                    "clickstream_etv": null,
+                                    "rank_changes": {
+                                        "previous_rank_absolute": null,
+                                        "is_new": true,
+                                        "is_up": false,
+                                        "is_down": false
+                                    },
+                                    "backlinks_info": null,
+                                    "rank_info": {
+                                        "page_rank": 0,
+                                        "main_domain_rank": 146
+                                    }
+                                },
+                                "check_url": "https:\/\/www.google.com\/search?q=wet%20floors%20sign&hl=en&gl=CA&ie=UTF-8&uule=w+CAIQIFISCdlqzDfTAw1LEaWPQ6Iqt2iZ",
+                                "serp_item_types": [
+                                    "images",
+                                    "organic",
+                                    "popular_products",
+                                    "people_also_ask",
+                                    "video",
+                                    "discussions_and_forums",
+                                    "related_searches"
+                                ],
+                                "se_results_count": 33100000,
+                                "keyword_difficulty": 0,
+                                "is_lost": false,
+                                "last_updated_time": "2026-03-08 06:15:31 +00:00",
+                                "previous_updated_time": "2026-01-25 05:42:54 +00:00"
+                            }
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword_data": {
+                                "se_type": "google",
+                                "keyword": "caution floor signs",
+                                "location_code": 2124,
+                                "language_code": "en",
+                                "keyword_info": {
+                                    "se_type": "google",
+                                    "last_updated_time": "2026-04-11 12:20:42 +00:00",
+                                    "competition": 0.9900000095367432,
+                                    "competition_level": "HIGH",
+                                    "cpc": 1.3199999332427979,
+                                    "search_volume": 390,
+                                    "low_top_of_page_bid": 0.8600000143051147,
+                                    "high_top_of_page_bid": 16.950000762939453,
+                                    "categories": [
+                                        10004,
+                                        10308,
+                                        11398
+                                    ],
+                                    "monthly_searches": [
+                                        {
+                                            "year": 2026,
+                                            "month": 3,
+                                            "search_volume": 390
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 2,
+                                            "search_volume": 390
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 1,
+                                            "search_volume": 480
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 12,
+                                            "search_volume": 390
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 11,
+                                            "search_volume": 390
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 10,
+                                            "search_volume": 320
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 9,
+                                            "search_volume": 390
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 8,
+                                            "search_volume": 260
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 7,
+                                            "search_volume": 390
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 6,
+                                            "search_volume": 320
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 5,
+                                            "search_volume": 390
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 4,
+                                            "search_volume": 320
+                                        }
+                                    ],
+                                    "search_volume_trend": {
+                                        "monthly": 0,
+                                        "quarterly": -19,
+                                        "yearly": 22
+                                    }
+                                },
+                                "keyword_info_normalized_with_bing": null,
+                                "keyword_info_normalized_with_clickstream": null,
+                                "clickstream_keyword_info": null,
+                                "keyword_properties": {
+                                    "se_type": "google",
+                                    "core_keyword": "caution floor sign",
+                                    "synonym_clustering_algorithm": "text_processing",
+                                    "keyword_difficulty": 0,
+                                    "detected_language": "en",
+                                    "is_another_language": false
+                                },
+                                "serp_info": {
+                                    "se_type": "google",
+                                    "check_url": "https:\/\/www.google.com\/search?q=caution%20floor%20signs&hl=en&gl=CA&ie=UTF-8&uule=w+CAIQIFISCdlqzDfTAw1LEaWPQ6Iqt2iZ",
+                                    "serp_item_types": [
+                                        "popular_products",
+                                        "organic",
+                                        "images",
+                                        "related_searches"
+                                    ],
+                                    "se_results_count": 113000000,
+                                    "last_updated_time": "2026-03-08 12:04:06 +00:00",
+                                    "previous_updated_time": "2026-01-25 09:48:55 +00:00"
+                                },
+                                "avg_backlinks_info": {
+                                    "se_type": "google",
+                                    "backlinks": 0.5,
+                                    "dofollow": 0.5,
+                                    "referring_pages": 0.5,
+                                    "referring_domains": 0.30000001192092896,
+                                    "referring_main_domains": 0.20000000298023224,
+                                    "rank": 2.700000047683716,
+                                    "main_domain_rank": 380.3999938964844,
+                                    "last_updated_time": "2026-03-08 12:04:07 +00:00"
+                                },
+                                "search_intent_info": {
+                                    "se_type": "google",
+                                    "main_intent": "informational",
+                                    "foreign_intent": [
+                                        "transactional",
+                                        "commercial"
+                                    ],
+                                    "last_updated_time": "2026-04-29 14:52:39 +00:00"
+                                }
+                            },
+                            "ranked_serp_element": {
+                                "se_type": "google",
+                                "serp_item": {
+                                    "se_type": "google",
+                                    "type": "organic",
+                                    "rank_group": 48,
+                                    "rank_absolute": 54,
+                                    "position": "left",
+                                    "xpath": "\/html[1]\/body[1]\/div[3]\/div[1]\/div[12]\/div[1]\/div[2]\/div[2]\/div[1]\/div[1]\/div[9]\/div[1]\/div[1]\/div[1]",
+                                    "domain": "preventer.ca",
+                                    "title": "wet floor caution signs - Preventer",
+                                    "url": "https:\/\/preventer.ca\/products\/caution-wet-floor-signs",
+                                    "breadcrumb": "https:\/\/preventer.ca › products › caution-wet-floor-signs",
+                                    "website_name": "preventer.ca",
+                                    "is_image": false,
+                                    "is_video": false,
+                                    "is_featured_snippet": false,
+                                    "is_malicious": false,
+                                    "description": "Jul 9, 2023 — A commercial facility like an office tower should utilize leak-capturing products, such as buckets and caution signs, for several reasons. Read more",
+                                    "pre_snippet": "07\/09\/2023 00:00:00",
+                                    "extended_snippet": null,
+                                    "amp_version": false,
+                                    "rating": null,
+                                    "highlighted": [
+                                        "caution signs"
+                                    ],
+                                    "links": null,
+                                    "about_this_result": null,
+                                    "main_domain": "preventer.ca",
+                                    "relative_url": "\/products\/caution-wet-floor-signs",
+                                    "etv": 0.8190000057220459,
+                                    "estimated_paid_traffic_cost": 1.0810799598693848,
+                                    "clickstream_etv": null,
+                                    "rank_changes": {
+                                        "previous_rank_absolute": null,
+                                        "is_new": true,
+                                        "is_up": false,
+                                        "is_down": false
+                                    },
+                                    "backlinks_info": null,
+                                    "rank_info": {
+                                        "page_rank": 0,
+                                        "main_domain_rank": 146
+                                    }
+                                },
+                                "check_url": "https:\/\/www.google.com\/search?q=caution%20floor%20signs&hl=en&gl=CA&ie=UTF-8&uule=w+CAIQIFISCdlqzDfTAw1LEaWPQ6Iqt2iZ",
+                                "serp_item_types": [
+                                    "popular_products",
+                                    "organic",
+                                    "images",
+                                    "related_searches"
+                                ],
+                                "se_results_count": 113000000,
+                                "keyword_difficulty": 0,
+                                "is_lost": false,
+                                "last_updated_time": "2026-03-08 12:04:06 +00:00",
+                                "previous_updated_time": "2026-01-25 09:48:55 +00:00"
+                            }
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword_data": {
+                                "se_type": "google",
+                                "keyword": "floor sign",
+                                "location_code": 2124,
+                                "language_code": "en",
+                                "keyword_info": {
+                                    "se_type": "google",
+                                    "last_updated_time": "2026-04-16 22:44:06 +00:00",
+                                    "competition": 0.9900000095367432,
+                                    "competition_level": "HIGH",
+                                    "cpc": 4.639999866485596,
+                                    "search_volume": 170,
+                                    "low_top_of_page_bid": 1.7000000476837158,
+                                    "high_top_of_page_bid": 14.170000076293945,
+                                    "categories": [
+                                        10004,
+                                        10290
+                                    ],
+                                    "monthly_searches": [
+                                        {
+                                            "year": 2026,
+                                            "month": 3,
+                                            "search_volume": 210
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 2,
+                                            "search_volume": 210
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 1,
+                                            "search_volume": 170
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 12,
+                                            "search_volume": 110
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 11,
+                                            "search_volume": 170
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 10,
+                                            "search_volume": 170
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 9,
+                                            "search_volume": 260
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 8,
+                                            "search_volume": 110
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 7,
+                                            "search_volume": 140
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 6,
+                                            "search_volume": 110
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 5,
+                                            "search_volume": 210
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 4,
+                                            "search_volume": 170
+                                        }
+                                    ],
+                                    "search_volume_trend": {
+                                        "monthly": 0,
+                                        "quarterly": 24,
+                                        "yearly": 24
+                                    }
+                                },
+                                "keyword_info_normalized_with_bing": null,
+                                "keyword_info_normalized_with_clickstream": null,
+                                "clickstream_keyword_info": null,
+                                "keyword_properties": {
+                                    "se_type": "google",
+                                    "core_keyword": "floor signs",
+                                    "synonym_clustering_algorithm": "text_processing",
+                                    "keyword_difficulty": 0,
+                                    "detected_language": "en",
+                                    "is_another_language": false
+                                },
+                                "serp_info": {
+                                    "se_type": "google",
+                                    "check_url": "https:\/\/www.google.com\/search?q=floor%20sign&hl=en&gl=CA&ie=UTF-8&uule=w+CAIQIFISCdlqzDfTAw1LEaWPQ6Iqt2iZ",
+                                    "serp_item_types": [
+                                        "images",
+                                        "popular_products",
+                                        "people_also_ask",
+                                        "organic",
+                                        "video",
+                                        "related_searches"
+                                    ],
+                                    "se_results_count": 2660000000,
+                                    "last_updated_time": "2026-04-07 19:05:44 +00:00",
+                                    "previous_updated_time": "2026-02-22 08:48:28 +00:00"
+                                },
+                                "avg_backlinks_info": {
+                                    "se_type": "google",
+                                    "backlinks": 0.4000000059604645,
+                                    "dofollow": 0.4000000059604645,
+                                    "referring_pages": 0.4000000059604645,
+                                    "referring_domains": 0.30000001192092896,
+                                    "referring_main_domains": 0.30000001192092896,
+                                    "rank": 3.0999999046325684,
+                                    "main_domain_rank": 345.79998779296875,
+                                    "last_updated_time": "2026-04-07 19:05:44 +00:00"
+                                },
+                                "search_intent_info": {
+                                    "se_type": "google",
+                                    "main_intent": "transactional",
+                                    "foreign_intent": [
+                                        "informational"
+                                    ],
+                                    "last_updated_time": "2026-04-27 22:14:04 +00:00"
+                                }
+                            },
+                            "ranked_serp_element": {
+                                "se_type": "google",
+                                "serp_item": {
+                                    "se_type": "google",
+                                    "type": "organic",
+                                    "rank_group": 50,
+                                    "rank_absolute": 59,
+                                    "position": "left",
+                                    "xpath": "\/html[1]\/body[1]\/div[3]\/div[1]\/div[12]\/div[1]\/div[2]\/div[2]\/div[1]\/div[1]\/div[2]\/div[1]\/div[1]\/div[1]",
+                                    "domain": "preventer.ca",
+                                    "title": "wet floor caution signs - Preventer",
+                                    "url": "https:\/\/preventer.ca\/products\/caution-wet-floor-signs",
+                                    "breadcrumb": "https:\/\/preventer.ca › products › caution-wet-floor-signs",
+                                    "website_name": "preventer.ca",
+                                    "is_image": false,
+                                    "is_video": false,
+                                    "is_featured_snippet": false,
+                                    "is_malicious": false,
+                                    "description": "Jul 9, 2023 — A commercial facility like an office tower should utilize leak-capturing products, such as buckets and caution signs, for several reasons. Read more",
+                                    "pre_snippet": "07\/09\/2023 00:00:00",
+                                    "extended_snippet": null,
+                                    "amp_version": false,
+                                    "rating": null,
+                                    "highlighted": [
+                                        "signs"
+                                    ],
+                                    "links": null,
+                                    "about_this_result": null,
+                                    "main_domain": "preventer.ca",
+                                    "relative_url": "\/products\/caution-wet-floor-signs",
+                                    "etv": 0.3569999933242798,
+                                    "estimated_paid_traffic_cost": 1.656480073928833,
+                                    "clickstream_etv": null,
+                                    "rank_changes": {
+                                        "previous_rank_absolute": 92,
+                                        "is_new": false,
+                                        "is_up": true,
+                                        "is_down": false
+                                    },
+                                    "backlinks_info": null,
+                                    "rank_info": {
+                                        "page_rank": 0,
+                                        "main_domain_rank": 146
+                                    }
+                                },
+                                "check_url": "https:\/\/www.google.com\/search?q=floor%20sign&hl=en&gl=CA&ie=UTF-8&uule=w+CAIQIFISCdlqzDfTAw1LEaWPQ6Iqt2iZ",
+                                "serp_item_types": [
+                                    "images",
+                                    "popular_products",
+                                    "people_also_ask",
+                                    "organic",
+                                    "video",
+                                    "related_searches"
+                                ],
+                                "se_results_count": 2660000000,
+                                "keyword_difficulty": 0,
+                                "is_lost": false,
+                                "last_updated_time": "2026-04-07 19:05:44 +00:00",
+                                "previous_updated_time": "2026-02-22 08:48:28 +00:00"
+                            }
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword_data": {
+                                "se_type": "google",
+                                "keyword": "anti skateboarding",
+                                "location_code": 2124,
+                                "language_code": "en",
+                                "keyword_info": {
+                                    "se_type": "google",
+                                    "last_updated_time": "2026-04-15 16:26:52 +00:00",
+                                    "competition": 0.05999999865889549,
+                                    "competition_level": "LOW",
+                                    "cpc": null,
+                                    "search_volume": 110,
+                                    "low_top_of_page_bid": null,
+                                    "high_top_of_page_bid": null,
+                                    "categories": [
+                                        10014,
+                                        10121,
+                                        10659,
+                                        11922
+                                    ],
+                                    "monthly_searches": [
+                                        {
+                                            "year": 2026,
+                                            "month": 3,
+                                            "search_volume": 90
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 2,
+                                            "search_volume": 110
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 1,
+                                            "search_volume": 140
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 12,
+                                            "search_volume": 140
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 11,
+                                            "search_volume": 110
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 10,
+                                            "search_volume": 110
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 9,
+                                            "search_volume": 110
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 8,
+                                            "search_volume": 110
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 7,
+                                            "search_volume": 110
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 6,
+                                            "search_volume": 90
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 5,
+                                            "search_volume": 110
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 4,
+                                            "search_volume": 140
+                                        }
+                                    ],
+                                    "search_volume_trend": {
+                                        "monthly": -18,
+                                        "quarterly": -36,
+                                        "yearly": 0
+                                    }
+                                },
+                                "keyword_info_normalized_with_bing": null,
+                                "keyword_info_normalized_with_clickstream": null,
+                                "clickstream_keyword_info": null,
+                                "keyword_properties": {
+                                    "se_type": "google",
+                                    "core_keyword": null,
+                                    "synonym_clustering_algorithm": "text_processing",
+                                    "keyword_difficulty": 0,
+                                    "detected_language": "en",
+                                    "is_another_language": false
+                                },
+                                "serp_info": {
+                                    "se_type": "google",
+                                    "check_url": "https:\/\/www.google.com\/search?q=anti%20skateboarding&hl=en&gl=CA&ie=UTF-8&uule=w+CAIQIFISCdlqzDfTAw1LEaWPQ6Iqt2iZ",
+                                    "serp_item_types": [
+                                        "organic",
+                                        "people_also_ask",
+                                        "images",
+                                        "popular_products",
+                                        "related_searches"
+                                    ],
+                                    "se_results_count": 34100000,
+                                    "last_updated_time": "2026-03-13 00:02:52 +00:00",
+                                    "previous_updated_time": "2026-01-30 21:17:00 +00:00"
+                                },
+                                "avg_backlinks_info": {
+                                    "se_type": "google",
+                                    "backlinks": 34.70000076293945,
+                                    "dofollow": 10.800000190734863,
+                                    "referring_pages": 11.899999618530273,
+                                    "referring_domains": 4.300000190734863,
+                                    "referring_main_domains": 4.199999809265137,
+                                    "rank": 42,
+                                    "main_domain_rank": 331,
+                                    "last_updated_time": "2026-03-13 00:02:53 +00:00"
+                                },
+                                "search_intent_info": {
+                                    "se_type": "google",
+                                    "main_intent": "commercial",
+                                    "foreign_intent": null,
+                                    "last_updated_time": "2023-03-04 10:04:11 +00:00"
+                                }
+                            },
+                            "ranked_serp_element": {
+                                "se_type": "google",
+                                "serp_item": {
+                                    "se_type": "google",
+                                    "type": "organic",
+                                    "rank_group": 10,
+                                    "rank_absolute": 15,
+                                    "position": "left",
+                                    "xpath": "\/html[1]\/body[1]\/div[3]\/div[1]\/div[12]\/div[2]\/div[1]\/div[2]\/div[1]\/div[1]\/div[1]\/div[1]\/div[1]",
+                                    "domain": "preventer.ca",
+                                    "title": "Skate Deterrents - Preventer",
+                                    "url": "https:\/\/preventer.ca\/products\/skate-stopper",
+                                    "breadcrumb": "https:\/\/preventer.ca › products › skate-stopper",
+                                    "website_name": "preventer.ca",
+                                    "is_image": false,
+                                    "is_video": false,
+                                    "is_featured_snippet": false,
+                                    "is_malicious": false,
+                                    "description": "SkateStopper offers durable skate deterrents for commercial and public spaces, preventing grinding damage while preserving safety, aesthetics, ...",
+                                    "pre_snippet": null,
+                                    "extended_snippet": null,
+                                    "amp_version": false,
+                                    "rating": null,
+                                    "highlighted": [
+                                        "durable skate deterrents"
+                                    ],
+                                    "links": null,
+                                    "about_this_result": null,
+                                    "main_domain": "preventer.ca",
+                                    "relative_url": "\/products\/skate-stopper",
+                                    "etv": 1.2430000305175781,
+                                    "estimated_paid_traffic_cost": null,
+                                    "clickstream_etv": null,
+                                    "rank_changes": {
+                                        "previous_rank_absolute": 33,
+                                        "is_new": false,
+                                        "is_up": true,
+                                        "is_down": false
+                                    },
+                                    "backlinks_info": null,
+                                    "rank_info": {
+                                        "page_rank": 0,
+                                        "main_domain_rank": 146
+                                    }
+                                },
+                                "check_url": "https:\/\/www.google.com\/search?q=anti%20skateboarding&hl=en&gl=CA&ie=UTF-8&uule=w+CAIQIFISCdlqzDfTAw1LEaWPQ6Iqt2iZ",
+                                "serp_item_types": [
+                                    "organic",
+                                    "people_also_ask",
+                                    "images",
+                                    "popular_products",
+                                    "related_searches"
+                                ],
+                                "se_results_count": 34100000,
+                                "keyword_difficulty": 0,
+                                "is_lost": false,
+                                "last_updated_time": "2026-03-13 00:02:52 +00:00",
+                                "previous_updated_time": "2026-01-30 21:17:00 +00:00"
+                            }
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword_data": {
+                                "se_type": "google",
+                                "keyword": "skate stoppers",
+                                "location_code": 2124,
+                                "language_code": "en",
+                                "keyword_info": {
+                                    "se_type": "google",
+                                    "last_updated_time": "2026-04-15 06:19:22 +00:00",
+                                    "competition": 0.05000000074505806,
+                                    "competition_level": "LOW",
+                                    "cpc": null,
+                                    "search_volume": 90,
+                                    "low_top_of_page_bid": null,
+                                    "high_top_of_page_bid": null,
+                                    "categories": [
+                                        10014,
+                                        10014,
+                                        10121,
+                                        10659,
+                                        13605,
+                                        13617
+                                    ],
+                                    "monthly_searches": [
+                                        {
+                                            "year": 2026,
+                                            "month": 3,
+                                            "search_volume": 110
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 2,
+                                            "search_volume": 90
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 1,
+                                            "search_volume": 140
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 12,
+                                            "search_volume": 90
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 11,
+                                            "search_volume": 90
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 10,
+                                            "search_volume": 110
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 9,
+                                            "search_volume": 140
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 8,
+                                            "search_volume": 70
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 7,
+                                            "search_volume": 70
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 6,
+                                            "search_volume": 90
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 5,
+                                            "search_volume": 90
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 4,
+                                            "search_volume": 70
+                                        }
+                                    ],
+                                    "search_volume_trend": {
+                                        "monthly": 22,
+                                        "quarterly": -21,
+                                        "yearly": 22
+                                    }
+                                },
+                                "keyword_info_normalized_with_bing": null,
+                                "keyword_info_normalized_with_clickstream": null,
+                                "clickstream_keyword_info": null,
+                                "keyword_properties": {
+                                    "se_type": "google",
+                                    "core_keyword": null,
+                                    "synonym_clustering_algorithm": "text_processing",
+                                    "keyword_difficulty": 0,
+                                    "detected_language": "en",
+                                    "is_another_language": false
+                                },
+                                "serp_info": {
+                                    "se_type": "google",
+                                    "check_url": "https:\/\/www.google.com\/search?q=skate%20stoppers&hl=en&gl=CA&ie=UTF-8&uule=w+CAIQIFISCdlqzDfTAw1LEaWPQ6Iqt2iZ",
+                                    "serp_item_types": [
+                                        "organic",
+                                        "people_also_ask",
+                                        "popular_products",
+                                        "video",
+                                        "images",
+                                        "related_searches"
+                                    ],
+                                    "se_results_count": 831000,
+                                    "last_updated_time": "2026-04-09 09:47:40 +00:00",
+                                    "previous_updated_time": "2026-02-23 15:57:51 +00:00"
+                                },
+                                "avg_backlinks_info": {
+                                    "se_type": "google",
+                                    "backlinks": 26.399999618530273,
+                                    "dofollow": 10.300000190734863,
+                                    "referring_pages": 16.899999618530273,
+                                    "referring_domains": 5.599999904632568,
+                                    "referring_main_domains": 5.199999809265137,
+                                    "rank": 40.29999923706055,
+                                    "main_domain_rank": 380.1000061035156,
+                                    "last_updated_time": "2026-04-09 09:47:41 +00:00"
+                                },
+                                "search_intent_info": {
+                                    "se_type": "google",
+                                    "main_intent": "transactional",
+                                    "foreign_intent": null,
+                                    "last_updated_time": "2026-04-29 01:10:45 +00:00"
+                                }
+                            },
+                            "ranked_serp_element": {
+                                "se_type": "google",
+                                "serp_item": {
+                                    "se_type": "google",
+                                    "type": "organic",
+                                    "rank_group": 10,
+                                    "rank_absolute": 15,
+                                    "position": "left",
+                                    "xpath": "\/html[1]\/body[1]\/div[3]\/div[1]\/div[12]\/div[1]\/div[2]\/div[2]\/div[1]\/div[1]\/div[2]\/div[1]\/div[1]",
+                                    "domain": "preventer.ca",
+                                    "title": "Skate Deterrents - Preventer",
+                                    "url": "https:\/\/preventer.ca\/products\/skate-stopper",
+                                    "breadcrumb": "https:\/\/preventer.ca › products › skate-stopper",
+                                    "website_name": "preventer.ca",
+                                    "is_image": false,
+                                    "is_video": false,
+                                    "is_featured_snippet": false,
+                                    "is_malicious": false,
+                                    "description": "SkateStopper offers durable skate deterrents for commercial and public spaces, preventing grinding damage while preserving safety, aesthetics, ...",
+                                    "pre_snippet": null,
+                                    "extended_snippet": null,
+                                    "amp_version": false,
+                                    "rating": null,
+                                    "highlighted": [
+                                        "durable skate deterrents for commercial and public spaces"
+                                    ],
+                                    "links": null,
+                                    "about_this_result": null,
+                                    "main_domain": "preventer.ca",
+                                    "relative_url": "\/products\/skate-stopper",
+                                    "etv": 1.0169999599456787,
+                                    "estimated_paid_traffic_cost": null,
+                                    "clickstream_etv": null,
+                                    "rank_changes": {
+                                        "previous_rank_absolute": 31,
+                                        "is_new": false,
+                                        "is_up": true,
+                                        "is_down": false
+                                    },
+                                    "backlinks_info": null,
+                                    "rank_info": {
+                                        "page_rank": 0,
+                                        "main_domain_rank": 146
+                                    }
+                                },
+                                "check_url": "https:\/\/www.google.com\/search?q=skate%20stoppers&hl=en&gl=CA&ie=UTF-8&uule=w+CAIQIFISCdlqzDfTAw1LEaWPQ6Iqt2iZ",
+                                "serp_item_types": [
+                                    "organic",
+                                    "people_also_ask",
+                                    "popular_products",
+                                    "video",
+                                    "images",
+                                    "related_searches"
+                                ],
+                                "se_results_count": 831000,
+                                "keyword_difficulty": 0,
+                                "is_lost": false,
+                                "last_updated_time": "2026-04-09 09:47:40 +00:00",
+                                "previous_updated_time": "2026-02-23 15:57:51 +00:00"
+                            }
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword_data": {
+                                "se_type": "google",
+                                "keyword": "slippery floor sign",
+                                "location_code": 2124,
+                                "language_code": "en",
+                                "keyword_info": {
+                                    "se_type": "google",
+                                    "last_updated_time": "2026-04-15 04:29:45 +00:00",
+                                    "competition": 1,
+                                    "competition_level": "HIGH",
+                                    "cpc": 0.550000011920929,
+                                    "search_volume": 90,
+                                    "low_top_of_page_bid": 0.6700000166893005,
+                                    "high_top_of_page_bid": 6.059999942779541,
+                                    "categories": [
+                                        10004,
+                                        10308,
+                                        11398
+                                    ],
+                                    "monthly_searches": [
+                                        {
+                                            "year": 2026,
+                                            "month": 3,
+                                            "search_volume": 110
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 2,
+                                            "search_volume": 110
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 1,
+                                            "search_volume": 140
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 12,
+                                            "search_volume": 90
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 11,
+                                            "search_volume": 90
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 10,
+                                            "search_volume": 70
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 9,
+                                            "search_volume": 110
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 8,
+                                            "search_volume": 70
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 7,
+                                            "search_volume": 90
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 6,
+                                            "search_volume": 70
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 5,
+                                            "search_volume": 90
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 4,
+                                            "search_volume": 70
+                                        }
+                                    ],
+                                    "search_volume_trend": {
+                                        "monthly": 0,
+                                        "quarterly": -21,
+                                        "yearly": 0
+                                    }
+                                },
+                                "keyword_info_normalized_with_bing": null,
+                                "keyword_info_normalized_with_clickstream": null,
+                                "clickstream_keyword_info": null,
+                                "keyword_properties": {
+                                    "se_type": "google",
+                                    "core_keyword": null,
+                                    "synonym_clustering_algorithm": "text_processing",
+                                    "keyword_difficulty": 0,
+                                    "detected_language": "en",
+                                    "is_another_language": false
+                                },
+                                "serp_info": {
+                                    "se_type": "google",
+                                    "check_url": "https:\/\/www.google.com\/search?q=slippery%20floor%20sign&hl=en&gl=CA&ie=UTF-8&uule=w+CAIQIFISCdlqzDfTAw1LEaWPQ6Iqt2iZ",
+                                    "serp_item_types": [
+                                        "images",
+                                        "popular_products",
+                                        "people_also_ask",
+                                        "organic",
+                                        "discussions_and_forums",
+                                        "related_searches"
+                                    ],
+                                    "se_results_count": 26300000,
+                                    "last_updated_time": "2026-04-28 05:54:57 +00:00",
+                                    "previous_updated_time": "2026-03-13 10:06:13 +00:00"
+                                },
+                                "avg_backlinks_info": null,
+                                "search_intent_info": {
+                                    "se_type": "google",
+                                    "main_intent": "transactional",
+                                    "foreign_intent": null,
+                                    "last_updated_time": "2026-04-30 03:01:34 +00:00"
+                                }
+                            },
+                            "ranked_serp_element": {
+                                "se_type": "google",
+                                "serp_item": {
+                                    "se_type": "google",
+                                    "type": "organic",
+                                    "rank_group": 41,
+                                    "rank_absolute": 49,
+                                    "position": "left",
+                                    "xpath": "\/html[1]\/body[1]\/div[3]\/div[1]\/div[12]\/div[1]\/div[2]\/div[2]\/div[1]\/div[1]\/div[3]\/div[1]\/div[1]\/div[1]",
+                                    "domain": "preventer.ca",
+                                    "title": "wet floor caution signs - Preventer",
+                                    "url": "https:\/\/preventer.ca\/products\/caution-wet-floor-signs",
+                                    "breadcrumb": "https:\/\/preventer.ca › products › caution-wet-floor-signs",
+                                    "website_name": "preventer.ca",
+                                    "is_image": false,
+                                    "is_video": false,
+                                    "is_featured_snippet": false,
+                                    "is_malicious": false,
+                                    "description": "Jul 9, 2023 — ... slippery surfaces, posing a significant risk of slip and fall accidents. Placing caution signs in the affected area alerts individuals to ... Read more",
+                                    "pre_snippet": "07\/09\/2023 00:00:00",
+                                    "extended_snippet": null,
+                                    "amp_version": false,
+                                    "rating": null,
+                                    "highlighted": [
+                                        "slippery",
+                                        "signs"
+                                    ],
+                                    "links": null,
+                                    "about_this_result": null,
+                                    "main_domain": "preventer.ca",
+                                    "relative_url": "\/products\/caution-wet-floor-signs",
+                                    "etv": 0.1889999955892563,
+                                    "estimated_paid_traffic_cost": 0.10395000129938126,
+                                    "clickstream_etv": null,
+                                    "rank_changes": {
+                                        "previous_rank_absolute": 47,
+                                        "is_new": false,
+                                        "is_up": false,
+                                        "is_down": true
+                                    },
+                                    "backlinks_info": null,
+                                    "rank_info": {
+                                        "page_rank": 0,
+                                        "main_domain_rank": 150
+                                    }
+                                },
+                                "check_url": "https:\/\/www.google.com\/search?q=slippery%20floor%20sign&hl=en&gl=CA&ie=UTF-8&uule=w+CAIQIFISCdlqzDfTAw1LEaWPQ6Iqt2iZ",
+                                "serp_item_types": [
+                                    "images",
+                                    "popular_products",
+                                    "people_also_ask",
+                                    "organic",
+                                    "discussions_and_forums",
+                                    "related_searches"
+                                ],
+                                "se_results_count": 26300000,
+                                "keyword_difficulty": 0,
+                                "is_lost": false,
+                                "last_updated_time": "2026-04-28 05:54:57 +00:00",
+                                "previous_updated_time": "2026-03-13 10:06:13 +00:00"
+                            }
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword_data": {
+                                "se_type": "google",
+                                "keyword": "slippery floor signage",
+                                "location_code": 2124,
+                                "language_code": "en",
+                                "keyword_info": {
+                                    "se_type": "google",
+                                    "last_updated_time": "2026-04-19 14:25:43 +00:00",
+                                    "competition": 1,
+                                    "competition_level": "HIGH",
+                                    "cpc": 0.550000011920929,
+                                    "search_volume": 90,
+                                    "low_top_of_page_bid": 0.6700000166893005,
+                                    "high_top_of_page_bid": 6.059999942779541,
+                                    "categories": [
+                                        10004,
+                                        10308,
+                                        11398
+                                    ],
+                                    "monthly_searches": [
+                                        {
+                                            "year": 2026,
+                                            "month": 3,
+                                            "search_volume": 110
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 2,
+                                            "search_volume": 110
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 1,
+                                            "search_volume": 140
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 12,
+                                            "search_volume": 90
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 11,
+                                            "search_volume": 90
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 10,
+                                            "search_volume": 70
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 9,
+                                            "search_volume": 110
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 8,
+                                            "search_volume": 70
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 7,
+                                            "search_volume": 90
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 6,
+                                            "search_volume": 70
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 5,
+                                            "search_volume": 90
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 4,
+                                            "search_volume": 70
+                                        }
+                                    ],
+                                    "search_volume_trend": {
+                                        "monthly": 0,
+                                        "quarterly": -21,
+                                        "yearly": 0
+                                    }
+                                },
+                                "keyword_info_normalized_with_bing": null,
+                                "keyword_info_normalized_with_clickstream": null,
+                                "clickstream_keyword_info": null,
+                                "keyword_properties": {
+                                    "se_type": "google",
+                                    "core_keyword": "slippery wet floor sign",
+                                    "synonym_clustering_algorithm": "keyword_metrics",
+                                    "keyword_difficulty": 0,
+                                    "detected_language": "en",
+                                    "is_another_language": false
+                                },
+                                "serp_info": {
+                                    "se_type": "google",
+                                    "check_url": "https:\/\/www.google.com\/search?q=slippery%20floor%20signage&hl=en&gl=CA&ie=UTF-8&uule=w+CAIQIFISCdlqzDfTAw1LEaWPQ6Iqt2iZ",
+                                    "serp_item_types": [
+                                        "images",
+                                        "organic",
+                                        "popular_products",
+                                        "related_searches"
+                                    ],
+                                    "se_results_count": 21200000,
+                                    "last_updated_time": "2026-03-13 10:04:50 +00:00",
+                                    "previous_updated_time": null
+                                },
+                                "avg_backlinks_info": {
+                                    "se_type": "google",
+                                    "backlinks": 0.20000000298023224,
+                                    "dofollow": 0.20000000298023224,
+                                    "referring_pages": 0.20000000298023224,
+                                    "referring_domains": 0.20000000298023224,
+                                    "referring_main_domains": 0.20000000298023224,
+                                    "rank": 2.9000000953674316,
+                                    "main_domain_rank": 385.20001220703125,
+                                    "last_updated_time": "2026-03-13 10:04:51 +00:00"
+                                },
+                                "search_intent_info": {
+                                    "se_type": "google",
+                                    "main_intent": "transactional",
+                                    "foreign_intent": null,
+                                    "last_updated_time": "2026-04-29 23:36:42 +00:00"
+                                }
+                            },
+                            "ranked_serp_element": {
+                                "se_type": "google",
+                                "serp_item": {
+                                    "se_type": "google",
+                                    "type": "organic",
+                                    "rank_group": 41,
+                                    "rank_absolute": 48,
+                                    "position": "left",
+                                    "xpath": "\/html[1]\/body[1]\/div[3]\/div[1]\/div[12]\/div[1]\/div[2]\/div[2]\/div[1]\/div[1]\/div[2]\/div[1]\/div[1]\/div[1]",
+                                    "domain": "preventer.ca",
+                                    "title": "wet floor caution signs - Preventer",
+                                    "url": "https:\/\/preventer.ca\/products\/caution-wet-floor-signs",
+                                    "breadcrumb": "https:\/\/preventer.ca › products › caution-wet-floor-signs",
+                                    "website_name": "preventer.ca",
+                                    "is_image": false,
+                                    "is_video": false,
+                                    "is_featured_snippet": false,
+                                    "is_malicious": false,
+                                    "description": "Jul 9, 2023 — SlipSign Wet Floor Caution Sign. ... Prevent Slip and Fall Accidents: Water from leaks can create slippery surfaces, posing a significant risk of ... Read more",
+                                    "pre_snippet": "07\/09\/2023 00:00:00",
+                                    "extended_snippet": null,
+                                    "amp_version": false,
+                                    "rating": null,
+                                    "highlighted": [
+                                        "Floor",
+                                        "Sign",
+                                        "slippery"
+                                    ],
+                                    "links": null,
+                                    "about_this_result": null,
+                                    "main_domain": "preventer.ca",
+                                    "relative_url": "\/products\/caution-wet-floor-signs",
+                                    "etv": 0.1889999955892563,
+                                    "estimated_paid_traffic_cost": 0.10395000129938126,
+                                    "clickstream_etv": null,
+                                    "rank_changes": {
+                                        "previous_rank_absolute": null,
+                                        "is_new": true,
+                                        "is_up": false,
+                                        "is_down": false
+                                    },
+                                    "backlinks_info": null,
+                                    "rank_info": {
+                                        "page_rank": 0,
+                                        "main_domain_rank": 146
+                                    }
+                                },
+                                "check_url": "https:\/\/www.google.com\/search?q=slippery%20floor%20signage&hl=en&gl=CA&ie=UTF-8&uule=w+CAIQIFISCdlqzDfTAw1LEaWPQ6Iqt2iZ",
+                                "serp_item_types": [
+                                    "images",
+                                    "organic",
+                                    "popular_products",
+                                    "related_searches"
+                                ],
+                                "se_results_count": 21200000,
+                                "keyword_difficulty": 0,
+                                "is_lost": false,
+                                "last_updated_time": "2026-03-13 10:04:50 +00:00",
+                                "previous_updated_time": null
+                            }
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword_data": {
+                                "se_type": "google",
+                                "keyword": "slippery floor signs",
+                                "location_code": 2124,
+                                "language_code": "en",
+                                "keyword_info": {
+                                    "se_type": "google",
+                                    "last_updated_time": "2026-03-13 02:00:06 +00:00",
+                                    "competition": 1,
+                                    "competition_level": "HIGH",
+                                    "cpc": 1.850000023841858,
+                                    "search_volume": 90,
+                                    "low_top_of_page_bid": 1.309999942779541,
+                                    "high_top_of_page_bid": 72.3499984741211,
+                                    "categories": [
+                                        10004,
+                                        10308,
+                                        11398
+                                    ],
+                                    "monthly_searches": [
+                                        {
+                                            "year": 2026,
+                                            "month": 2,
+                                            "search_volume": 110
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 1,
+                                            "search_volume": 140
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 12,
+                                            "search_volume": 90
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 11,
+                                            "search_volume": 90
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 10,
+                                            "search_volume": 70
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 9,
+                                            "search_volume": 110
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 8,
+                                            "search_volume": 70
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 7,
+                                            "search_volume": 90
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 6,
+                                            "search_volume": 70
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 5,
+                                            "search_volume": 90
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 4,
+                                            "search_volume": 70
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 3,
+                                            "search_volume": 110
+                                        }
+                                    ],
+                                    "search_volume_trend": {
+                                        "monthly": -21,
+                                        "quarterly": 22,
+                                        "yearly": 0
+                                    }
+                                },
+                                "keyword_info_normalized_with_bing": null,
+                                "keyword_info_normalized_with_clickstream": null,
+                                "clickstream_keyword_info": null,
+                                "keyword_properties": {
+                                    "se_type": "google",
+                                    "core_keyword": "slippery floor sign",
+                                    "synonym_clustering_algorithm": "text_processing",
+                                    "keyword_difficulty": 0,
+                                    "detected_language": "en",
+                                    "is_another_language": false
+                                },
+                                "serp_info": {
+                                    "se_type": "google",
+                                    "check_url": "https:\/\/www.google.com\/search?q=slippery%20floor%20signs&hl=en&gl=CA&ie=UTF-8&uule=w+CAIQIFISCdlqzDfTAw1LEaWPQ6Iqt2iZ",
+                                    "serp_item_types": [
+                                        "popular_products",
+                                        "images",
+                                        "organic",
+                                        "people_also_ask",
+                                        "related_searches"
+                                    ],
+                                    "se_results_count": 9090000,
+                                    "last_updated_time": "2026-04-28 05:55:00 +00:00",
+                                    "previous_updated_time": "2026-03-06 22:22:36 +00:00"
+                                },
+                                "avg_backlinks_info": null,
+                                "search_intent_info": {
+                                    "se_type": "google",
+                                    "main_intent": "transactional",
+                                    "foreign_intent": null,
+                                    "last_updated_time": "2026-04-30 02:00:33 +00:00"
+                                }
+                            },
+                            "ranked_serp_element": {
+                                "se_type": "google",
+                                "serp_item": {
+                                    "se_type": "google",
+                                    "type": "organic",
+                                    "rank_group": 42,
+                                    "rank_absolute": 50,
+                                    "position": "left",
+                                    "xpath": "\/html[1]\/body[1]\/div[3]\/div[1]\/div[12]\/div[1]\/div[2]\/div[2]\/div[1]\/div[1]\/div[4]\/div[1]\/div[1]\/div[1]",
+                                    "domain": "preventer.ca",
+                                    "title": "wet floor caution signs - Preventer",
+                                    "url": "https:\/\/preventer.ca\/products\/caution-wet-floor-signs",
+                                    "breadcrumb": "https:\/\/preventer.ca › products › caution-wet-floor-signs",
+                                    "website_name": "preventer.ca",
+                                    "is_image": false,
+                                    "is_video": false,
+                                    "is_featured_snippet": false,
+                                    "is_malicious": false,
+                                    "description": "Jul 9, 2023 — Minimize Property Damage: Leaks can cause significant property damage if not addressed promptly. · Prevent Slip and Fall Accidents: Water from ... Read more",
+                                    "pre_snippet": "07\/09\/2023 00:00:00",
+                                    "extended_snippet": null,
+                                    "amp_version": false,
+                                    "rating": null,
+                                    "highlighted": [
+                                        "Slip"
+                                    ],
+                                    "links": null,
+                                    "about_this_result": null,
+                                    "main_domain": "preventer.ca",
+                                    "relative_url": "\/products\/caution-wet-floor-signs",
+                                    "etv": 0.1889999955892563,
+                                    "estimated_paid_traffic_cost": 0.34964999556541443,
+                                    "clickstream_etv": null,
+                                    "rank_changes": {
+                                        "previous_rank_absolute": 47,
+                                        "is_new": false,
+                                        "is_up": false,
+                                        "is_down": true
+                                    },
+                                    "backlinks_info": null,
+                                    "rank_info": {
+                                        "page_rank": 0,
+                                        "main_domain_rank": 150
+                                    }
+                                },
+                                "check_url": "https:\/\/www.google.com\/search?q=slippery%20floor%20signs&hl=en&gl=CA&ie=UTF-8&uule=w+CAIQIFISCdlqzDfTAw1LEaWPQ6Iqt2iZ",
+                                "serp_item_types": [
+                                    "popular_products",
+                                    "images",
+                                    "organic",
+                                    "people_also_ask",
+                                    "related_searches"
+                                ],
+                                "se_results_count": 9090000,
+                                "keyword_difficulty": 0,
+                                "is_lost": false,
+                                "last_updated_time": "2026-04-28 05:55:00 +00:00",
+                                "previous_updated_time": "2026-03-06 22:22:36 +00:00"
+                            }
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword_data": {
+                                "se_type": "google",
+                                "keyword": "preventer",
+                                "location_code": 2124,
+                                "language_code": "en",
+                                "keyword_info": {
+                                    "se_type": "google",
+                                    "last_updated_time": "2026-04-19 04:50:32 +00:00",
+                                    "competition": 0,
+                                    "competition_level": "LOW",
+                                    "cpc": null,
+                                    "search_volume": 70,
+                                    "low_top_of_page_bid": null,
+                                    "high_top_of_page_bid": null,
+                                    "categories": [
+                                        10004,
+                                        11067,
+                                        13464,
+                                        13746
+                                    ],
+                                    "monthly_searches": [
+                                        {
+                                            "year": 2026,
+                                            "month": 3,
+                                            "search_volume": 90
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 2,
+                                            "search_volume": 70
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 1,
+                                            "search_volume": 50
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 12,
+                                            "search_volume": 70
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 11,
+                                            "search_volume": 90
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 10,
+                                            "search_volume": 90
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 9,
+                                            "search_volume": 90
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 8,
+                                            "search_volume": 50
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 7,
+                                            "search_volume": 70
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 6,
+                                            "search_volume": 70
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 5,
+                                            "search_volume": 70
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 4,
+                                            "search_volume": 90
+                                        }
+                                    ],
+                                    "search_volume_trend": {
+                                        "monthly": 29,
+                                        "quarterly": 80,
+                                        "yearly": 0
+                                    }
+                                },
+                                "keyword_info_normalized_with_bing": null,
+                                "keyword_info_normalized_with_clickstream": null,
+                                "clickstream_keyword_info": null,
+                                "keyword_properties": {
+                                    "se_type": "google",
+                                    "core_keyword": "prevent",
+                                    "synonym_clustering_algorithm": "text_processing",
+                                    "keyword_difficulty": 0,
+                                    "detected_language": "en",
+                                    "is_another_language": false
+                                },
+                                "serp_info": {
+                                    "se_type": "google",
+                                    "check_url": "https:\/\/www.google.com\/search?q=preventer&hl=en&gl=CA&ie=UTF-8&uule=w+CAIQIFISCdlqzDfTAw1LEaWPQ6Iqt2iZ",
+                                    "serp_item_types": [
+                                        "ai_overview",
+                                        "organic",
+                                        "people_also_ask",
+                                        "images",
+                                        "related_searches"
+                                    ],
+                                    "se_results_count": 4400000,
+                                    "last_updated_time": "2026-03-24 00:42:15 +00:00",
+                                    "previous_updated_time": "2026-02-05 14:03:03 +00:00"
+                                },
+                                "avg_backlinks_info": {
+                                    "se_type": "google",
+                                    "backlinks": 21.299999237060547,
+                                    "dofollow": 5.400000095367432,
+                                    "referring_pages": 15.300000190734863,
+                                    "referring_domains": 4.699999809265137,
+                                    "referring_main_domains": 4.300000190734863,
+                                    "rank": 50.599998474121094,
+                                    "main_domain_rank": 571.4000244140625,
+                                    "last_updated_time": "2026-03-24 00:42:15 +00:00"
+                                },
+                                "search_intent_info": {
+                                    "se_type": "google",
+                                    "main_intent": "informational",
+                                    "foreign_intent": null,
+                                    "last_updated_time": "2026-04-29 20:13:53 +00:00"
+                                }
+                            },
+                            "ranked_serp_element": {
+                                "se_type": "google",
+                                "serp_item": {
+                                    "se_type": "google",
+                                    "type": "organic",
+                                    "rank_group": 5,
+                                    "rank_absolute": 8,
+                                    "position": "left",
+                                    "xpath": "\/html[1]\/body[1]\/div[3]\/div[1]\/div[12]\/div[2]\/div[1]\/div[2]\/div[1]\/div[1]\/div[14]\/div[1]\/div[1]",
+                                    "domain": "preventer.ca",
+                                    "title": "Products | Preventer",
+                                    "url": "https:\/\/preventer.ca\/products",
+                                    "breadcrumb": "https:\/\/preventer.ca › products",
+                                    "website_name": "preventer.ca",
+                                    "is_image": false,
+                                    "is_video": false,
+                                    "is_featured_snippet": false,
+                                    "is_malicious": false,
+                                    "description": "PREVENTIVE PRODUCTS FOR COMMERCIAL FACILITIES · SlipStop - Box · SlipTop Cone · SpillFyter · Wet Floor Signs · Falling Snow & Ice Signs · Leak Diverting Kits. Read more",
+                                    "pre_snippet": null,
+                                    "extended_snippet": null,
+                                    "amp_version": false,
+                                    "rating": null,
+                                    "highlighted": [
+                                        "PREVENTIVE PRODUCTS FOR COMMERCIAL FACILITIES"
+                                    ],
+                                    "links": null,
+                                    "about_this_result": null,
+                                    "main_domain": "preventer.ca",
+                                    "relative_url": "\/products",
+                                    "etv": 3.2829999923706055,
+                                    "estimated_paid_traffic_cost": null,
+                                    "clickstream_etv": null,
+                                    "rank_changes": {
+                                        "previous_rank_absolute": 99,
+                                        "is_new": false,
+                                        "is_up": true,
+                                        "is_down": false
+                                    },
+                                    "backlinks_info": null,
+                                    "rank_info": {
+                                        "page_rank": 0,
+                                        "main_domain_rank": 146
+                                    }
+                                },
+                                "check_url": "https:\/\/www.google.com\/search?q=preventer&hl=en&gl=CA&ie=UTF-8&uule=w+CAIQIFISCdlqzDfTAw1LEaWPQ6Iqt2iZ",
+                                "serp_item_types": [
+                                    "ai_overview",
+                                    "organic",
+                                    "people_also_ask",
+                                    "images",
+                                    "related_searches"
+                                ],
+                                "se_results_count": 4400000,
+                                "keyword_difficulty": 0,
+                                "is_lost": false,
+                                "last_updated_time": "2026-03-24 00:42:15 +00:00",
+                                "previous_updated_time": "2026-02-05 14:03:03 +00:00"
+                            }
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword_data": {
+                                "se_type": "google",
+                                "keyword": "slip sign",
+                                "location_code": 2124,
+                                "language_code": "en",
+                                "keyword_info": {
+                                    "se_type": "google",
+                                    "last_updated_time": "2026-04-16 22:39:09 +00:00",
+                                    "competition": 0.7799999713897705,
+                                    "competition_level": "HIGH",
+                                    "cpc": 5.090000152587891,
+                                    "search_volume": 70,
+                                    "low_top_of_page_bid": 0.6299999952316284,
+                                    "high_top_of_page_bid": 12.520000457763672,
+                                    "categories": [
+                                        10004,
+                                        10308,
+                                        11398
+                                    ],
+                                    "monthly_searches": [
+                                        {
+                                            "year": 2026,
+                                            "month": 3,
+                                            "search_volume": 90
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 2,
+                                            "search_volume": 110
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 1,
+                                            "search_volume": 110
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 12,
+                                            "search_volume": 90
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 11,
+                                            "search_volume": 70
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 10,
+                                            "search_volume": 40
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 9,
+                                            "search_volume": 90
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 8,
+                                            "search_volume": 40
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 7,
+                                            "search_volume": 50
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 6,
+                                            "search_volume": 70
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 5,
+                                            "search_volume": 70
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 4,
+                                            "search_volume": 70
+                                        }
+                                    ],
+                                    "search_volume_trend": {
+                                        "monthly": -18,
+                                        "quarterly": -18,
+                                        "yearly": 80
+                                    }
+                                },
+                                "keyword_info_normalized_with_bing": null,
+                                "keyword_info_normalized_with_clickstream": null,
+                                "clickstream_keyword_info": null,
+                                "keyword_properties": {
+                                    "se_type": "google",
+                                    "core_keyword": null,
+                                    "synonym_clustering_algorithm": "text_processing",
+                                    "keyword_difficulty": 0,
+                                    "detected_language": "en",
+                                    "is_another_language": false
+                                },
+                                "serp_info": {
+                                    "se_type": "google",
+                                    "check_url": "https:\/\/www.google.com\/search?q=slip%20sign&hl=en&gl=CA&ie=UTF-8&uule=w+CAIQIFISCdlqzDfTAw1LEaWPQ6Iqt2iZ",
+                                    "serp_item_types": [
+                                        "ai_overview",
+                                        "popular_products",
+                                        "people_also_ask",
+                                        "video",
+                                        "organic",
+                                        "short_videos",
+                                        "related_searches",
+                                        "images"
+                                    ],
+                                    "se_results_count": 1050000000,
+                                    "last_updated_time": "2026-04-04 20:20:42 +00:00",
+                                    "previous_updated_time": null
+                                },
+                                "avg_backlinks_info": null,
+                                "search_intent_info": {
+                                    "se_type": "google",
+                                    "main_intent": "informational",
+                                    "foreign_intent": [
+                                        "transactional"
+                                    ],
+                                    "last_updated_time": "2026-04-29 00:56:57 +00:00"
+                                }
+                            },
+                            "ranked_serp_element": {
+                                "se_type": "google",
+                                "serp_item": {
+                                    "se_type": "google",
+                                    "type": "organic",
+                                    "rank_group": 11,
+                                    "rank_absolute": 18,
+                                    "position": "left",
+                                    "xpath": "\/html[1]\/body[1]\/div[3]\/div[1]\/div[12]\/div[2]\/div[1]\/div[2]\/div[1]\/div[1]\/div[3]\/div[1]\/div[1]",
+                                    "domain": "preventer.ca",
+                                    "title": "wet floor caution signs - Preventer",
+                                    "url": "https:\/\/preventer.ca\/products\/caution-wet-floor-signs",
+                                    "breadcrumb": "https:\/\/preventer.ca › products › caution-wet-floor-signs",
+                                    "website_name": "preventer.ca",
+                                    "is_image": false,
+                                    "is_video": false,
+                                    "is_featured_snippet": false,
+                                    "is_malicious": false,
+                                    "description": "Jul 9, 2023 — Prevent Slip and Fall Accidents: Water from leaks can create slippery surfaces, posing a significant risk of slip and fall accidents. Placing ... Read more",
+                                    "pre_snippet": "07\/09\/2023 00:00:00",
+                                    "extended_snippet": null,
+                                    "amp_version": false,
+                                    "rating": null,
+                                    "highlighted": [
+                                        "Water from leaks can create slippery surfaces"
+                                    ],
+                                    "links": null,
+                                    "about_this_result": null,
+                                    "main_domain": "preventer.ca",
+                                    "relative_url": "\/products\/caution-wet-floor-signs",
+                                    "etv": 0.6370000243186951,
+                                    "estimated_paid_traffic_cost": 3.2423300743103027,
+                                    "clickstream_etv": null,
+                                    "rank_changes": {
+                                        "previous_rank_absolute": null,
+                                        "is_new": true,
+                                        "is_up": false,
+                                        "is_down": false
+                                    },
+                                    "backlinks_info": null,
+                                    "rank_info": {
+                                        "page_rank": 0,
+                                        "main_domain_rank": 146
+                                    }
+                                },
+                                "check_url": "https:\/\/www.google.com\/search?q=slip%20sign&hl=en&gl=CA&ie=UTF-8&uule=w+CAIQIFISCdlqzDfTAw1LEaWPQ6Iqt2iZ",
+                                "serp_item_types": [
+                                    "ai_overview",
+                                    "popular_products",
+                                    "people_also_ask",
+                                    "video",
+                                    "organic",
+                                    "short_videos",
+                                    "related_searches",
+                                    "images"
+                                ],
+                                "se_results_count": 1050000000,
+                                "keyword_difficulty": 0,
+                                "is_lost": false,
+                                "last_updated_time": "2026-04-04 20:20:42 +00:00",
+                                "previous_updated_time": null
+                            }
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword_data": {
+                                "se_type": "google",
+                                "keyword": "slip stop",
+                                "location_code": 2124,
+                                "language_code": "en",
+                                "keyword_info": {
+                                    "se_type": "google",
+                                    "last_updated_time": "2026-04-10 19:04:44 +00:00",
+                                    "competition": 0.8600000143051147,
+                                    "competition_level": "HIGH",
+                                    "cpc": 0.4300000071525574,
+                                    "search_volume": 50,
+                                    "low_top_of_page_bid": 0.09000000357627869,
+                                    "high_top_of_page_bid": 0.5199999809265137,
+                                    "categories": [
+                                        10014,
+                                        10121,
+                                        10659
+                                    ],
+                                    "monthly_searches": [
+                                        {
+                                            "year": 2026,
+                                            "month": 3,
+                                            "search_volume": 50
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 2,
+                                            "search_volume": 40
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 1,
+                                            "search_volume": 40
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 12,
+                                            "search_volume": 30
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 11,
+                                            "search_volume": 30
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 10,
+                                            "search_volume": 20
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 9,
+                                            "search_volume": 20
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 8,
+                                            "search_volume": 50
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 7,
+                                            "search_volume": 70
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 6,
+                                            "search_volume": 110
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 5,
+                                            "search_volume": 90
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 4,
+                                            "search_volume": 90
+                                        }
+                                    ],
+                                    "search_volume_trend": {
+                                        "monthly": 25,
+                                        "quarterly": 25,
+                                        "yearly": -29
+                                    }
+                                },
+                                "keyword_info_normalized_with_bing": null,
+                                "keyword_info_normalized_with_clickstream": null,
+                                "clickstream_keyword_info": null,
+                                "keyword_properties": {
+                                    "se_type": "google",
+                                    "core_keyword": "slipstop",
+                                    "synonym_clustering_algorithm": "text_processing",
+                                    "keyword_difficulty": 0,
+                                    "detected_language": "en",
+                                    "is_another_language": false
+                                },
+                                "serp_info": {
+                                    "se_type": "google",
+                                    "check_url": "https:\/\/www.google.com\/search?q=slip%20stop&hl=en&gl=CA&ie=UTF-8&uule=w+CAIQIFISCdlqzDfTAw1LEaWPQ6Iqt2iZ",
+                                    "serp_item_types": [
+                                        "organic",
+                                        "popular_products",
+                                        "related_searches",
+                                        "images"
+                                    ],
+                                    "se_results_count": 301000000,
+                                    "last_updated_time": "2026-03-07 16:48:05 +00:00",
+                                    "previous_updated_time": "2025-12-15 09:31:10 +00:00"
+                                },
+                                "avg_backlinks_info": null,
+                                "search_intent_info": {
+                                    "se_type": "google",
+                                    "main_intent": "transactional",
+                                    "foreign_intent": [
+                                        "informational"
+                                    ],
+                                    "last_updated_time": "2026-04-29 01:44:24 +00:00"
+                                }
+                            },
+                            "ranked_serp_element": {
+                                "se_type": "google",
+                                "serp_item": {
+                                    "se_type": "google",
+                                    "type": "organic",
+                                    "rank_group": 39,
+                                    "rank_absolute": 47,
+                                    "position": "left",
+                                    "xpath": "\/html[1]\/body[1]\/div[3]\/div[1]\/div[12]\/div[1]\/div[2]\/div[2]\/div[1]\/div[1]\/div[5]\/div[1]\/div[1]\/div[1]",
+                                    "domain": "preventer.ca",
+                                    "title": "SlipStop Cone - Preventer",
+                                    "url": "https:\/\/preventer.ca\/products\/slip-stop-cone",
+                                    "breadcrumb": "https:\/\/preventer.ca › products › slip-stop-cone",
+                                    "website_name": "preventer.ca",
+                                    "is_image": false,
+                                    "is_video": false,
+                                    "is_featured_snippet": false,
+                                    "is_malicious": false,
+                                    "description": "WHY SHOULD YOUR FACILITY USE SLIPSTOP? · Minimize Property Damage: Leaks can cause significant property damage if not addressed promptly. · Prevent Slip and Fall ... Read more",
+                                    "pre_snippet": null,
+                                    "extended_snippet": null,
+                                    "amp_version": false,
+                                    "rating": null,
+                                    "highlighted": [
+                                        "Minimize Property Damage"
+                                    ],
+                                    "links": null,
+                                    "about_this_result": null,
+                                    "main_domain": "preventer.ca",
+                                    "relative_url": "\/products\/slip-stop-cone",
+                                    "etv": 0.10499999672174454,
+                                    "estimated_paid_traffic_cost": 0.04515000060200691,
+                                    "clickstream_etv": null,
+                                    "rank_changes": {
+                                        "previous_rank_absolute": 62,
+                                        "is_new": false,
+                                        "is_up": true,
+                                        "is_down": false
+                                    },
+                                    "backlinks_info": null,
+                                    "rank_info": {
+                                        "page_rank": 0,
+                                        "main_domain_rank": 146
+                                    }
+                                },
+                                "check_url": "https:\/\/www.google.com\/search?q=slip%20stop&hl=en&gl=CA&ie=UTF-8&uule=w+CAIQIFISCdlqzDfTAw1LEaWPQ6Iqt2iZ",
+                                "serp_item_types": [
+                                    "organic",
+                                    "popular_products",
+                                    "related_searches",
+                                    "images"
+                                ],
+                                "se_results_count": 301000000,
+                                "keyword_difficulty": 0,
+                                "is_lost": false,
+                                "last_updated_time": "2026-03-07 16:48:05 +00:00",
+                                "previous_updated_time": "2025-12-15 09:31:10 +00:00"
+                            }
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword_data": {
+                                "se_type": "google",
+                                "keyword": "slip hazard sign",
+                                "location_code": 2124,
+                                "language_code": "en",
+                                "keyword_info": {
+                                    "se_type": "google",
+                                    "last_updated_time": "2026-04-10 13:24:19 +00:00",
+                                    "competition": 0.9200000166893005,
+                                    "competition_level": "HIGH",
+                                    "cpc": 91.4800033569336,
+                                    "search_volume": 40,
+                                    "low_top_of_page_bid": null,
+                                    "high_top_of_page_bid": null,
+                                    "categories": [
+                                        10004,
+                                        10308,
+                                        11398
+                                    ],
+                                    "monthly_searches": [
+                                        {
+                                            "year": 2026,
+                                            "month": 3,
+                                            "search_volume": 30
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 2,
+                                            "search_volume": 40
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 1,
+                                            "search_volume": 40
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 12,
+                                            "search_volume": 30
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 11,
+                                            "search_volume": 30
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 10,
+                                            "search_volume": 40
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 9,
+                                            "search_volume": 40
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 8,
+                                            "search_volume": 20
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 7,
+                                            "search_volume": 20
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 6,
+                                            "search_volume": 70
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 5,
+                                            "search_volume": 70
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 4,
+                                            "search_volume": 70
+                                        }
+                                    ],
+                                    "search_volume_trend": {
+                                        "monthly": -25,
+                                        "quarterly": -25,
+                                        "yearly": -67
+                                    }
+                                },
+                                "keyword_info_normalized_with_bing": null,
+                                "keyword_info_normalized_with_clickstream": null,
+                                "clickstream_keyword_info": null,
+                                "keyword_properties": {
+                                    "se_type": "google",
+                                    "core_keyword": null,
+                                    "synonym_clustering_algorithm": "text_processing",
+                                    "keyword_difficulty": 0,
+                                    "detected_language": "en",
+                                    "is_another_language": false
+                                },
+                                "serp_info": {
+                                    "se_type": "google",
+                                    "check_url": "https:\/\/www.google.com\/search?q=slip%20hazard%20sign&hl=en&gl=CA&ie=UTF-8&uule=w+CAIQIFISCdlqzDfTAw1LEaWPQ6Iqt2iZ",
+                                    "serp_item_types": [
+                                        "images",
+                                        "popular_products",
+                                        "people_also_ask",
+                                        "organic",
+                                        "related_searches"
+                                    ],
+                                    "se_results_count": 19400000,
+                                    "last_updated_time": "2026-03-07 16:53:55 +00:00",
+                                    "previous_updated_time": "2025-10-28 10:37:03 +00:00"
+                                },
+                                "avg_backlinks_info": null,
+                                "search_intent_info": {
+                                    "se_type": "google",
+                                    "main_intent": "informational",
+                                    "foreign_intent": [
+                                        "transactional"
+                                    ],
+                                    "last_updated_time": "2026-04-29 01:31:15 +00:00"
+                                }
+                            },
+                            "ranked_serp_element": {
+                                "se_type": "google",
+                                "serp_item": {
+                                    "se_type": "google",
+                                    "type": "organic",
+                                    "rank_group": 61,
+                                    "rank_absolute": 70,
+                                    "position": "left",
+                                    "xpath": "\/html[1]\/body[1]\/div[3]\/div[1]\/div[12]\/div[1]\/div[2]\/div[2]\/div[1]\/div[1]\/div[2]\/div[1]\/div[1]\/div[1]",
+                                    "domain": "preventer.ca",
+                                    "title": "wet floor caution signs - Preventer",
+                                    "url": "https:\/\/preventer.ca\/products\/caution-wet-floor-signs",
+                                    "breadcrumb": "https:\/\/preventer.ca › products › caution-wet-floor-signs",
+                                    "website_name": "preventer.ca",
+                                    "is_image": false,
+                                    "is_video": false,
+                                    "is_featured_snippet": false,
+                                    "is_malicious": false,
+                                    "description": "Jul 9, 2023 — Prevent Slip and Fall Accidents: Water from leaks can create slippery surfaces, posing a significant risk of slip and fall accidents. Placing ... Read more",
+                                    "pre_snippet": "07\/09\/2023 00:00:00",
+                                    "extended_snippet": null,
+                                    "amp_version": false,
+                                    "rating": null,
+                                    "highlighted": [
+                                        "Slip",
+                                        "slip"
+                                    ],
+                                    "links": null,
+                                    "about_this_result": null,
+                                    "main_domain": "preventer.ca",
+                                    "relative_url": "\/products\/caution-wet-floor-signs",
+                                    "etv": 0.08399999886751175,
+                                    "estimated_paid_traffic_cost": 7.684319972991943,
+                                    "clickstream_etv": null,
+                                    "rank_changes": {
+                                        "previous_rank_absolute": 76,
+                                        "is_new": false,
+                                        "is_up": true,
+                                        "is_down": false
+                                    },
+                                    "backlinks_info": null,
+                                    "rank_info": {
+                                        "page_rank": 0,
+                                        "main_domain_rank": 146
+                                    }
+                                },
+                                "check_url": "https:\/\/www.google.com\/search?q=slip%20hazard%20sign&hl=en&gl=CA&ie=UTF-8&uule=w+CAIQIFISCdlqzDfTAw1LEaWPQ6Iqt2iZ",
+                                "serp_item_types": [
+                                    "images",
+                                    "popular_products",
+                                    "people_also_ask",
+                                    "organic",
+                                    "related_searches"
+                                ],
+                                "se_results_count": 19400000,
+                                "keyword_difficulty": 0,
+                                "is_lost": false,
+                                "last_updated_time": "2026-03-07 16:53:55 +00:00",
+                                "previous_updated_time": "2025-10-28 10:37:03 +00:00"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

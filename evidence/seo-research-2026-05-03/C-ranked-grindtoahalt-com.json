@@ -1,0 +1,1114 @@
+{
+    "version": "0.1.20260430",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "0.3207 sec.",
+    "cost": 0.0105,
+    "tasks_count": 1,
+    "tasks_error": 0,
+    "tasks": [
+        {
+            "id": "05040657-1495-0381-0000-f34bebac19d8",
+            "status_code": 20000,
+            "status_message": "Ok.",
+            "time": "0.2909 sec.",
+            "cost": 0.0105,
+            "result_count": 1,
+            "path": [
+                "v3",
+                "dataforseo_labs",
+                "google",
+                "ranked_keywords",
+                "live"
+            ],
+            "data": {
+                "api": "dataforseo_labs",
+                "function": "ranked_keywords",
+                "se_type": "google",
+                "target": "grindtoahalt.com",
+                "location_code": 2124,
+                "language_code": "en",
+                "limit": 50,
+                "order_by": [
+                    "keyword_data.keyword_info.search_volume,desc"
+                ]
+            },
+            "result": [
+                {
+                    "se_type": "google",
+                    "target": "grindtoahalt.com",
+                    "location_code": 2124,
+                    "language_code": "en",
+                    "total_count": 5,
+                    "items_count": 5,
+                    "metrics": {
+                        "organic": {
+                            "pos_1": 0,
+                            "pos_2_3": 0,
+                            "pos_4_10": 3,
+                            "pos_11_20": 2,
+                            "pos_21_30": 0,
+                            "pos_31_40": 0,
+                            "pos_41_50": 0,
+                            "pos_51_60": 0,
+                            "pos_61_70": 0,
+                            "pos_71_80": 0,
+                            "pos_81_90": 0,
+                            "pos_91_100": 0,
+                            "etv": 10.10900005698204,
+                            "count": 5,
+                            "estimated_paid_traffic_cost": 0.6993800103664398,
+                            "is_new": 0,
+                            "is_up": 2,
+                            "is_down": 1,
+                            "is_lost": 0,
+                            "clickstream_etv": null,
+                            "clickstream_gender_distribution": null,
+                            "clickstream_age_distribution": null
+                        },
+                        "paid": {
+                            "pos_1": 0,
+                            "pos_2_3": 0,
+                            "pos_4_10": 0,
+                            "pos_11_20": 0,
+                            "pos_21_30": 0,
+                            "pos_31_40": 0,
+                            "pos_41_50": 0,
+                            "pos_51_60": 0,
+                            "pos_61_70": 0,
+                            "pos_71_80": 0,
+                            "pos_81_90": 0,
+                            "pos_91_100": 0,
+                            "etv": 0,
+                            "count": 0,
+                            "estimated_paid_traffic_cost": 0,
+                            "is_new": 0,
+                            "is_up": 0,
+                            "is_down": 0,
+                            "is_lost": 0,
+                            "clickstream_etv": null,
+                            "clickstream_gender_distribution": null,
+                            "clickstream_age_distribution": null
+                        },
+                        "featured_snippet": null,
+                        "local_pack": null,
+                        "ai_overview_reference": null
+                    },
+                    "metrics_absolute": null,
+                    "items": [
+                        {
+                            "se_type": "google",
+                            "keyword_data": {
+                                "se_type": "google",
+                                "keyword": "anti skateboarding",
+                                "location_code": 2124,
+                                "language_code": "en",
+                                "keyword_info": {
+                                    "se_type": "google",
+                                    "last_updated_time": "2026-04-15 16:26:52 +00:00",
+                                    "competition": 0.05999999865889549,
+                                    "competition_level": "LOW",
+                                    "cpc": null,
+                                    "search_volume": 110,
+                                    "low_top_of_page_bid": null,
+                                    "high_top_of_page_bid": null,
+                                    "categories": [
+                                        10014,
+                                        10121,
+                                        10659,
+                                        11922
+                                    ],
+                                    "monthly_searches": [
+                                        {
+                                            "year": 2026,
+                                            "month": 3,
+                                            "search_volume": 90
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 2,
+                                            "search_volume": 110
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 1,
+                                            "search_volume": 140
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 12,
+                                            "search_volume": 140
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 11,
+                                            "search_volume": 110
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 10,
+                                            "search_volume": 110
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 9,
+                                            "search_volume": 110
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 8,
+                                            "search_volume": 110
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 7,
+                                            "search_volume": 110
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 6,
+                                            "search_volume": 90
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 5,
+                                            "search_volume": 110
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 4,
+                                            "search_volume": 140
+                                        }
+                                    ],
+                                    "search_volume_trend": {
+                                        "monthly": -18,
+                                        "quarterly": -36,
+                                        "yearly": 0
+                                    }
+                                },
+                                "keyword_info_normalized_with_bing": null,
+                                "keyword_info_normalized_with_clickstream": null,
+                                "clickstream_keyword_info": null,
+                                "keyword_properties": {
+                                    "se_type": "google",
+                                    "core_keyword": null,
+                                    "synonym_clustering_algorithm": "text_processing",
+                                    "keyword_difficulty": 0,
+                                    "detected_language": "en",
+                                    "is_another_language": false
+                                },
+                                "serp_info": {
+                                    "se_type": "google",
+                                    "check_url": "https:\/\/www.google.com\/search?q=anti%20skateboarding&hl=en&gl=CA&ie=UTF-8&uule=w+CAIQIFISCdlqzDfTAw1LEaWPQ6Iqt2iZ",
+                                    "serp_item_types": [
+                                        "organic",
+                                        "people_also_ask",
+                                        "images",
+                                        "popular_products",
+                                        "related_searches"
+                                    ],
+                                    "se_results_count": 34100000,
+                                    "last_updated_time": "2026-03-13 00:02:52 +00:00",
+                                    "previous_updated_time": "2026-01-30 21:17:00 +00:00"
+                                },
+                                "avg_backlinks_info": {
+                                    "se_type": "google",
+                                    "backlinks": 34.70000076293945,
+                                    "dofollow": 10.800000190734863,
+                                    "referring_pages": 11.899999618530273,
+                                    "referring_domains": 4.300000190734863,
+                                    "referring_main_domains": 4.199999809265137,
+                                    "rank": 42,
+                                    "main_domain_rank": 331,
+                                    "last_updated_time": "2026-03-13 00:02:53 +00:00"
+                                },
+                                "search_intent_info": {
+                                    "se_type": "google",
+                                    "main_intent": "commercial",
+                                    "foreign_intent": null,
+                                    "last_updated_time": "2023-03-04 10:04:11 +00:00"
+                                }
+                            },
+                            "ranked_serp_element": {
+                                "se_type": "google",
+                                "serp_item": {
+                                    "se_type": "google",
+                                    "type": "organic",
+                                    "rank_group": 7,
+                                    "rank_absolute": 9,
+                                    "position": "left",
+                                    "xpath": "\/html[1]\/body[1]\/div[3]\/div[1]\/div[12]\/div[1]\/div[2]\/div[2]\/div[1]\/div[1]\/div[16]\/div[1]\/div[1]",
+                                    "domain": "www.grindtoahalt.com",
+                                    "title": "Grind To A Halt – GRINDERMINDERS– SKATEBOARD ...",
+                                    "url": "https:\/\/www.grindtoahalt.com\/",
+                                    "breadcrumb": "https:\/\/www.grindtoahalt.com",
+                                    "website_name": "Grind To A Halt, Inc.",
+                                    "is_image": false,
+                                    "is_video": false,
+                                    "is_featured_snippet": false,
+                                    "is_malicious": false,
+                                    "description": "Anti-skateboard devices that fit the edges of concrete or stone benches ... Stop skateboarding on thin metal or wood slat handrails and benches. Read more",
+                                    "pre_snippet": null,
+                                    "extended_snippet": null,
+                                    "amp_version": false,
+                                    "rating": null,
+                                    "highlighted": [
+                                        "Anti-skateboard devices that fit the edges of concrete or stone benches"
+                                    ],
+                                    "links": null,
+                                    "about_this_result": null,
+                                    "main_domain": "grindtoahalt.com",
+                                    "relative_url": "\/",
+                                    "etv": 2.815999984741211,
+                                    "estimated_paid_traffic_cost": null,
+                                    "clickstream_etv": null,
+                                    "rank_changes": {
+                                        "previous_rank_absolute": 19,
+                                        "is_new": false,
+                                        "is_up": true,
+                                        "is_down": false
+                                    },
+                                    "backlinks_info": {
+                                        "referring_domains": 8,
+                                        "referring_main_domains": 7,
+                                        "referring_pages": 55,
+                                        "dofollow": 54,
+                                        "backlinks": 283,
+                                        "time_update": "2026-04-20 21:36:16 +00:00"
+                                    },
+                                    "rank_info": {
+                                        "page_rank": 155,
+                                        "main_domain_rank": 203
+                                    }
+                                },
+                                "check_url": "https:\/\/www.google.com\/search?q=anti%20skateboarding&hl=en&gl=CA&ie=UTF-8&uule=w+CAIQIFISCdlqzDfTAw1LEaWPQ6Iqt2iZ",
+                                "serp_item_types": [
+                                    "organic",
+                                    "people_also_ask",
+                                    "images",
+                                    "popular_products",
+                                    "related_searches"
+                                ],
+                                "se_results_count": 34100000,
+                                "keyword_difficulty": 0,
+                                "is_lost": false,
+                                "last_updated_time": "2026-03-13 00:02:52 +00:00",
+                                "previous_updated_time": "2026-01-30 21:17:00 +00:00"
+                            }
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword_data": {
+                                "se_type": "google",
+                                "keyword": "grinder skate",
+                                "location_code": 2124,
+                                "language_code": "en",
+                                "keyword_info": {
+                                    "se_type": "google",
+                                    "last_updated_time": "2026-04-18 16:31:49 +00:00",
+                                    "competition": 0.019999999552965164,
+                                    "competition_level": "LOW",
+                                    "cpc": 0.2199999988079071,
+                                    "search_volume": 110,
+                                    "low_top_of_page_bid": null,
+                                    "high_top_of_page_bid": null,
+                                    "categories": [
+                                        10014,
+                                        10014,
+                                        10121,
+                                        10659,
+                                        13605,
+                                        13617
+                                    ],
+                                    "monthly_searches": [
+                                        {
+                                            "year": 2026,
+                                            "month": 3,
+                                            "search_volume": 70
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 2,
+                                            "search_volume": 70
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 1,
+                                            "search_volume": 110
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 12,
+                                            "search_volume": 110
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 11,
+                                            "search_volume": 110
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 10,
+                                            "search_volume": 170
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 9,
+                                            "search_volume": 140
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 8,
+                                            "search_volume": 110
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 7,
+                                            "search_volume": 90
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 6,
+                                            "search_volume": 90
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 5,
+                                            "search_volume": 110
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 4,
+                                            "search_volume": 70
+                                        }
+                                    ],
+                                    "search_volume_trend": {
+                                        "monthly": 0,
+                                        "quarterly": -36,
+                                        "yearly": null
+                                    }
+                                },
+                                "keyword_info_normalized_with_bing": null,
+                                "keyword_info_normalized_with_clickstream": null,
+                                "clickstream_keyword_info": null,
+                                "keyword_properties": {
+                                    "se_type": "google",
+                                    "core_keyword": "skate grinder",
+                                    "synonym_clustering_algorithm": "text_processing",
+                                    "keyword_difficulty": 0,
+                                    "detected_language": "en",
+                                    "is_another_language": false
+                                },
+                                "serp_info": {
+                                    "se_type": "google",
+                                    "check_url": "https:\/\/www.google.com\/search?q=grinder%20skate&hl=en&gl=CA&ie=UTF-8&uule=w+CAIQIFISCdlqzDfTAw1LEaWPQ6Iqt2iZ",
+                                    "serp_item_types": [
+                                        "images",
+                                        "people_also_ask",
+                                        "video",
+                                        "popular_products",
+                                        "organic",
+                                        "related_searches"
+                                    ],
+                                    "se_results_count": 2110000,
+                                    "last_updated_time": "2026-03-20 23:06:44 +00:00",
+                                    "previous_updated_time": "2026-02-03 05:36:05 +00:00"
+                                },
+                                "avg_backlinks_info": {
+                                    "se_type": "google",
+                                    "backlinks": 3.700000047683716,
+                                    "dofollow": 2.9000000953674316,
+                                    "referring_pages": 3.700000047683716,
+                                    "referring_domains": 3.200000047683716,
+                                    "referring_main_domains": 3.0999999046325684,
+                                    "rank": 44.70000076293945,
+                                    "main_domain_rank": 515.5999755859375,
+                                    "last_updated_time": "2026-03-20 23:06:44 +00:00"
+                                },
+                                "search_intent_info": {
+                                    "se_type": "google",
+                                    "main_intent": "transactional",
+                                    "foreign_intent": null,
+                                    "last_updated_time": "2026-04-20 00:33:53 +00:00"
+                                }
+                            },
+                            "ranked_serp_element": {
+                                "se_type": "google",
+                                "serp_item": {
+                                    "se_type": "google",
+                                    "type": "organic",
+                                    "rank_group": 18,
+                                    "rank_absolute": 25,
+                                    "position": "left",
+                                    "xpath": "\/html[1]\/body[1]\/div[3]\/div[1]\/div[12]\/div[1]\/div[2]\/div[2]\/div[1]\/div[1]\/div[1]\/div[1]\/div[1]",
+                                    "domain": "www.grindtoahalt.com",
+                                    "title": "Grind To A Halt – GRINDERMINDERS– SKATEBOARD ...",
+                                    "url": "https:\/\/www.grindtoahalt.com\/",
+                                    "breadcrumb": "https:\/\/www.grindtoahalt.com",
+                                    "website_name": "Grind To A Halt, Inc.",
+                                    "is_image": false,
+                                    "is_video": false,
+                                    "is_featured_snippet": false,
+                                    "is_malicious": false,
+                                    "description": "Designed with ball and stud, the standard GrinderMinder is made from solid stainless steel with a brushed finish. Preserve your design and landscaping. Read more",
+                                    "pre_snippet": null,
+                                    "extended_snippet": null,
+                                    "amp_version": false,
+                                    "rating": null,
+                                    "highlighted": [
+                                        "made from solid stainless steel with a brushed finish"
+                                    ],
+                                    "links": null,
+                                    "about_this_result": null,
+                                    "main_domain": "grindtoahalt.com",
+                                    "relative_url": "\/",
+                                    "etv": 0.3630000054836273,
+                                    "estimated_paid_traffic_cost": 0.07986000180244446,
+                                    "clickstream_etv": null,
+                                    "rank_changes": {
+                                        "previous_rank_absolute": 22,
+                                        "is_new": false,
+                                        "is_up": false,
+                                        "is_down": true
+                                    },
+                                    "backlinks_info": {
+                                        "referring_domains": 8,
+                                        "referring_main_domains": 7,
+                                        "referring_pages": 55,
+                                        "dofollow": 54,
+                                        "backlinks": 283,
+                                        "time_update": "2026-04-20 21:36:16 +00:00"
+                                    },
+                                    "rank_info": {
+                                        "page_rank": 157,
+                                        "main_domain_rank": 203
+                                    }
+                                },
+                                "check_url": "https:\/\/www.google.com\/search?q=grinder%20skate&hl=en&gl=CA&ie=UTF-8&uule=w+CAIQIFISCdlqzDfTAw1LEaWPQ6Iqt2iZ",
+                                "serp_item_types": [
+                                    "images",
+                                    "people_also_ask",
+                                    "video",
+                                    "popular_products",
+                                    "organic",
+                                    "related_searches"
+                                ],
+                                "se_results_count": 2110000,
+                                "keyword_difficulty": 0,
+                                "is_lost": false,
+                                "last_updated_time": "2026-03-20 23:06:44 +00:00",
+                                "previous_updated_time": "2026-02-03 05:36:05 +00:00"
+                            }
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword_data": {
+                                "se_type": "google",
+                                "keyword": "grinder skateboard",
+                                "location_code": 2124,
+                                "language_code": "en",
+                                "keyword_info": {
+                                    "se_type": "google",
+                                    "last_updated_time": "2026-04-08 19:34:52 +00:00",
+                                    "competition": 0.019999999552965164,
+                                    "competition_level": "LOW",
+                                    "cpc": 0.2199999988079071,
+                                    "search_volume": 110,
+                                    "low_top_of_page_bid": null,
+                                    "high_top_of_page_bid": null,
+                                    "categories": [
+                                        10014,
+                                        10121,
+                                        10659
+                                    ],
+                                    "monthly_searches": [
+                                        {
+                                            "year": 2026,
+                                            "month": 3,
+                                            "search_volume": 70
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 2,
+                                            "search_volume": 70
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 1,
+                                            "search_volume": 110
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 12,
+                                            "search_volume": 110
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 11,
+                                            "search_volume": 110
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 10,
+                                            "search_volume": 170
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 9,
+                                            "search_volume": 140
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 8,
+                                            "search_volume": 110
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 7,
+                                            "search_volume": 90
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 6,
+                                            "search_volume": 90
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 5,
+                                            "search_volume": 110
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 4,
+                                            "search_volume": 70
+                                        }
+                                    ],
+                                    "search_volume_trend": {
+                                        "monthly": 0,
+                                        "quarterly": -36,
+                                        "yearly": -36
+                                    }
+                                },
+                                "keyword_info_normalized_with_bing": null,
+                                "keyword_info_normalized_with_clickstream": null,
+                                "clickstream_keyword_info": null,
+                                "keyword_properties": {
+                                    "se_type": "google",
+                                    "core_keyword": null,
+                                    "synonym_clustering_algorithm": null,
+                                    "keyword_difficulty": 0,
+                                    "detected_language": "en",
+                                    "is_another_language": false
+                                },
+                                "serp_info": {
+                                    "se_type": "google",
+                                    "check_url": "https:\/\/www.google.com\/search?q=grinder%20skateboard&hl=en&gl=CA&ie=UTF-8&uule=w+CAIQIFISCdlqzDfTAw1LEaWPQ6Iqt2iZ",
+                                    "serp_item_types": [
+                                        "popular_products",
+                                        "people_also_ask",
+                                        "images",
+                                        "video",
+                                        "organic",
+                                        "related_searches"
+                                    ],
+                                    "se_results_count": 1320000,
+                                    "last_updated_time": "2026-03-20 23:03:00 +00:00",
+                                    "previous_updated_time": "2026-02-03 05:35:43 +00:00"
+                                },
+                                "avg_backlinks_info": {
+                                    "se_type": "google",
+                                    "backlinks": 30.299999237060547,
+                                    "dofollow": 7.099999904632568,
+                                    "referring_pages": 7.900000095367432,
+                                    "referring_domains": 2.9000000953674316,
+                                    "referring_main_domains": 2.700000047683716,
+                                    "rank": 31.600000381469727,
+                                    "main_domain_rank": 484.6000061035156,
+                                    "last_updated_time": "2026-03-20 23:03:01 +00:00"
+                                },
+                                "search_intent_info": {
+                                    "se_type": "google",
+                                    "main_intent": "transactional",
+                                    "foreign_intent": null,
+                                    "last_updated_time": "2026-04-20 00:00:38 +00:00"
+                                }
+                            },
+                            "ranked_serp_element": {
+                                "se_type": "google",
+                                "serp_item": {
+                                    "se_type": "google",
+                                    "type": "organic",
+                                    "rank_group": 7,
+                                    "rank_absolute": 11,
+                                    "position": "left",
+                                    "xpath": "\/html[1]\/body[1]\/div[3]\/div[1]\/div[12]\/div[1]\/div[2]\/div[2]\/div[1]\/div[1]\/div[21]\/div[1]\/div[1]\/div[1]",
+                                    "domain": "www.grindtoahalt.com",
+                                    "title": "Grind To A Halt – GRINDERMINDERS– SKATEBOARD ...",
+                                    "url": "https:\/\/www.grindtoahalt.com\/",
+                                    "breadcrumb": "https:\/\/www.grindtoahalt.com",
+                                    "website_name": "Grind To A Halt, Inc.",
+                                    "is_image": true,
+                                    "is_video": false,
+                                    "is_featured_snippet": false,
+                                    "is_malicious": false,
+                                    "description": "Designed with ball and stud, the standard GrinderMinder is made from solid stainless steel with a brushed finish. Preserve your design and landscaping. Read more",
+                                    "pre_snippet": null,
+                                    "extended_snippet": null,
+                                    "amp_version": false,
+                                    "rating": null,
+                                    "highlighted": [
+                                        "made from solid stainless steel with a brushed finish"
+                                    ],
+                                    "links": null,
+                                    "about_this_result": null,
+                                    "main_domain": "grindtoahalt.com",
+                                    "relative_url": "\/",
+                                    "etv": 2.815999984741211,
+                                    "estimated_paid_traffic_cost": 0.6195200085639954,
+                                    "clickstream_etv": null,
+                                    "rank_changes": {
+                                        "previous_rank_absolute": 25,
+                                        "is_new": false,
+                                        "is_up": true,
+                                        "is_down": false
+                                    },
+                                    "backlinks_info": {
+                                        "referring_domains": 8,
+                                        "referring_main_domains": 7,
+                                        "referring_pages": 55,
+                                        "dofollow": 54,
+                                        "backlinks": 283,
+                                        "time_update": "2026-04-20 21:36:16 +00:00"
+                                    },
+                                    "rank_info": {
+                                        "page_rank": 157,
+                                        "main_domain_rank": 203
+                                    }
+                                },
+                                "check_url": "https:\/\/www.google.com\/search?q=grinder%20skateboard&hl=en&gl=CA&ie=UTF-8&uule=w+CAIQIFISCdlqzDfTAw1LEaWPQ6Iqt2iZ",
+                                "serp_item_types": [
+                                    "popular_products",
+                                    "people_also_ask",
+                                    "images",
+                                    "video",
+                                    "organic",
+                                    "related_searches"
+                                ],
+                                "se_results_count": 1320000,
+                                "keyword_difficulty": 0,
+                                "is_lost": false,
+                                "last_updated_time": "2026-03-20 23:03:00 +00:00",
+                                "previous_updated_time": "2026-02-03 05:35:43 +00:00"
+                            }
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword_data": {
+                                "se_type": "google",
+                                "keyword": "skate stoppers",
+                                "location_code": 2124,
+                                "language_code": "en",
+                                "keyword_info": {
+                                    "se_type": "google",
+                                    "last_updated_time": "2026-04-15 06:19:22 +00:00",
+                                    "competition": 0.05000000074505806,
+                                    "competition_level": "LOW",
+                                    "cpc": null,
+                                    "search_volume": 90,
+                                    "low_top_of_page_bid": null,
+                                    "high_top_of_page_bid": null,
+                                    "categories": [
+                                        10014,
+                                        10014,
+                                        10121,
+                                        10659,
+                                        13605,
+                                        13617
+                                    ],
+                                    "monthly_searches": [
+                                        {
+                                            "year": 2026,
+                                            "month": 3,
+                                            "search_volume": 110
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 2,
+                                            "search_volume": 90
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 1,
+                                            "search_volume": 140
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 12,
+                                            "search_volume": 90
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 11,
+                                            "search_volume": 90
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 10,
+                                            "search_volume": 110
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 9,
+                                            "search_volume": 140
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 8,
+                                            "search_volume": 70
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 7,
+                                            "search_volume": 70
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 6,
+                                            "search_volume": 90
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 5,
+                                            "search_volume": 90
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 4,
+                                            "search_volume": 70
+                                        }
+                                    ],
+                                    "search_volume_trend": {
+                                        "monthly": 22,
+                                        "quarterly": -21,
+                                        "yearly": 22
+                                    }
+                                },
+                                "keyword_info_normalized_with_bing": null,
+                                "keyword_info_normalized_with_clickstream": null,
+                                "clickstream_keyword_info": null,
+                                "keyword_properties": {
+                                    "se_type": "google",
+                                    "core_keyword": null,
+                                    "synonym_clustering_algorithm": "text_processing",
+                                    "keyword_difficulty": 0,
+                                    "detected_language": "en",
+                                    "is_another_language": false
+                                },
+                                "serp_info": {
+                                    "se_type": "google",
+                                    "check_url": "https:\/\/www.google.com\/search?q=skate%20stoppers&hl=en&gl=CA&ie=UTF-8&uule=w+CAIQIFISCdlqzDfTAw1LEaWPQ6Iqt2iZ",
+                                    "serp_item_types": [
+                                        "organic",
+                                        "people_also_ask",
+                                        "popular_products",
+                                        "video",
+                                        "images",
+                                        "related_searches"
+                                    ],
+                                    "se_results_count": 831000,
+                                    "last_updated_time": "2026-04-09 09:47:40 +00:00",
+                                    "previous_updated_time": "2026-02-23 15:57:51 +00:00"
+                                },
+                                "avg_backlinks_info": {
+                                    "se_type": "google",
+                                    "backlinks": 26.399999618530273,
+                                    "dofollow": 10.300000190734863,
+                                    "referring_pages": 16.899999618530273,
+                                    "referring_domains": 5.599999904632568,
+                                    "referring_main_domains": 5.199999809265137,
+                                    "rank": 40.29999923706055,
+                                    "main_domain_rank": 380.1000061035156,
+                                    "last_updated_time": "2026-04-09 09:47:41 +00:00"
+                                },
+                                "search_intent_info": {
+                                    "se_type": "google",
+                                    "main_intent": "transactional",
+                                    "foreign_intent": null,
+                                    "last_updated_time": "2026-04-29 01:10:45 +00:00"
+                                }
+                            },
+                            "ranked_serp_element": {
+                                "se_type": "google",
+                                "serp_item": {
+                                    "se_type": "google",
+                                    "type": "organic",
+                                    "rank_group": 11,
+                                    "rank_absolute": 16,
+                                    "position": "left",
+                                    "xpath": "\/html[1]\/body[1]\/div[3]\/div[1]\/div[12]\/div[1]\/div[2]\/div[2]\/div[1]\/div[1]\/div[3]\/div[1]\/div[1]",
+                                    "domain": "www.grindtoahalt.com",
+                                    "title": "Grind To A Halt – GRINDERMINDERS– SKATEBOARD ...",
+                                    "url": "https:\/\/www.grindtoahalt.com\/",
+                                    "breadcrumb": "https:\/\/www.grindtoahalt.com",
+                                    "website_name": "Grind To A Halt, Inc.",
+                                    "is_image": false,
+                                    "is_video": false,
+                                    "is_featured_snippet": false,
+                                    "is_malicious": false,
+                                    "description": "Designed with ball and stud, the standard GrinderMinder is made from solid stainless steel with a brushed finish. Preserve your design and landscaping. Read more",
+                                    "pre_snippet": null,
+                                    "extended_snippet": null,
+                                    "amp_version": false,
+                                    "rating": null,
+                                    "highlighted": [
+                                        "made from solid stainless steel with a brushed finish"
+                                    ],
+                                    "links": null,
+                                    "about_this_result": null,
+                                    "main_domain": "grindtoahalt.com",
+                                    "relative_url": "\/",
+                                    "etv": 0.8190000057220459,
+                                    "estimated_paid_traffic_cost": null,
+                                    "clickstream_etv": null,
+                                    "rank_changes": {
+                                        "previous_rank_absolute": 16,
+                                        "is_new": false,
+                                        "is_up": false,
+                                        "is_down": false
+                                    },
+                                    "backlinks_info": {
+                                        "referring_domains": 8,
+                                        "referring_main_domains": 7,
+                                        "referring_pages": 55,
+                                        "dofollow": 54,
+                                        "backlinks": 282,
+                                        "time_update": "2026-04-29 11:09:06 +00:00"
+                                    },
+                                    "rank_info": {
+                                        "page_rank": 157,
+                                        "main_domain_rank": 203
+                                    }
+                                },
+                                "check_url": "https:\/\/www.google.com\/search?q=skate%20stoppers&hl=en&gl=CA&ie=UTF-8&uule=w+CAIQIFISCdlqzDfTAw1LEaWPQ6Iqt2iZ",
+                                "serp_item_types": [
+                                    "organic",
+                                    "people_also_ask",
+                                    "popular_products",
+                                    "video",
+                                    "images",
+                                    "related_searches"
+                                ],
+                                "se_results_count": 831000,
+                                "keyword_difficulty": 0,
+                                "is_lost": false,
+                                "last_updated_time": "2026-04-09 09:47:40 +00:00",
+                                "previous_updated_time": "2026-02-23 15:57:51 +00:00"
+                            }
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword_data": {
+                                "se_type": "google",
+                                "keyword": "grind to a halt",
+                                "location_code": 2124,
+                                "language_code": "en",
+                                "keyword_info": {
+                                    "se_type": "google",
+                                    "last_updated_time": "2026-04-14 10:59:07 +00:00",
+                                    "competition": 0,
+                                    "competition_level": "LOW",
+                                    "cpc": null,
+                                    "search_volume": 50,
+                                    "low_top_of_page_bid": null,
+                                    "high_top_of_page_bid": null,
+                                    "categories": [
+                                        10008
+                                    ],
+                                    "monthly_searches": [
+                                        {
+                                            "year": 2026,
+                                            "month": 3,
+                                            "search_volume": 40
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 2,
+                                            "search_volume": 50
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 1,
+                                            "search_volume": 40
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 12,
+                                            "search_volume": 30
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 11,
+                                            "search_volume": 70
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 10,
+                                            "search_volume": 50
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 9,
+                                            "search_volume": 70
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 8,
+                                            "search_volume": 40
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 7,
+                                            "search_volume": 40
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 6,
+                                            "search_volume": 70
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 5,
+                                            "search_volume": 70
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 4,
+                                            "search_volume": 70
+                                        }
+                                    ],
+                                    "search_volume_trend": {
+                                        "monthly": -20,
+                                        "quarterly": 0,
+                                        "yearly": -43
+                                    }
+                                },
+                                "keyword_info_normalized_with_bing": null,
+                                "keyword_info_normalized_with_clickstream": null,
+                                "clickstream_keyword_info": null,
+                                "keyword_properties": {
+                                    "se_type": "google",
+                                    "core_keyword": "grinding halt",
+                                    "synonym_clustering_algorithm": "text_processing",
+                                    "keyword_difficulty": 0,
+                                    "detected_language": "en",
+                                    "is_another_language": false
+                                },
+                                "serp_info": {
+                                    "se_type": "google",
+                                    "check_url": "https:\/\/www.google.com\/search?q=grind%20to%20a%20halt&hl=en&gl=CA&ie=UTF-8&uule=w+CAIQIFISCdlqzDfTAw1LEaWPQ6Iqt2iZ",
+                                    "serp_item_types": [
+                                        "knowledge_graph",
+                                        "people_also_ask",
+                                        "organic",
+                                        "video",
+                                        "short_videos",
+                                        "related_searches",
+                                        "images"
+                                    ],
+                                    "se_results_count": 4740000,
+                                    "last_updated_time": "2026-02-06 15:49:33 +00:00",
+                                    "previous_updated_time": "2025-12-27 07:47:07 +00:00"
+                                },
+                                "avg_backlinks_info": {
+                                    "se_type": "google",
+                                    "backlinks": 29.399999618530273,
+                                    "dofollow": 6.199999809265137,
+                                    "referring_pages": 7.099999904632568,
+                                    "referring_domains": 1.600000023841858,
+                                    "referring_main_domains": 1.399999976158142,
+                                    "rank": 30.399999618530273,
+                                    "main_domain_rank": 489.3999938964844,
+                                    "last_updated_time": "2026-02-06 15:50:47 +00:00"
+                                },
+                                "search_intent_info": {
+                                    "se_type": "google",
+                                    "main_intent": "informational",
+                                    "foreign_intent": null,
+                                    "last_updated_time": "2026-04-19 21:44:38 +00:00"
+                                }
+                            },
+                            "ranked_serp_element": {
+                                "se_type": "google",
+                                "serp_item": {
+                                    "se_type": "google",
+                                    "type": "organic",
+                                    "rank_group": 4,
+                                    "rank_absolute": 6,
+                                    "position": "left",
+                                    "xpath": "\/html[1]\/body[1]\/div[3]\/div[1]\/div[12]\/div[3]\/div[1]\/div[2]\/div[1]\/div[1]\/div[11]\/div[1]\/div[1]",
+                                    "domain": "www.grindtoahalt.com",
+                                    "title": "Grind To A Halt – GRINDERMINDERS– SKATEBOARD ...",
+                                    "url": "https:\/\/www.grindtoahalt.com\/",
+                                    "breadcrumb": "https:\/\/www.grindtoahalt.com",
+                                    "website_name": "Grind To A Halt, Inc.",
+                                    "is_image": false,
+                                    "is_video": false,
+                                    "is_featured_snippet": false,
+                                    "is_malicious": false,
+                                    "description": "Designed with ball and stud, the standard GrinderMinder is made from solid stainless steel with a brushed finish. Preserve your design and landscaping. Read more",
+                                    "pre_snippet": null,
+                                    "extended_snippet": null,
+                                    "amp_version": false,
+                                    "rating": null,
+                                    "highlighted": [
+                                        "made from solid stainless steel with a brushed finish"
+                                    ],
+                                    "links": null,
+                                    "about_this_result": null,
+                                    "main_domain": "grindtoahalt.com",
+                                    "relative_url": "\/",
+                                    "etv": 3.2950000762939453,
+                                    "estimated_paid_traffic_cost": null,
+                                    "clickstream_etv": null,
+                                    "rank_changes": {
+                                        "previous_rank_absolute": 6,
+                                        "is_new": false,
+                                        "is_up": false,
+                                        "is_down": false
+                                    },
+                                    "backlinks_info": {
+                                        "referring_domains": 8,
+                                        "referring_main_domains": 7,
+                                        "referring_pages": 55,
+                                        "dofollow": 54,
+                                        "backlinks": 283,
+                                        "time_update": "2026-04-20 21:36:16 +00:00"
+                                    },
+                                    "rank_info": {
+                                        "page_rank": 169,
+                                        "main_domain_rank": 209
+                                    }
+                                },
+                                "check_url": "https:\/\/www.google.com\/search?q=grind%20to%20a%20halt&hl=en&gl=CA&ie=UTF-8&uule=w+CAIQIFISCdlqzDfTAw1LEaWPQ6Iqt2iZ",
+                                "serp_item_types": [
+                                    "knowledge_graph",
+                                    "people_also_ask",
+                                    "organic",
+                                    "video",
+                                    "short_videos",
+                                    "related_searches",
+                                    "images"
+                                ],
+                                "se_results_count": 4740000,
+                                "keyword_difficulty": 0,
+                                "is_lost": false,
+                                "last_updated_time": "2026-02-06 15:49:33 +00:00",
+                                "previous_updated_time": "2025-12-27 07:47:07 +00:00"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,274 @@
+{
+    "version": "0.1.20260430",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "0.1521 sec.",
+    "cost": 0.0138,
+    "tasks_count": 1,
+    "tasks_error": 0,
+    "tasks": [
+        {
+            "id": "05040657-1495-0392-0000-6db406367af1",
+            "status_code": 20000,
+            "status_message": "Ok.",
+            "time": "0.1018 sec.",
+            "cost": 0.0138,
+            "result_count": 1,
+            "path": [
+                "v3",
+                "dataforseo_labs",
+                "google",
+                "bulk_keyword_difficulty",
+                "live"
+            ],
+            "data": {
+                "api": "dataforseo_labs",
+                "function": "bulk_keyword_difficulty",
+                "se_type": "google",
+                "keywords": [
+                    "skate stoppers",
+                    "skate stopper",
+                    "skate deterrents",
+                    "skateboard deterrent",
+                    "skateboard deterrent for concrete",
+                    "skateboard stoppers",
+                    "skateboard deterrents for concrete",
+                    "skateboard deterrents for walls",
+                    "skateboard deterrents for benches",
+                    "stainless steel skateboard deterrents",
+                    "skateboard deterrents for sidewalks",
+                    "handrail skateboard deterrents",
+                    "skatestopper",
+                    "anti skate deterrents",
+                    "handrail skate stoppers",
+                    "skate stoppers amazon",
+                    "skate stoppers com",
+                    "skateboard grind stoppers",
+                    "skateboard prevention",
+                    "skatestoppers com",
+                    "stainless steel skate deterrents",
+                    "skateboard guards",
+                    "skate 3 unblocked",
+                    "intellicept skate stoppers",
+                    "skateboard deterrents for handrails",
+                    "skateboard deterrent spacing",
+                    "skateboard wheel stoppers",
+                    "skate stoppers for wheels",
+                    "skate blade guards",
+                    "skateboard rubber wheel stoppers",
+                    "rollergard skate guards",
+                    "skate guard canadian tire",
+                    "grind to a halt skateboard deterrent",
+                    "skateboard tail guards",
+                    "tail guard skateboard",
+                    "skateboard tail guard",
+                    "anti skateboard devices",
+                    "anti skate weight"
+                ],
+                "location_code": 2124,
+                "language_code": "en"
+            },
+            "result": [
+                {
+                    "se_type": "google",
+                    "location_code": 2124,
+                    "language_code": "en",
+                    "total_count": 38,
+                    "items_count": 38,
+                    "items": [
+                        {
+                            "se_type": "google",
+                            "keyword": "anti skate deterrents",
+                            "keyword_difficulty": null
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "anti skate weight",
+                            "keyword_difficulty": 43
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "anti skateboard devices",
+                            "keyword_difficulty": null
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "grind to a halt skateboard deterrent",
+                            "keyword_difficulty": null
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "handrail skate stoppers",
+                            "keyword_difficulty": null
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "handrail skateboard deterrents",
+                            "keyword_difficulty": null
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "intellicept skate stoppers",
+                            "keyword_difficulty": null
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "rollergard skate guards",
+                            "keyword_difficulty": 0
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "skate 3 unblocked",
+                            "keyword_difficulty": null
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "skate blade guards",
+                            "keyword_difficulty": 0
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "skate deterrents",
+                            "keyword_difficulty": null
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "skate guard canadian tire",
+                            "keyword_difficulty": 2
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "skate stoppers",
+                            "keyword_difficulty": 0
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "skate stoppers amazon",
+                            "keyword_difficulty": null
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "skate stoppers for wheels",
+                            "keyword_difficulty": null
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "skateboard deterrent",
+                            "keyword_difficulty": 20
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "skateboard deterrent spacing",
+                            "keyword_difficulty": null
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "skateboard deterrents for benches",
+                            "keyword_difficulty": null
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "skateboard deterrents for concrete",
+                            "keyword_difficulty": null
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "skateboard deterrents for handrails",
+                            "keyword_difficulty": null
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "skateboard deterrents for sidewalks",
+                            "keyword_difficulty": null
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "skateboard deterrents for walls",
+                            "keyword_difficulty": null
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "skateboard guards",
+                            "keyword_difficulty": 0
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "skateboard rubber wheel stoppers",
+                            "keyword_difficulty": null
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "skateboard stoppers",
+                            "keyword_difficulty": null
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "skateboard tail guard",
+                            "keyword_difficulty": 0
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "skateboard tail guards",
+                            "keyword_difficulty": 0
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "skateboard wheel stoppers",
+                            "keyword_difficulty": null
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "stainless steel skateboard deterrents",
+                            "keyword_difficulty": null
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "tail guard skateboard",
+                            "keyword_difficulty": 0
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "skate stopper",
+                            "keyword_difficulty": null
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "skateboard deterrent for concrete",
+                            "keyword_difficulty": null
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "skatestopper",
+                            "keyword_difficulty": null
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "skate stoppers com",
+                            "keyword_difficulty": null
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "skateboard grind stoppers",
+                            "keyword_difficulty": null
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "skateboard prevention",
+                            "keyword_difficulty": null
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "skatestoppers com",
+                            "keyword_difficulty": null
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword": "stainless steel skate deterrents",
+                            "keyword_difficulty": null
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

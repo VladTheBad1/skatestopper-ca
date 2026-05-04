@@ -1,0 +1,57 @@
+{
+    "version": "0.1.20260430",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "5.7712 sec.",
+    "cost": 0.00073995,
+    "tasks_count": 1,
+    "tasks_error": 0,
+    "tasks": [
+        {
+            "id": "05040700-1495-0612-0000-e02f9fb2649b",
+            "status_code": 20000,
+            "status_message": "Ok.",
+            "time": "5.7610 sec.",
+            "cost": 0.00073995,
+            "result_count": 1,
+            "path": [
+                "v3",
+                "ai_optimization",
+                "chat_gpt",
+                "llm_responses",
+                "live"
+            ],
+            "data": {
+                "api": "ai_optimization",
+                "function": "llm_responses",
+                "se": "chat_gpt",
+                "user_prompt": "where to buy skateboard deterrents Canada",
+                "model_name": "gpt-4o-mini"
+            },
+            "result": [
+                {
+                    "model_name": "gpt-4o-mini-2024-07-18",
+                    "input_tokens": 25,
+                    "output_tokens": 227,
+                    "reasoning_tokens": 0,
+                    "web_search": false,
+                    "money_spent": 0.00013995,
+                    "datetime": "2026-05-04 07:00:39 +00:00",
+                    "items": [
+                        {
+                            "type": "message",
+                            "sections": [
+                                {
+                                    "type": "text",
+                                    "text": "In Canada, you can find skateboard deterrents at various retailers, both online and in physical stores. Here are some options:\n\n1. **Local Skate Shops**: Check out local skateboarding shops in your area. They often carry deterrents like skate spikes or anti-skateboard devices.\n\n2. **Online Retailers**:\n   - **Amazon Canada**: You can find a variety of deterrent products on Amazon.\n   - **eBay Canada**: Look for second-hand options or new products from various sellers.\n   - **Skateboard-specific Websites**: Websites like Tactics or Skate Warehouse may have products specifically designed to deter skateboarding.\n\n3. **Home Improvement Stores**: Stores like Home Depot or Lowe's may have materials that can be used for DIY deterrents.\n\n4. **Hardware Stores**: Local hardware stores might carry materials you can use to create your own deterrents.\n\n5. **Sports and Outdoor Stores**: Chains like Canadian Tire or Sport Chek might carry products for skateboarding or related deterrents.\n\nMake sure to check product reviews and ratings before purchasing to ensure effectiveness and quality.",
+                                    "annotations": null
+                                }
+                            ]
+                        }
+                    ],
+                    "fan_out_queries": null
+                }
+            ]
+        }
+    ]
+}

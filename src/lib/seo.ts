@@ -127,8 +127,8 @@ export function buildCityServiceSchema(city: City, service?: string) {
     '@context': 'https://schema.org',
     '@type': 'Service',
     name: service ? `${service} in ${city.name}` : `${niche} in ${city.name}`,
-    description: `${niche} supplied, installed, and maintained in ${city.name}, ${city.province}.`,
-    serviceType: service ?? niche,
+    description: `Anti-skateboarding deterrent hardware (skate stoppers — NOT roller skate toe stops) supplied, installed, and maintained in ${city.name}, ${city.province}.`,
+    serviceType: service ?? `Anti-skateboarding hardware installation`,
     provider: {
       '@type': 'Organization',
       name: siteConfig.brandName,
@@ -275,7 +275,7 @@ export function buildIndustryServiceSchema(industry: {
   return {
     '@context': 'https://schema.org',
     '@type': 'Service',
-    serviceType: `${siteConfig.nicheEn} for ${name}`,
+    serviceType: `Anti-skateboarding hardware installation for ${name}`,
     name: `${siteConfig.nicheEn} for ${name}`,
     description: stripMarkdown(desc).slice(0, 280),
     image: `${SITE_URL}${img}`,

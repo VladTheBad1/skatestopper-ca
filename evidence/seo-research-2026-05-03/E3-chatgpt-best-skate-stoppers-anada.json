@@ -1,0 +1,57 @@
+{
+    "version": "0.1.20260430",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "4.3108 sec.",
+    "cost": 0.00071865,
+    "tasks_count": 1,
+    "tasks_error": 0,
+    "tasks": [
+        {
+            "id": "05040700-1495-0612-0000-3e339996cb55",
+            "status_code": 20000,
+            "status_message": "Ok.",
+            "time": "4.2736 sec.",
+            "cost": 0.00071865,
+            "result_count": 1,
+            "path": [
+                "v3",
+                "ai_optimization",
+                "chat_gpt",
+                "llm_responses",
+                "live"
+            ],
+            "data": {
+                "api": "ai_optimization",
+                "function": "llm_responses",
+                "se": "chat_gpt",
+                "user_prompt": "best skate stoppers Canada",
+                "model_name": "gpt-4o-mini"
+            },
+            "result": [
+                {
+                    "model_name": "gpt-4o-mini-2024-07-18",
+                    "input_tokens": 23,
+                    "output_tokens": 192,
+                    "reasoning_tokens": 0,
+                    "web_search": false,
+                    "money_spent": 0.00011865,
+                    "datetime": "2026-05-04 07:00:33 +00:00",
+                    "items": [
+                        {
+                            "type": "message",
+                            "sections": [
+                                {
+                                    "type": "text",
+                                    "text": "When looking for the best skate stoppers in Canada, consider these options:\n\n1. **SkateStoppers**: A popular brand, known for its effective designs and durability. They offer a variety of sizes and styles.\n\n2. **Concrete Skate Stoppers**: Often made from concrete or heavy-duty plastic, these are fixed to surfaces to deter skating.\n\n3. **Aluminum Skate Stoppers**: Lightweight and corrosion-resistant, these stoppers can be easily installed and are durable against the elements.\n\n4. **Custom Solutions**: Some skate parks and municipalities create custom designs that blend better with the environment while serving their purpose.\n\n5. **Local Suppliers**: Check out local skate shops or construction suppliers in Canada, as they may carry or can order skate stoppers suited for your needs.\n\nAlways consider the local regulations and community feedback before installing skate stoppers, as they can be a contentious issue among skaters and non-skaters alike.",
+                                    "annotations": null
+                                }
+                            ]
+                        }
+                    ],
+                    "fan_out_queries": null
+                }
+            ]
+        }
+    ]
+}

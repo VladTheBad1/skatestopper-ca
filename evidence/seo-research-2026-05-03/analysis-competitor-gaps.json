@@ -1,0 +1,94 @@
+{
+  "competitor_kws": [
+    {
+      "kw": "anti skateboarding",
+      "vol": 110,
+      "comps": [
+        {
+          "dom": "preventer.ca",
+          "pos": 10
+        },
+        {
+          "dom": "grindtoahalt.com",
+          "pos": 7
+        }
+      ]
+    },
+    {
+      "kw": "skate stoppers",
+      "vol": 90,
+      "comps": [
+        {
+          "dom": "preventer.ca",
+          "pos": 10
+        },
+        {
+          "dom": "grindtoahalt.com",
+          "pos": 11
+        }
+      ]
+    },
+    {
+      "kw": "grinder skate",
+      "vol": 110,
+      "comps": [
+        {
+          "dom": "grindtoahalt.com",
+          "pos": 18
+        }
+      ]
+    },
+    {
+      "kw": "grinder skateboard",
+      "vol": 110,
+      "comps": [
+        {
+          "dom": "grindtoahalt.com",
+          "pos": 7
+        }
+      ]
+    },
+    {
+      "kw": "grind to a halt",
+      "vol": 50,
+      "comps": [
+        {
+          "dom": "grindtoahalt.com",
+          "pos": 4
+        }
+      ]
+    }
+  ],
+  "gaps": [
+    {
+      "kw": "grinder skate",
+      "vol": 110,
+      "comps": [
+        {
+          "dom": "grindtoahalt.com",
+          "pos": 18
+        }
+      ]
+    },
+    {
+      "kw": "grinder skateboard",
+      "vol": 110,
+      "comps": [
+        {
+          "dom": "grindtoahalt.com",
+          "pos": 7
+        }
+      ]
+    },
+    {
+      "kw": "grind to a halt",
+      "vol": 50,
+      "comps": [
+        {
+          "dom": "grindtoahalt.com",
+          "pos": 4
+        }
+      ]
+    }
+  ]
+}

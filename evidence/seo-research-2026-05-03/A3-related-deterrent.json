@@ -1,0 +1,2960 @@
+{
+    "version": "0.1.20260430",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "0.3834 sec.",
+    "cost": 0.0123,
+    "tasks_count": 1,
+    "tasks_error": 0,
+    "tasks": [
+        {
+            "id": "05040655-1495-0387-0000-1b7e69d0fe3e",
+            "status_code": 20000,
+            "status_message": "Ok.",
+            "time": "0.3655 sec.",
+            "cost": 0.0123,
+            "result_count": 1,
+            "path": [
+                "v3",
+                "dataforseo_labs",
+                "google",
+                "related_keywords",
+                "live"
+            ],
+            "data": {
+                "api": "dataforseo_labs",
+                "function": "related_keywords",
+                "se_type": "google",
+                "keyword": "deterrent",
+                "location_code": 2124,
+                "language_code": "en",
+                "limit": 100,
+                "depth": 2
+            },
+            "result": [
+                {
+                    "se_type": "google",
+                    "seed_keyword": "deterrent",
+                    "seed_keyword_data": null,
+                    "location_code": 2124,
+                    "language_code": "en",
+                    "total_count": 23,
+                    "items_count": 23,
+                    "items": [
+                        {
+                            "se_type": "google",
+                            "keyword_data": {
+                                "se_type": "google",
+                                "keyword": "deterrent",
+                                "location_code": 2124,
+                                "language_code": "en",
+                                "keyword_info": {
+                                    "se_type": "google",
+                                    "last_updated_time": "2026-04-16 19:20:38 +00:00",
+                                    "competition": 0,
+                                    "competition_level": "LOW",
+                                    "cpc": null,
+                                    "search_volume": 5400,
+                                    "low_top_of_page_bid": null,
+                                    "high_top_of_page_bid": null,
+                                    "categories": [
+                                        10008
+                                    ],
+                                    "monthly_searches": [
+                                        {
+                                            "year": 2026,
+                                            "month": 3,
+                                            "search_volume": 5400
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 2,
+                                            "search_volume": 4400
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 1,
+                                            "search_volume": 6600
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 12,
+                                            "search_volume": 5400
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 11,
+                                            "search_volume": 5400
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 10,
+                                            "search_volume": 5400
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 9,
+                                            "search_volume": 5400
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 8,
+                                            "search_volume": 3600
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 7,
+                                            "search_volume": 4400
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 6,
+                                            "search_volume": 6600
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 5,
+                                            "search_volume": 6600
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 4,
+                                            "search_volume": 6600
+                                        }
+                                    ],
+                                    "search_volume_trend": {
+                                        "monthly": 23,
+                                        "quarterly": -18,
+                                        "yearly": -18
+                                    }
+                                },
+                                "keyword_info_normalized_with_bing": null,
+                                "keyword_info_normalized_with_clickstream": null,
+                                "clickstream_keyword_info": null,
+                                "keyword_properties": {
+                                    "se_type": "google",
+                                    "core_keyword": null,
+                                    "synonym_clustering_algorithm": "text_processing",
+                                    "keyword_difficulty": 11,
+                                    "detected_language": "en",
+                                    "is_another_language": false
+                                },
+                                "serp_info": {
+                                    "se_type": "google",
+                                    "check_url": "https:\/\/www.google.com\/search?q=deterrent&hl=en&gl=CA&ie=UTF-8&uule=w+CAIQIFISCdlqzDfTAw1LEaWPQ6Iqt2iZ",
+                                    "serp_item_types": [
+                                        "ai_overview",
+                                        "people_also_ask",
+                                        "organic",
+                                        "video",
+                                        "images",
+                                        "related_searches"
+                                    ],
+                                    "se_results_count": 29400000,
+                                    "last_updated_time": "2026-04-17 16:01:34 +00:00",
+                                    "previous_updated_time": "2026-03-04 14:59:39 +00:00"
+                                },
+                                "avg_backlinks_info": {
+                                    "se_type": "google",
+                                    "backlinks": 172.7,
+                                    "dofollow": 136.4,
+                                    "referring_pages": 152.9,
+                                    "referring_domains": 79.4,
+                                    "referring_main_domains": 74.6,
+                                    "rank": 103,
+                                    "main_domain_rank": 582.1,
+                                    "last_updated_time": "2026-04-17 13:04:29 +00:00"
+                                },
+                                "search_intent_info": {
+                                    "se_type": "google",
+                                    "main_intent": "informational",
+                                    "foreign_intent": null,
+                                    "last_updated_time": "2026-04-26 23:36:03 +00:00"
+                                }
+                            },
+                            "depth": 0,
+                            "related_keywords": [
+                                "deterrent synonyms",
+                                "deterrent meaning in farsi",
+                                "deterrent in urdu",
+                                "deterrent meaning",
+                                "deterrent in a sentence",
+                                "deterrent pronunciation",
+                                "deterrent verb",
+                                "deterrent meaning in law"
+                            ]
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword_data": {
+                                "se_type": "google",
+                                "keyword": "deterrent meaning",
+                                "location_code": 2124,
+                                "language_code": "en",
+                                "keyword_info": {
+                                    "se_type": "google",
+                                    "last_updated_time": "2026-04-16 06:28:46 +00:00",
+                                    "competition": 0,
+                                    "competition_level": "LOW",
+                                    "cpc": null,
+                                    "search_volume": 2400,
+                                    "low_top_of_page_bid": null,
+                                    "high_top_of_page_bid": null,
+                                    "categories": [
+                                        10108,
+                                        10756
+                                    ],
+                                    "monthly_searches": [
+                                        {
+                                            "year": 2026,
+                                            "month": 3,
+                                            "search_volume": 2900
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 2,
+                                            "search_volume": 2400
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 1,
+                                            "search_volume": 2400
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 12,
+                                            "search_volume": 1900
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 11,
+                                            "search_volume": 2400
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 10,
+                                            "search_volume": 2900
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 9,
+                                            "search_volume": 2400
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 8,
+                                            "search_volume": 1900
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 7,
+                                            "search_volume": 1900
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 6,
+                                            "search_volume": 2400
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 5,
+                                            "search_volume": 2400
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 4,
+                                            "search_volume": 2900
+                                        }
+                                    ],
+                                    "search_volume_trend": {
+                                        "monthly": 21,
+                                        "quarterly": 21,
+                                        "yearly": 0
+                                    }
+                                },
+                                "keyword_info_normalized_with_bing": null,
+                                "keyword_info_normalized_with_clickstream": null,
+                                "clickstream_keyword_info": null,
+                                "keyword_properties": {
+                                    "se_type": "google",
+                                    "core_keyword": null,
+                                    "synonym_clustering_algorithm": "text_processing",
+                                    "keyword_difficulty": 10,
+                                    "detected_language": "en",
+                                    "is_another_language": false
+                                },
+                                "serp_info": {
+                                    "se_type": "google",
+                                    "check_url": "https:\/\/www.google.com\/search?q=deterrent%20meaning&hl=en&gl=CA&ie=UTF-8&uule=w+CAIQIFISCdlqzDfTAw1LEaWPQ6Iqt2iZ",
+                                    "serp_item_types": [
+                                        "people_also_ask",
+                                        "organic",
+                                        "related_searches",
+                                        "knowledge_graph"
+                                    ],
+                                    "se_results_count": 24900000,
+                                    "last_updated_time": "2026-04-18 02:35:20 +00:00",
+                                    "previous_updated_time": "2026-03-04 19:04:46 +00:00"
+                                },
+                                "avg_backlinks_info": {
+                                    "se_type": "google",
+                                    "backlinks": 34.9,
+                                    "dofollow": 9.5,
+                                    "referring_pages": 25.5,
+                                    "referring_domains": 8.6,
+                                    "referring_main_domains": 8,
+                                    "rank": 78.9,
+                                    "main_domain_rank": 632.2,
+                                    "last_updated_time": "2026-04-17 23:35:24 +00:00"
+                                },
+                                "search_intent_info": {
+                                    "se_type": "google",
+                                    "main_intent": "informational",
+                                    "foreign_intent": null,
+                                    "last_updated_time": "2026-04-26 23:42:48 +00:00"
+                                }
+                            },
+                            "depth": 1,
+                            "related_keywords": [
+                                "deterrent meaning in farsi",
+                                "deterrent meaning synonyms",
+                                "act as a deterrent meaning",
+                                "deterrent meaning in medical",
+                                "deterrent meaning in law",
+                                "deterrent meaning in somali",
+                                "deterrent meaning in audit",
+                                "nuclear deterrent meaning"
+                            ]
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword_data": {
+                                "se_type": "google",
+                                "keyword": "deterrent synonyms",
+                                "location_code": 2124,
+                                "language_code": "en",
+                                "keyword_info": {
+                                    "se_type": "google",
+                                    "last_updated_time": "2026-04-10 08:30:09 +00:00",
+                                    "competition": 0,
+                                    "competition_level": "LOW",
+                                    "cpc": null,
+                                    "search_volume": 1000,
+                                    "low_top_of_page_bid": null,
+                                    "high_top_of_page_bid": null,
+                                    "categories": [
+                                        10108,
+                                        10756,
+                                        13429
+                                    ],
+                                    "monthly_searches": [
+                                        {
+                                            "year": 2026,
+                                            "month": 3,
+                                            "search_volume": 1000
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 2,
+                                            "search_volume": 880
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 1,
+                                            "search_volume": 1000
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 12,
+                                            "search_volume": 880
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 11,
+                                            "search_volume": 1300
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 10,
+                                            "search_volume": 1000
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 9,
+                                            "search_volume": 1000
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 8,
+                                            "search_volume": 480
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 7,
+                                            "search_volume": 720
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 6,
+                                            "search_volume": 880
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 5,
+                                            "search_volume": 1000
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 4,
+                                            "search_volume": 1300
+                                        }
+                                    ],
+                                    "search_volume_trend": {
+                                        "monthly": 14,
+                                        "quarterly": 0,
+                                        "yearly": -38
+                                    }
+                                },
+                                "keyword_info_normalized_with_bing": null,
+                                "keyword_info_normalized_with_clickstream": null,
+                                "clickstream_keyword_info": null,
+                                "keyword_properties": {
+                                    "se_type": "google",
+                                    "core_keyword": "deterrence synonym",
+                                    "synonym_clustering_algorithm": "text_processing",
+                                    "keyword_difficulty": 0,
+                                    "detected_language": "en",
+                                    "is_another_language": false
+                                },
+                                "serp_info": {
+                                    "se_type": "google",
+                                    "check_url": "https:\/\/www.google.com\/search?q=deterrent%20synonyms&hl=en&gl=CA&ie=UTF-8&uule=w+CAIQIFISCdlqzDfTAw1LEaWPQ6Iqt2iZ",
+                                    "serp_item_types": [
+                                        "knowledge_graph",
+                                        "people_also_ask",
+                                        "organic",
+                                        "related_searches"
+                                    ],
+                                    "se_results_count": 411000,
+                                    "last_updated_time": "2026-04-19 01:17:34 +00:00",
+                                    "previous_updated_time": "2026-03-06 11:17:05 +00:00"
+                                },
+                                "avg_backlinks_info": {
+                                    "se_type": "google",
+                                    "backlinks": 4.1,
+                                    "dofollow": 3,
+                                    "referring_pages": 3.8,
+                                    "referring_domains": 1.8,
+                                    "referring_main_domains": 1.6,
+                                    "rank": 26.4,
+                                    "main_domain_rank": 544,
+                                    "last_updated_time": "2026-04-18 22:17:35 +00:00"
+                                },
+                                "search_intent_info": {
+                                    "se_type": "google",
+                                    "main_intent": "informational",
+                                    "foreign_intent": null,
+                                    "last_updated_time": "2026-04-27 00:09:49 +00:00"
+                                }
+                            },
+                            "depth": 1,
+                            "related_keywords": [
+                                "deterrent synonyms and antonyms",
+                                "deterrent antonyms",
+                                "deterrent in a sentence",
+                                "act as a deterrent meaning",
+                                "deterrent in urdu",
+                                "deterrent effect synonym",
+                                "deterrent effect meaning",
+                                "deterrent pronunciation"
+                            ]
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword_data": {
+                                "se_type": "google",
+                                "keyword": "deterrent synonym",
+                                "location_code": 2124,
+                                "language_code": "en",
+                                "keyword_info": {
+                                    "se_type": "google",
+                                    "last_updated_time": "2026-04-14 15:25:22 +00:00",
+                                    "competition": 0,
+                                    "competition_level": "LOW",
+                                    "cpc": null,
+                                    "search_volume": 1000,
+                                    "low_top_of_page_bid": null,
+                                    "high_top_of_page_bid": null,
+                                    "categories": [
+                                        10108,
+                                        10756
+                                    ],
+                                    "monthly_searches": [
+                                        {
+                                            "year": 2026,
+                                            "month": 3,
+                                            "search_volume": 1000
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 2,
+                                            "search_volume": 880
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 1,
+                                            "search_volume": 1000
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 12,
+                                            "search_volume": 880
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 11,
+                                            "search_volume": 1300
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 10,
+                                            "search_volume": 1000
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 9,
+                                            "search_volume": 1000
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 8,
+                                            "search_volume": 480
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 7,
+                                            "search_volume": 720
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 6,
+                                            "search_volume": 880
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 5,
+                                            "search_volume": 1000
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 4,
+                                            "search_volume": 1300
+                                        }
+                                    ],
+                                    "search_volume_trend": {
+                                        "monthly": 14,
+                                        "quarterly": 0,
+                                        "yearly": -38
+                                    }
+                                },
+                                "keyword_info_normalized_with_bing": null,
+                                "keyword_info_normalized_with_clickstream": null,
+                                "clickstream_keyword_info": null,
+                                "keyword_properties": {
+                                    "se_type": "google",
+                                    "core_keyword": "deterrence synonym",
+                                    "synonym_clustering_algorithm": "text_processing",
+                                    "keyword_difficulty": 0,
+                                    "detected_language": "en",
+                                    "is_another_language": false
+                                },
+                                "serp_info": {
+                                    "se_type": "google",
+                                    "check_url": "https:\/\/www.google.com\/search?q=deterrent%20synonym&hl=en&gl=CA&ie=UTF-8&uule=w+CAIQIFISCdlqzDfTAw1LEaWPQ6Iqt2iZ",
+                                    "serp_item_types": [
+                                        "ai_overview",
+                                        "people_also_ask",
+                                        "organic",
+                                        "related_searches"
+                                    ],
+                                    "se_results_count": 352000,
+                                    "last_updated_time": "2026-04-19 01:17:50 +00:00",
+                                    "previous_updated_time": "2026-03-05 05:50:05 +00:00"
+                                },
+                                "avg_backlinks_info": {
+                                    "se_type": "google",
+                                    "backlinks": 4.1,
+                                    "dofollow": 3,
+                                    "referring_pages": 3.8,
+                                    "referring_domains": 1.8,
+                                    "referring_main_domains": 1.6,
+                                    "rank": 26.4,
+                                    "main_domain_rank": 483.2,
+                                    "last_updated_time": "2026-04-18 22:17:50 +00:00"
+                                },
+                                "search_intent_info": {
+                                    "se_type": "google",
+                                    "main_intent": "informational",
+                                    "foreign_intent": null,
+                                    "last_updated_time": "2026-04-27 03:16:58 +00:00"
+                                }
+                            },
+                            "depth": 2,
+                            "related_keywords": [
+                                "deterrent synonyms and antonyms",
+                                "deterrent antonyms",
+                                "deterrent synonym crossword",
+                                "deterrent in a sentence",
+                                "deterrent pronunciation",
+                                "deterrent example",
+                                "deterrent effect meaning",
+                                "act as a deterrent meaning"
+                            ]
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword_data": {
+                                "se_type": "google",
+                                "keyword": "diagnosis pronunciation",
+                                "location_code": 2124,
+                                "language_code": "en",
+                                "keyword_info": {
+                                    "se_type": "google",
+                                    "last_updated_time": "2026-04-16 14:06:10 +00:00",
+                                    "competition": 0,
+                                    "competition_level": "LOW",
+                                    "cpc": null,
+                                    "search_volume": 260,
+                                    "low_top_of_page_bid": null,
+                                    "high_top_of_page_bid": null,
+                                    "categories": [
+                                        10016,
+                                        10141,
+                                        10757
+                                    ],
+                                    "monthly_searches": [
+                                        {
+                                            "year": 2026,
+                                            "month": 3,
+                                            "search_volume": 320
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 2,
+                                            "search_volume": 320
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 1,
+                                            "search_volume": 320
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 12,
+                                            "search_volume": 260
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 11,
+                                            "search_volume": 260
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 10,
+                                            "search_volume": 260
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 9,
+                                            "search_volume": 260
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 8,
+                                            "search_volume": 210
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 7,
+                                            "search_volume": 260
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 6,
+                                            "search_volume": 260
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 5,
+                                            "search_volume": 260
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 4,
+                                            "search_volume": 320
+                                        }
+                                    ],
+                                    "search_volume_trend": {
+                                        "monthly": 0,
+                                        "quarterly": 0,
+                                        "yearly": 52
+                                    }
+                                },
+                                "keyword_info_normalized_with_bing": null,
+                                "keyword_info_normalized_with_clickstream": null,
+                                "clickstream_keyword_info": null,
+                                "keyword_properties": {
+                                    "se_type": "google",
+                                    "core_keyword": null,
+                                    "synonym_clustering_algorithm": "text_processing",
+                                    "keyword_difficulty": 4,
+                                    "detected_language": "en",
+                                    "is_another_language": false
+                                },
+                                "serp_info": {
+                                    "se_type": "google",
+                                    "check_url": "https:\/\/www.google.com\/search?q=diagnosis%20pronunciation&hl=en&gl=CA&ie=UTF-8&uule=w+CAIQIFISCdlqzDfTAw1LEaWPQ6Iqt2iZ",
+                                    "serp_item_types": [
+                                        "knowledge_graph",
+                                        "video",
+                                        "people_also_ask",
+                                        "organic",
+                                        "related_searches"
+                                    ],
+                                    "se_results_count": 15800000,
+                                    "last_updated_time": "2026-03-09 00:48:07 +00:00",
+                                    "previous_updated_time": "2026-01-26 11:17:07 +00:00"
+                                },
+                                "avg_backlinks_info": {
+                                    "se_type": "google",
+                                    "backlinks": 202.2,
+                                    "dofollow": 166.2,
+                                    "referring_pages": 201.1,
+                                    "referring_domains": 42.2,
+                                    "referring_main_domains": 40.2,
+                                    "rank": 66.1,
+                                    "main_domain_rank": 584.6,
+                                    "last_updated_time": "2026-03-08 22:48:07 +00:00"
+                                },
+                                "search_intent_info": {
+                                    "se_type": "google",
+                                    "main_intent": "informational",
+                                    "foreign_intent": null,
+                                    "last_updated_time": "2026-04-27 04:29:35 +00:00"
+                                }
+                            },
+                            "depth": 2,
+                            "related_keywords": [
+                                "medical diagnosis pronunciation",
+                                "diagnosis pronunciation in english",
+                                "diagnosis pronunciation british",
+                                "diagnosis pronunciation american",
+                                "diagnosis plural",
+                                "diagnosis example",
+                                "diagnosis doctor meaning",
+                                "mental diagnosis pronunciation"
+                            ]
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword_data": {
+                                "se_type": "google",
+                                "keyword": "deterrent in french",
+                                "location_code": 2124,
+                                "language_code": "en",
+                                "keyword_info": {
+                                    "se_type": "google",
+                                    "last_updated_time": "2026-04-13 13:55:24 +00:00",
+                                    "competition": 0,
+                                    "competition_level": "LOW",
+                                    "cpc": null,
+                                    "search_volume": 110,
+                                    "low_top_of_page_bid": null,
+                                    "high_top_of_page_bid": null,
+                                    "categories": [
+                                        10108,
+                                        10756,
+                                        13432
+                                    ],
+                                    "monthly_searches": [
+                                        {
+                                            "year": 2026,
+                                            "month": 3,
+                                            "search_volume": 140
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 2,
+                                            "search_volume": 90
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 1,
+                                            "search_volume": 110
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 12,
+                                            "search_volume": 90
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 11,
+                                            "search_volume": 90
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 10,
+                                            "search_volume": 90
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 9,
+                                            "search_volume": 140
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 8,
+                                            "search_volume": 110
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 7,
+                                            "search_volume": 90
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 6,
+                                            "search_volume": 110
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 5,
+                                            "search_volume": 110
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 4,
+                                            "search_volume": 140
+                                        }
+                                    ],
+                                    "search_volume_trend": {
+                                        "monthly": 56,
+                                        "quarterly": 27,
+                                        "yearly": -18
+                                    }
+                                },
+                                "keyword_info_normalized_with_bing": null,
+                                "keyword_info_normalized_with_clickstream": null,
+                                "clickstream_keyword_info": null,
+                                "keyword_properties": {
+                                    "se_type": "google",
+                                    "core_keyword": null,
+                                    "synonym_clustering_algorithm": "text_processing",
+                                    "keyword_difficulty": 0,
+                                    "detected_language": "en",
+                                    "is_another_language": false
+                                },
+                                "serp_info": {
+                                    "se_type": "google",
+                                    "check_url": "https:\/\/www.google.com\/search?q=deterrent%20in%20french&hl=en&gl=CA&ie=UTF-8&uule=w+CAIQIFISCdlqzDfTAw1LEaWPQ6Iqt2iZ",
+                                    "serp_item_types": [
+                                        "ai_overview",
+                                        "organic",
+                                        "people_also_ask",
+                                        "related_searches"
+                                    ],
+                                    "se_results_count": 12700000,
+                                    "last_updated_time": "2026-04-27 11:41:54 +00:00",
+                                    "previous_updated_time": "2026-03-12 17:33:08 +00:00"
+                                },
+                                "avg_backlinks_info": null,
+                                "search_intent_info": {
+                                    "se_type": "google",
+                                    "main_intent": "informational",
+                                    "foreign_intent": null,
+                                    "last_updated_time": "2026-04-29 08:34:43 +00:00"
+                                }
+                            },
+                            "depth": 2,
+                            "related_keywords": [
+                                "deterrent in french examples",
+                                "deterrent in french pronunciation",
+                                "deterrent meaning",
+                                "deterrent in french dictionary",
+                                "hinder in french",
+                                "incentive in french",
+                                "host in french",
+                                "status quo in french"
+                            ]
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword_data": {
+                                "se_type": "google",
+                                "keyword": "deterrence pronunciation",
+                                "location_code": 2124,
+                                "language_code": "en",
+                                "keyword_info": {
+                                    "se_type": "google",
+                                    "last_updated_time": "2026-04-10 02:36:51 +00:00",
+                                    "competition": 0,
+                                    "competition_level": "LOW",
+                                    "cpc": null,
+                                    "search_volume": 70,
+                                    "low_top_of_page_bid": null,
+                                    "high_top_of_page_bid": null,
+                                    "categories": [
+                                        10016,
+                                        10141,
+                                        10757
+                                    ],
+                                    "monthly_searches": [
+                                        {
+                                            "year": 2026,
+                                            "month": 3,
+                                            "search_volume": 90
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 2,
+                                            "search_volume": 70
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 1,
+                                            "search_volume": 90
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 12,
+                                            "search_volume": 50
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 11,
+                                            "search_volume": 70
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 10,
+                                            "search_volume": 50
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 9,
+                                            "search_volume": 70
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 8,
+                                            "search_volume": 30
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 7,
+                                            "search_volume": 50
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 6,
+                                            "search_volume": 70
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 5,
+                                            "search_volume": 70
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 4,
+                                            "search_volume": 70
+                                        }
+                                    ],
+                                    "search_volume_trend": {
+                                        "monthly": 29,
+                                        "quarterly": 0,
+                                        "yearly": 29
+                                    }
+                                },
+                                "keyword_info_normalized_with_bing": null,
+                                "keyword_info_normalized_with_clickstream": null,
+                                "clickstream_keyword_info": null,
+                                "keyword_properties": {
+                                    "se_type": "google",
+                                    "core_keyword": null,
+                                    "synonym_clustering_algorithm": "text_processing",
+                                    "keyword_difficulty": 1,
+                                    "detected_language": "en",
+                                    "is_another_language": false
+                                },
+                                "serp_info": {
+                                    "se_type": "google",
+                                    "check_url": "https:\/\/www.google.com\/search?q=deterrence%20pronunciation&hl=en&gl=CA&ie=UTF-8&uule=w+CAIQIFISCdlqzDfTAw1LEaWPQ6Iqt2iZ",
+                                    "serp_item_types": [
+                                        "knowledge_graph",
+                                        "people_also_ask",
+                                        "organic",
+                                        "video",
+                                        "related_searches"
+                                    ],
+                                    "se_results_count": 130000,
+                                    "last_updated_time": "2026-04-05 01:19:08 +00:00",
+                                    "previous_updated_time": "2026-02-06 19:23:11 +00:00"
+                                },
+                                "avg_backlinks_info": {
+                                    "se_type": "google",
+                                    "backlinks": 35.5,
+                                    "dofollow": 22.8,
+                                    "referring_pages": 29.6,
+                                    "referring_domains": 15.5,
+                                    "referring_main_domains": 9.4,
+                                    "rank": 65,
+                                    "main_domain_rank": 486.6,
+                                    "last_updated_time": "2026-04-04 22:19:58 +00:00"
+                                },
+                                "search_intent_info": {
+                                    "se_type": "google",
+                                    "main_intent": "informational",
+                                    "foreign_intent": null,
+                                    "last_updated_time": "2026-04-27 04:05:48 +00:00"
+                                }
+                            },
+                            "depth": 2,
+                            "related_keywords": [
+                                "deterrence meaning",
+                                "deterrence pronunciation in english",
+                                "deterrence pronunciation british",
+                                "deterrence pronunciation american",
+                                "deter pronunciation",
+                                "deterrence synonym",
+                                "deterrence in a sentence",
+                                "deterrence meaning in law"
+                            ]
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword_data": {
+                                "se_type": "google",
+                                "keyword": "deterrent in a sentence",
+                                "location_code": 2124,
+                                "language_code": "en",
+                                "keyword_info": {
+                                    "se_type": "google",
+                                    "last_updated_time": "2026-04-18 22:49:12 +00:00",
+                                    "competition": 0,
+                                    "competition_level": "LOW",
+                                    "cpc": null,
+                                    "search_volume": 40,
+                                    "low_top_of_page_bid": null,
+                                    "high_top_of_page_bid": null,
+                                    "categories": [
+                                        10018,
+                                        10163,
+                                        10861,
+                                        13736
+                                    ],
+                                    "monthly_searches": [
+                                        {
+                                            "year": 2026,
+                                            "month": 3,
+                                            "search_volume": 30
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 2,
+                                            "search_volume": 40
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 1,
+                                            "search_volume": 50
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 12,
+                                            "search_volume": 40
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 11,
+                                            "search_volume": 70
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 10,
+                                            "search_volume": 40
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 9,
+                                            "search_volume": 40
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 8,
+                                            "search_volume": 20
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 7,
+                                            "search_volume": 30
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 6,
+                                            "search_volume": 30
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 5,
+                                            "search_volume": 50
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 4,
+                                            "search_volume": 50
+                                        }
+                                    ],
+                                    "search_volume_trend": {
+                                        "monthly": -25,
+                                        "quarterly": -40,
+                                        "yearly": 0
+                                    }
+                                },
+                                "keyword_info_normalized_with_bing": null,
+                                "keyword_info_normalized_with_clickstream": null,
+                                "clickstream_keyword_info": null,
+                                "keyword_properties": {
+                                    "se_type": "google",
+                                    "core_keyword": "deterrence in a sentence",
+                                    "synonym_clustering_algorithm": "text_processing",
+                                    "keyword_difficulty": 0,
+                                    "detected_language": "en",
+                                    "is_another_language": false
+                                },
+                                "serp_info": {
+                                    "se_type": "google",
+                                    "check_url": "https:\/\/www.google.com\/search?q=deterrent%20in%20a%20sentence&hl=en&gl=CA&ie=UTF-8&uule=w+CAIQIFISCdlqzDfTAw1LEaWPQ6Iqt2iZ",
+                                    "serp_item_types": [
+                                        "knowledge_graph",
+                                        "organic",
+                                        "people_also_ask",
+                                        "related_searches",
+                                        "images"
+                                    ],
+                                    "se_results_count": 6500000,
+                                    "last_updated_time": "2025-12-03 02:18:47 +00:00",
+                                    "previous_updated_time": "2025-10-23 05:29:43 +00:00"
+                                },
+                                "avg_backlinks_info": {
+                                    "se_type": "google",
+                                    "backlinks": 3.3,
+                                    "dofollow": 2.4,
+                                    "referring_pages": 2.9,
+                                    "referring_domains": 2.1,
+                                    "referring_main_domains": 2,
+                                    "rank": 21.5,
+                                    "main_domain_rank": 521,
+                                    "last_updated_time": "2025-12-03 00:18:47 +00:00"
+                                },
+                                "search_intent_info": {
+                                    "se_type": "google",
+                                    "main_intent": "informational",
+                                    "foreign_intent": null,
+                                    "last_updated_time": "2026-04-27 02:09:20 +00:00"
+                                }
+                            },
+                            "depth": 1,
+                            "related_keywords": [
+                                "deterrent in a sentence examples",
+                                "deterrent in a sentence synonym",
+                                "deterrent meaning",
+                                "act as a deterrent meaning",
+                                "deterrent examples",
+                                "deterrent synonym",
+                                "deterrent verb",
+                                "deterrent in french"
+                            ]
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword_data": {
+                                "se_type": "google",
+                                "keyword": "nuclear deterrent meaning",
+                                "location_code": 2124,
+                                "language_code": "en",
+                                "keyword_info": {
+                                    "se_type": "google",
+                                    "last_updated_time": "2026-04-10 23:50:40 +00:00",
+                                    "competition": 0,
+                                    "competition_level": "LOW",
+                                    "cpc": null,
+                                    "search_volume": 40,
+                                    "low_top_of_page_bid": null,
+                                    "high_top_of_page_bid": null,
+                                    "categories": [
+                                        10004,
+                                        10281,
+                                        11117,
+                                        11238,
+                                        12519,
+                                        13464
+                                    ],
+                                    "monthly_searches": [
+                                        {
+                                            "year": 2026,
+                                            "month": 3,
+                                            "search_volume": 70
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 2,
+                                            "search_volume": 70
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 1,
+                                            "search_volume": 70
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 12,
+                                            "search_volume": 30
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 11,
+                                            "search_volume": 30
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 10,
+                                            "search_volume": 40
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 9,
+                                            "search_volume": 30
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 8,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 7,
+                                            "search_volume": 20
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 6,
+                                            "search_volume": 50
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 5,
+                                            "search_volume": 50
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 4,
+                                            "search_volume": 50
+                                        }
+                                    ],
+                                    "search_volume_trend": {
+                                        "monthly": 0,
+                                        "quarterly": 0,
+                                        "yearly": -50
+                                    }
+                                },
+                                "keyword_info_normalized_with_bing": null,
+                                "keyword_info_normalized_with_clickstream": null,
+                                "clickstream_keyword_info": null,
+                                "keyword_properties": {
+                                    "se_type": "google",
+                                    "core_keyword": "nuclear deterrence meaning",
+                                    "synonym_clustering_algorithm": "text_processing",
+                                    "keyword_difficulty": 40,
+                                    "detected_language": "en",
+                                    "is_another_language": false
+                                },
+                                "serp_info": {
+                                    "se_type": "google",
+                                    "check_url": "https:\/\/www.google.ca\/search?q=nuclear%20deterrent%20meaning&num=100&hl=en&gl=CA&gws_rd=cr&ie=UTF-8&oe=UTF-8&uule=w+CAIQIFISCdlqzDfTAw1LEaWPQ6Iqt2iZ",
+                                    "serp_item_types": [
+                                        "featured_snippet",
+                                        "people_also_ask",
+                                        "organic",
+                                        "related_searches"
+                                    ],
+                                    "se_results_count": 1800000,
+                                    "last_updated_time": "2023-03-20 14:10:56 +00:00",
+                                    "previous_updated_time": "2023-02-14 22:30:39 +00:00"
+                                },
+                                "avg_backlinks_info": {
+                                    "se_type": "google",
+                                    "backlinks": 532.5,
+                                    "dofollow": 355.8,
+                                    "referring_pages": 477.9,
+                                    "referring_domains": 187.4,
+                                    "referring_main_domains": 188,
+                                    "rank": 178.2,
+                                    "main_domain_rank": 626.6,
+                                    "last_updated_time": "2023-03-20 12:11:25 +00:00"
+                                },
+                                "search_intent_info": {
+                                    "se_type": "google",
+                                    "main_intent": "informational",
+                                    "foreign_intent": null,
+                                    "last_updated_time": "2026-04-29 16:42:25 +00:00"
+                                }
+                            },
+                            "depth": 2,
+                            "related_keywords": [
+                                "nuclear deterrence examples",
+                                "what is nuclear deterrence theory",
+                                "types of deterrence in international relations",
+                                "what is deterrence in international relations",
+                                "nuclear deterrence in international relations",
+                                "deterrence in international relations pdf",
+                                "deterrence meaning in hindi",
+                                "deterrence theory example"
+                            ]
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword_data": {
+                                "se_type": "google",
+                                "keyword": "deterrent pronunciation",
+                                "location_code": 2124,
+                                "language_code": "en",
+                                "keyword_info": {
+                                    "se_type": "google",
+                                    "last_updated_time": "2026-04-19 01:11:39 +00:00",
+                                    "competition": 0,
+                                    "competition_level": "LOW",
+                                    "cpc": null,
+                                    "search_volume": 20,
+                                    "low_top_of_page_bid": null,
+                                    "high_top_of_page_bid": null,
+                                    "categories": [
+                                        10016,
+                                        10141,
+                                        10757
+                                    ],
+                                    "monthly_searches": [
+                                        {
+                                            "year": 2026,
+                                            "month": 3,
+                                            "search_volume": 30
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 2,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 1,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 12,
+                                            "search_volume": 20
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 11,
+                                            "search_volume": 20
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 10,
+                                            "search_volume": 20
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 9,
+                                            "search_volume": 20
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 8,
+                                            "search_volume": 20
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 7,
+                                            "search_volume": 20
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 6,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 5,
+                                            "search_volume": 20
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 4,
+                                            "search_volume": 20
+                                        }
+                                    ],
+                                    "search_volume_trend": {
+                                        "monthly": 200,
+                                        "quarterly": 200,
+                                        "yearly": 200
+                                    }
+                                },
+                                "keyword_info_normalized_with_bing": null,
+                                "keyword_info_normalized_with_clickstream": null,
+                                "clickstream_keyword_info": null,
+                                "keyword_properties": {
+                                    "se_type": "google",
+                                    "core_keyword": "deterrence pronunciation",
+                                    "synonym_clustering_algorithm": "text_processing",
+                                    "keyword_difficulty": 0,
+                                    "detected_language": "en",
+                                    "is_another_language": false
+                                },
+                                "serp_info": {
+                                    "se_type": "google",
+                                    "check_url": "https:\/\/www.google.com\/search?q=deterrent%20pronunciation&hl=en&gl=CA&ie=UTF-8&uule=w+CAIQIFISCdlqzDfTAw1LEaWPQ6Iqt2iZ",
+                                    "serp_item_types": [
+                                        "organic",
+                                        "people_also_ask",
+                                        "related_searches",
+                                        "knowledge_graph"
+                                    ],
+                                    "se_results_count": 348000,
+                                    "last_updated_time": "2026-02-06 19:24:09 +00:00",
+                                    "previous_updated_time": "2025-12-25 02:44:29 +00:00"
+                                },
+                                "avg_backlinks_info": {
+                                    "se_type": "google",
+                                    "backlinks": 31,
+                                    "dofollow": 7.3,
+                                    "referring_pages": 21.4,
+                                    "referring_domains": 4.5,
+                                    "referring_main_domains": 4.2,
+                                    "rank": 33.3,
+                                    "main_domain_rank": 688.8,
+                                    "last_updated_time": "2026-02-06 17:24:32 +00:00"
+                                },
+                                "search_intent_info": {
+                                    "se_type": "google",
+                                    "main_intent": "informational",
+                                    "foreign_intent": null,
+                                    "last_updated_time": "2026-04-26 22:41:09 +00:00"
+                                }
+                            },
+                            "depth": 1,
+                            "related_keywords": [
+                                "deterrent meaning",
+                                "deterrent pronunciation in english",
+                                "deterrent pronunciation british",
+                                "deterrent pronunciation american",
+                                "deterrence pronunciation",
+                                "deterrent or deterrence",
+                                "diagnosis pronunciation",
+                                "deterrent in a sentence"
+                            ]
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword_data": {
+                                "se_type": "google",
+                                "keyword": "deterrent antonyms",
+                                "location_code": 2124,
+                                "language_code": "en",
+                                "keyword_info": {
+                                    "se_type": "google",
+                                    "last_updated_time": "2026-04-19 21:19:49 +00:00",
+                                    "competition": 0,
+                                    "competition_level": "LOW",
+                                    "cpc": null,
+                                    "search_volume": 20,
+                                    "low_top_of_page_bid": null,
+                                    "high_top_of_page_bid": null,
+                                    "categories": [
+                                        10108,
+                                        10756,
+                                        13429
+                                    ],
+                                    "monthly_searches": [
+                                        {
+                                            "year": 2026,
+                                            "month": 3,
+                                            "search_volume": 40
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 2,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 1,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 12,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 11,
+                                            "search_volume": 40
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 10,
+                                            "search_volume": 20
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 9,
+                                            "search_volume": 20
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 8,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 7,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 6,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 5,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 4,
+                                            "search_volume": 10
+                                        }
+                                    ],
+                                    "search_volume_trend": {
+                                        "monthly": 300,
+                                        "quarterly": 300,
+                                        "yearly": 100
+                                    }
+                                },
+                                "keyword_info_normalized_with_bing": null,
+                                "keyword_info_normalized_with_clickstream": null,
+                                "clickstream_keyword_info": null,
+                                "keyword_properties": {
+                                    "se_type": "google",
+                                    "core_keyword": "deterrence antonym",
+                                    "synonym_clustering_algorithm": "text_processing",
+                                    "keyword_difficulty": 0,
+                                    "detected_language": "en",
+                                    "is_another_language": false
+                                },
+                                "serp_info": {
+                                    "se_type": "google",
+                                    "check_url": "https:\/\/www.google.ca\/search?q=deterrent%20antonyms&num=100&hl=en&gl=CA&gws_rd=cr&ie=UTF-8&oe=UTF-8&glp=1&uule=w+CAIQIFISCdlqzDfTAw1LEaWPQ6Iqt2iZ",
+                                    "serp_item_types": [
+                                        "organic",
+                                        "people_also_ask",
+                                        "related_searches",
+                                        "knowledge_graph"
+                                    ],
+                                    "se_results_count": 32,
+                                    "last_updated_time": "2025-02-25 08:25:19 +00:00",
+                                    "previous_updated_time": "2025-01-12 03:43:00 +00:00"
+                                },
+                                "avg_backlinks_info": {
+                                    "se_type": "google",
+                                    "backlinks": 1.3,
+                                    "dofollow": 0.5,
+                                    "referring_pages": 1.2,
+                                    "referring_domains": 1.1,
+                                    "referring_main_domains": 1.1,
+                                    "rank": 21,
+                                    "main_domain_rank": 547.2,
+                                    "last_updated_time": "2025-02-25 06:25:21 +00:00"
+                                },
+                                "search_intent_info": {
+                                    "se_type": "google",
+                                    "main_intent": "informational",
+                                    "foreign_intent": null,
+                                    "last_updated_time": "2026-04-29 15:15:03 +00:00"
+                                }
+                            },
+                            "depth": 2,
+                            "related_keywords": [
+                                "deterrent meaning in hindi",
+                                "deterrence meaning",
+                                "deterrent sentence",
+                                "deterrent effect",
+                                "deterrence synonym and antonym",
+                                "synonyms of deterring",
+                                "adhere synonym and antonym",
+                                "constraint antonyms"
+                            ]
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword_data": {
+                                "se_type": "google",
+                                "keyword": "deterrent meaning in farsi",
+                                "location_code": 2124,
+                                "language_code": "en",
+                                "keyword_info": {
+                                    "se_type": "google",
+                                    "last_updated_time": "2026-04-10 22:30:09 +00:00",
+                                    "competition": 0,
+                                    "competition_level": "LOW",
+                                    "cpc": null,
+                                    "search_volume": 10,
+                                    "low_top_of_page_bid": null,
+                                    "high_top_of_page_bid": null,
+                                    "categories": [
+                                        10002,
+                                        10231,
+                                        13473
+                                    ],
+                                    "monthly_searches": [
+                                        {
+                                            "year": 2026,
+                                            "month": 3,
+                                            "search_volume": 20
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 2,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 1,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 12,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 11,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 10,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 9,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 8,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 7,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 6,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 5,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 4,
+                                            "search_volume": 0
+                                        }
+                                    ],
+                                    "search_volume_trend": {
+                                        "monthly": 100,
+                                        "quarterly": 100,
+                                        "yearly": null
+                                    }
+                                },
+                                "keyword_info_normalized_with_bing": null,
+                                "keyword_info_normalized_with_clickstream": null,
+                                "clickstream_keyword_info": null,
+                                "keyword_properties": {
+                                    "se_type": "google",
+                                    "core_keyword": null,
+                                    "synonym_clustering_algorithm": "text_processing",
+                                    "keyword_difficulty": null,
+                                    "detected_language": "en",
+                                    "is_another_language": false
+                                },
+                                "serp_info": null,
+                                "avg_backlinks_info": null,
+                                "search_intent_info": {
+                                    "se_type": "google",
+                                    "main_intent": "informational",
+                                    "foreign_intent": null,
+                                    "last_updated_time": "2026-04-27 04:55:53 +00:00"
+                                }
+                            },
+                            "depth": 1,
+                            "related_keywords": null
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword_data": {
+                                "se_type": "google",
+                                "keyword": "deterrent in urdu",
+                                "location_code": 2124,
+                                "language_code": "en",
+                                "keyword_info": {
+                                    "se_type": "google",
+                                    "last_updated_time": "2026-04-13 20:56:35 +00:00",
+                                    "competition": 0,
+                                    "competition_level": "LOW",
+                                    "cpc": null,
+                                    "search_volume": 10,
+                                    "low_top_of_page_bid": null,
+                                    "high_top_of_page_bid": null,
+                                    "categories": [
+                                        10004,
+                                        10299,
+                                        11321,
+                                        14306
+                                    ],
+                                    "monthly_searches": [
+                                        {
+                                            "year": 2026,
+                                            "month": 3,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 2,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 1,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 12,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 11,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 10,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 9,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 8,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 7,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 6,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 5,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 4,
+                                            "search_volume": 0
+                                        }
+                                    ],
+                                    "search_volume_trend": {
+                                        "monthly": 0,
+                                        "quarterly": 0,
+                                        "yearly": null
+                                    }
+                                },
+                                "keyword_info_normalized_with_bing": null,
+                                "keyword_info_normalized_with_clickstream": null,
+                                "clickstream_keyword_info": null,
+                                "keyword_properties": {
+                                    "se_type": "google",
+                                    "core_keyword": null,
+                                    "synonym_clustering_algorithm": null,
+                                    "keyword_difficulty": null,
+                                    "detected_language": "en",
+                                    "is_another_language": false
+                                },
+                                "serp_info": null,
+                                "avg_backlinks_info": null,
+                                "search_intent_info": {
+                                    "se_type": "google",
+                                    "main_intent": "commercial",
+                                    "foreign_intent": [
+                                        "transactional"
+                                    ],
+                                    "last_updated_time": "2025-10-29 23:06:00 +00:00"
+                                }
+                            },
+                            "depth": 1,
+                            "related_keywords": null
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword_data": {
+                                "se_type": "google",
+                                "keyword": "deterrent verb",
+                                "location_code": 2124,
+                                "language_code": "en",
+                                "keyword_info": {
+                                    "se_type": "google",
+                                    "last_updated_time": "2026-04-14 14:28:44 +00:00",
+                                    "competition": 0,
+                                    "competition_level": "LOW",
+                                    "cpc": null,
+                                    "search_volume": 10,
+                                    "low_top_of_page_bid": null,
+                                    "high_top_of_page_bid": null,
+                                    "categories": [
+                                        10018,
+                                        10163,
+                                        10861,
+                                        13736
+                                    ],
+                                    "monthly_searches": [
+                                        {
+                                            "year": 2026,
+                                            "month": 3,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 2,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 1,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 12,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 11,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 10,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 9,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 8,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 7,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 6,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 5,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 4,
+                                            "search_volume": 10
+                                        }
+                                    ],
+                                    "search_volume_trend": {
+                                        "monthly": 0,
+                                        "quarterly": 0,
+                                        "yearly": 0
+                                    }
+                                },
+                                "keyword_info_normalized_with_bing": null,
+                                "keyword_info_normalized_with_clickstream": null,
+                                "clickstream_keyword_info": null,
+                                "keyword_properties": {
+                                    "se_type": "google",
+                                    "core_keyword": null,
+                                    "synonym_clustering_algorithm": "text_processing",
+                                    "keyword_difficulty": null,
+                                    "detected_language": "en",
+                                    "is_another_language": false
+                                },
+                                "serp_info": null,
+                                "avg_backlinks_info": null,
+                                "search_intent_info": {
+                                    "se_type": "google",
+                                    "main_intent": "informational",
+                                    "foreign_intent": null,
+                                    "last_updated_time": "2026-04-26 23:51:38 +00:00"
+                                }
+                            },
+                            "depth": 1,
+                            "related_keywords": null
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword_data": {
+                                "se_type": "google",
+                                "keyword": "deterrent meaning in law",
+                                "location_code": 2124,
+                                "language_code": "en",
+                                "keyword_info": {
+                                    "se_type": "google",
+                                    "last_updated_time": "2026-04-17 23:41:06 +00:00",
+                                    "competition": 0,
+                                    "competition_level": "LOW",
+                                    "cpc": null,
+                                    "search_volume": 10,
+                                    "low_top_of_page_bid": null,
+                                    "high_top_of_page_bid": null,
+                                    "categories": [
+                                        10018,
+                                        10163,
+                                        10861,
+                                        13736
+                                    ],
+                                    "monthly_searches": [
+                                        {
+                                            "year": 2026,
+                                            "month": 3,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 2,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 1,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 12,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 11,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 10,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 9,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 8,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 7,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 6,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 5,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 4,
+                                            "search_volume": 10
+                                        }
+                                    ],
+                                    "search_volume_trend": {
+                                        "monthly": 0,
+                                        "quarterly": 0,
+                                        "yearly": 0
+                                    }
+                                },
+                                "keyword_info_normalized_with_bing": null,
+                                "keyword_info_normalized_with_clickstream": null,
+                                "clickstream_keyword_info": null,
+                                "keyword_properties": {
+                                    "se_type": "google",
+                                    "core_keyword": "deterrence meaning in law",
+                                    "synonym_clustering_algorithm": "text_processing",
+                                    "keyword_difficulty": null,
+                                    "detected_language": "en",
+                                    "is_another_language": false
+                                },
+                                "serp_info": null,
+                                "avg_backlinks_info": null,
+                                "search_intent_info": {
+                                    "se_type": "google",
+                                    "main_intent": "informational",
+                                    "foreign_intent": null,
+                                    "last_updated_time": "2026-04-27 04:05:48 +00:00"
+                                }
+                            },
+                            "depth": 1,
+                            "related_keywords": null
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword_data": {
+                                "se_type": "google",
+                                "keyword": "deterrent synonyms and antonyms",
+                                "location_code": 2124,
+                                "language_code": "en",
+                                "keyword_info": {
+                                    "se_type": "google",
+                                    "last_updated_time": "2026-04-14 21:40:45 +00:00",
+                                    "competition": null,
+                                    "competition_level": null,
+                                    "cpc": null,
+                                    "search_volume": 10,
+                                    "low_top_of_page_bid": null,
+                                    "high_top_of_page_bid": null,
+                                    "categories": [
+                                        10108,
+                                        10756
+                                    ],
+                                    "monthly_searches": [
+                                        {
+                                            "year": 2026,
+                                            "month": 3,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 2,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 1,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 12,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 11,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 10,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 9,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 8,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 7,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 6,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 5,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 4,
+                                            "search_volume": 10
+                                        }
+                                    ],
+                                    "search_volume_trend": {
+                                        "monthly": 0,
+                                        "quarterly": -100,
+                                        "yearly": -100
+                                    }
+                                },
+                                "keyword_info_normalized_with_bing": null,
+                                "keyword_info_normalized_with_clickstream": null,
+                                "clickstream_keyword_info": null,
+                                "keyword_properties": {
+                                    "se_type": "google",
+                                    "core_keyword": "deterrence synonym and antonym",
+                                    "synonym_clustering_algorithm": "text_processing",
+                                    "keyword_difficulty": null,
+                                    "detected_language": "en",
+                                    "is_another_language": false
+                                },
+                                "serp_info": null,
+                                "avg_backlinks_info": null,
+                                "search_intent_info": {
+                                    "se_type": "google",
+                                    "main_intent": "informational",
+                                    "foreign_intent": null,
+                                    "last_updated_time": "2026-04-27 13:43:43 +00:00"
+                                }
+                            },
+                            "depth": 2,
+                            "related_keywords": null
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword_data": {
+                                "se_type": "google",
+                                "keyword": "act as a deterrent meaning",
+                                "location_code": 2124,
+                                "language_code": "en",
+                                "keyword_info": {
+                                    "se_type": "google",
+                                    "last_updated_time": "2026-04-13 05:39:48 +00:00",
+                                    "competition": 0,
+                                    "competition_level": "LOW",
+                                    "cpc": null,
+                                    "search_volume": 10,
+                                    "low_top_of_page_bid": null,
+                                    "high_top_of_page_bid": null,
+                                    "categories": [
+                                        10108,
+                                        10756
+                                    ],
+                                    "monthly_searches": [
+                                        {
+                                            "year": 2026,
+                                            "month": 3,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 2,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 1,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 12,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 11,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 10,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 9,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 8,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 7,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 6,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 5,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 4,
+                                            "search_volume": 10
+                                        }
+                                    ],
+                                    "search_volume_trend": {
+                                        "monthly": null,
+                                        "quarterly": 0,
+                                        "yearly": 0
+                                    }
+                                },
+                                "keyword_info_normalized_with_bing": null,
+                                "keyword_info_normalized_with_clickstream": null,
+                                "clickstream_keyword_info": null,
+                                "keyword_properties": {
+                                    "se_type": "google",
+                                    "core_keyword": null,
+                                    "synonym_clustering_algorithm": null,
+                                    "keyword_difficulty": null,
+                                    "detected_language": "en",
+                                    "is_another_language": false
+                                },
+                                "serp_info": null,
+                                "avg_backlinks_info": null,
+                                "search_intent_info": {
+                                    "se_type": "google",
+                                    "main_intent": "informational",
+                                    "foreign_intent": null,
+                                    "last_updated_time": "2026-04-29 04:22:39 +00:00"
+                                }
+                            },
+                            "depth": 2,
+                            "related_keywords": null
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword_data": {
+                                "se_type": "google",
+                                "keyword": "deterrent effect synonym",
+                                "location_code": 2124,
+                                "language_code": "en",
+                                "keyword_info": {
+                                    "se_type": "google",
+                                    "last_updated_time": "2026-04-17 16:57:39 +00:00",
+                                    "competition": null,
+                                    "competition_level": null,
+                                    "cpc": null,
+                                    "search_volume": 10,
+                                    "low_top_of_page_bid": null,
+                                    "high_top_of_page_bid": null,
+                                    "categories": [
+                                        10008
+                                    ],
+                                    "monthly_searches": [
+                                        {
+                                            "year": 2026,
+                                            "month": 3,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 2,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 1,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 12,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 11,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 10,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 9,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 8,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 7,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 6,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 5,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 4,
+                                            "search_volume": 10
+                                        }
+                                    ],
+                                    "search_volume_trend": {
+                                        "monthly": -100,
+                                        "quarterly": 0,
+                                        "yearly": -100
+                                    }
+                                },
+                                "keyword_info_normalized_with_bing": null,
+                                "keyword_info_normalized_with_clickstream": null,
+                                "clickstream_keyword_info": null,
+                                "keyword_properties": {
+                                    "se_type": "google",
+                                    "core_keyword": null,
+                                    "synonym_clustering_algorithm": null,
+                                    "keyword_difficulty": null,
+                                    "detected_language": "en",
+                                    "is_another_language": false
+                                },
+                                "serp_info": null,
+                                "avg_backlinks_info": null,
+                                "search_intent_info": {
+                                    "se_type": "google",
+                                    "main_intent": "informational",
+                                    "foreign_intent": null,
+                                    "last_updated_time": "2026-04-27 09:32:32 +00:00"
+                                }
+                            },
+                            "depth": 2,
+                            "related_keywords": null
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword_data": {
+                                "se_type": "google",
+                                "keyword": "deterrent effect meaning",
+                                "location_code": 2124,
+                                "language_code": "en",
+                                "keyword_info": {
+                                    "se_type": "google",
+                                    "last_updated_time": "2026-04-15 18:47:22 +00:00",
+                                    "competition": 0,
+                                    "competition_level": "LOW",
+                                    "cpc": null,
+                                    "search_volume": 10,
+                                    "low_top_of_page_bid": null,
+                                    "high_top_of_page_bid": null,
+                                    "categories": [
+                                        10108,
+                                        10756
+                                    ],
+                                    "monthly_searches": [
+                                        {
+                                            "year": 2026,
+                                            "month": 3,
+                                            "search_volume": 20
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 2,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 1,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 12,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 11,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 10,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 9,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 8,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 7,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 6,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 5,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 4,
+                                            "search_volume": 10
+                                        }
+                                    ],
+                                    "search_volume_trend": {
+                                        "monthly": 100,
+                                        "quarterly": 100,
+                                        "yearly": 100
+                                    }
+                                },
+                                "keyword_info_normalized_with_bing": null,
+                                "keyword_info_normalized_with_clickstream": null,
+                                "clickstream_keyword_info": null,
+                                "keyword_properties": {
+                                    "se_type": "google",
+                                    "core_keyword": "deterrence effect meaning",
+                                    "synonym_clustering_algorithm": "text_processing",
+                                    "keyword_difficulty": null,
+                                    "detected_language": "en",
+                                    "is_another_language": false
+                                },
+                                "serp_info": null,
+                                "avg_backlinks_info": null,
+                                "search_intent_info": {
+                                    "se_type": "google",
+                                    "main_intent": "informational",
+                                    "foreign_intent": null,
+                                    "last_updated_time": "2026-04-29 15:46:02 +00:00"
+                                }
+                            },
+                            "depth": 2,
+                            "related_keywords": null
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword_data": {
+                                "se_type": "google",
+                                "keyword": "deterrent meaning synonyms",
+                                "location_code": 2124,
+                                "language_code": "en",
+                                "keyword_info": {
+                                    "se_type": "google",
+                                    "last_updated_time": "2026-04-09 00:09:01 +00:00",
+                                    "competition": 0,
+                                    "competition_level": "LOW",
+                                    "cpc": null,
+                                    "search_volume": 10,
+                                    "low_top_of_page_bid": null,
+                                    "high_top_of_page_bid": null,
+                                    "categories": [
+                                        10108,
+                                        10756
+                                    ],
+                                    "monthly_searches": [
+                                        {
+                                            "year": 2026,
+                                            "month": 3,
+                                            "search_volume": 20
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 2,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 1,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 12,
+                                            "search_volume": 20
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 11,
+                                            "search_volume": 20
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 10,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 9,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 8,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 7,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 6,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 5,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 4,
+                                            "search_volume": 10
+                                        }
+                                    ],
+                                    "search_volume_trend": {
+                                        "monthly": 100,
+                                        "quarterly": 100,
+                                        "yearly": 100
+                                    }
+                                },
+                                "keyword_info_normalized_with_bing": null,
+                                "keyword_info_normalized_with_clickstream": null,
+                                "clickstream_keyword_info": null,
+                                "keyword_properties": {
+                                    "se_type": "google",
+                                    "core_keyword": "deterrence meaning synonyms",
+                                    "synonym_clustering_algorithm": "text_processing",
+                                    "keyword_difficulty": null,
+                                    "detected_language": "en",
+                                    "is_another_language": false
+                                },
+                                "serp_info": null,
+                                "avg_backlinks_info": null,
+                                "search_intent_info": {
+                                    "se_type": "google",
+                                    "main_intent": "informational",
+                                    "foreign_intent": null,
+                                    "last_updated_time": "2026-04-27 05:42:51 +00:00"
+                                }
+                            },
+                            "depth": 2,
+                            "related_keywords": null
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword_data": {
+                                "se_type": "google",
+                                "keyword": "deterrent examples",
+                                "location_code": 2124,
+                                "language_code": "en",
+                                "keyword_info": {
+                                    "se_type": "google",
+                                    "last_updated_time": "2026-04-13 20:37:48 +00:00",
+                                    "competition": null,
+                                    "competition_level": null,
+                                    "cpc": null,
+                                    "search_volume": 10,
+                                    "low_top_of_page_bid": null,
+                                    "high_top_of_page_bid": null,
+                                    "categories": [
+                                        10018,
+                                        10163,
+                                        13736
+                                    ],
+                                    "monthly_searches": [
+                                        {
+                                            "year": 2026,
+                                            "month": 3,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 2,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 1,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 12,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 11,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 10,
+                                            "search_volume": 20
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 9,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 8,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 7,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 6,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 5,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 4,
+                                            "search_volume": 0
+                                        }
+                                    ],
+                                    "search_volume_trend": {
+                                        "monthly": -100,
+                                        "quarterly": -100,
+                                        "yearly": 0
+                                    }
+                                },
+                                "keyword_info_normalized_with_bing": null,
+                                "keyword_info_normalized_with_clickstream": null,
+                                "clickstream_keyword_info": null,
+                                "keyword_properties": {
+                                    "se_type": "google",
+                                    "core_keyword": "examples of deterrence",
+                                    "synonym_clustering_algorithm": "text_processing",
+                                    "keyword_difficulty": 45,
+                                    "detected_language": "en",
+                                    "is_another_language": false
+                                },
+                                "serp_info": null,
+                                "avg_backlinks_info": null,
+                                "search_intent_info": {
+                                    "se_type": "google",
+                                    "main_intent": "informational",
+                                    "foreign_intent": null,
+                                    "last_updated_time": "2026-04-27 16:40:38 +00:00"
+                                }
+                            },
+                            "depth": 2,
+                            "related_keywords": null
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword_data": {
+                                "se_type": "google",
+                                "keyword": "deterrent pronunciation in english",
+                                "location_code": 2124,
+                                "language_code": "en",
+                                "keyword_info": {
+                                    "se_type": "google",
+                                    "last_updated_time": "2026-04-10 14:50:59 +00:00",
+                                    "competition": null,
+                                    "competition_level": null,
+                                    "cpc": null,
+                                    "search_volume": 10,
+                                    "low_top_of_page_bid": null,
+                                    "high_top_of_page_bid": null,
+                                    "categories": [
+                                        10016,
+                                        10141,
+                                        10757
+                                    ],
+                                    "monthly_searches": [
+                                        {
+                                            "year": 2026,
+                                            "month": 3,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 2,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 1,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 12,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 11,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 10,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 9,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 8,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 7,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 6,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 5,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 4,
+                                            "search_volume": 0
+                                        }
+                                    ],
+                                    "search_volume_trend": {
+                                        "monthly": 0,
+                                        "quarterly": 0,
+                                        "yearly": 0
+                                    }
+                                },
+                                "keyword_info_normalized_with_bing": null,
+                                "keyword_info_normalized_with_clickstream": null,
+                                "clickstream_keyword_info": null,
+                                "keyword_properties": {
+                                    "se_type": "google",
+                                    "core_keyword": "deterrence pronunciation in english",
+                                    "synonym_clustering_algorithm": "text_processing",
+                                    "keyword_difficulty": null,
+                                    "detected_language": "en",
+                                    "is_another_language": false
+                                },
+                                "serp_info": null,
+                                "avg_backlinks_info": null,
+                                "search_intent_info": {
+                                    "se_type": "google",
+                                    "main_intent": "informational",
+                                    "foreign_intent": null,
+                                    "last_updated_time": "2026-04-27 14:01:11 +00:00"
+                                }
+                            },
+                            "depth": 2,
+                            "related_keywords": null
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword_data": {
+                                "se_type": "google",
+                                "keyword": "deterrent or deterrence",
+                                "location_code": 2124,
+                                "language_code": "en",
+                                "keyword_info": {
+                                    "se_type": "google",
+                                    "last_updated_time": "2026-04-11 22:04:28 +00:00",
+                                    "competition": 0,
+                                    "competition_level": "LOW",
+                                    "cpc": null,
+                                    "search_volume": 10,
+                                    "low_top_of_page_bid": null,
+                                    "high_top_of_page_bid": null,
+                                    "categories": [
+                                        10108,
+                                        10756,
+                                        13429
+                                    ],
+                                    "monthly_searches": [
+                                        {
+                                            "year": 2026,
+                                            "month": 3,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 2,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 1,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 12,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 11,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 10,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 9,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 8,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 7,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 6,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 5,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 4,
+                                            "search_volume": 10
+                                        }
+                                    ],
+                                    "search_volume_trend": {
+                                        "monthly": 0,
+                                        "quarterly": null,
+                                        "yearly": null
+                                    }
+                                },
+                                "keyword_info_normalized_with_bing": null,
+                                "keyword_info_normalized_with_clickstream": null,
+                                "clickstream_keyword_info": null,
+                                "keyword_properties": {
+                                    "se_type": "google",
+                                    "core_keyword": null,
+                                    "synonym_clustering_algorithm": "text_processing",
+                                    "keyword_difficulty": null,
+                                    "detected_language": "en",
+                                    "is_another_language": false
+                                },
+                                "serp_info": null,
+                                "avg_backlinks_info": null,
+                                "search_intent_info": {
+                                    "se_type": "google",
+                                    "main_intent": "informational",
+                                    "foreign_intent": null,
+                                    "last_updated_time": "2026-04-29 15:15:03 +00:00"
+                                }
+                            },
+                            "depth": 2,
+                            "related_keywords": null
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

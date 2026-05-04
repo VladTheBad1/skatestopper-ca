@@ -1,0 +1,58 @@
+{
+    "version": "0.1.20260430",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "0.2353 sec.",
+    "cost": 0.01,
+    "tasks_count": 1,
+    "tasks_error": 0,
+    "tasks": [
+        {
+            "id": "05040659-1495-0381-0000-5acd13fb3a17",
+            "status_code": 20000,
+            "status_message": "Ok.",
+            "time": "0.2259 sec.",
+            "cost": 0.01,
+            "result_count": 1,
+            "path": [
+                "v3",
+                "dataforseo_labs",
+                "google",
+                "ranked_keywords",
+                "live"
+            ],
+            "data": {
+                "api": "dataforseo_labs",
+                "function": "ranked_keywords",
+                "se_type": "google",
+                "target": "maglin.com",
+                "location_code": 2124,
+                "language_code": "en",
+                "limit": 100,
+                "filters": [
+                    [
+                        "keyword_data.keyword",
+                        "like",
+                        "%skate%"
+                    ]
+                ],
+                "order_by": [
+                    "keyword_data.keyword_info.search_volume,desc"
+                ]
+            },
+            "result": [
+                {
+                    "se_type": "google",
+                    "target": "maglin.com",
+                    "location_code": 2124,
+                    "language_code": "en",
+                    "total_count": null,
+                    "items_count": 0,
+                    "metrics": null,
+                    "metrics_absolute": null,
+                    "items": null
+                }
+            ]
+        }
+    ]
+}

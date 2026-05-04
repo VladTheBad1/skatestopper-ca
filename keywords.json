@@ -1222,5 +1222,50 @@
     "source": "dataforseo",
     "location_code": 2124,
     "language_code": "en"
+  },
+  {
+    "keyword": "grinder skate",
+    "volume": 110,
+    "search_volume": 110,
+    "cpc": 0,
+    "source": "dataforseo-ranked-keywords",
+    "location_code": 2124,
+    "language_code": "en"
+  },
+  {
+    "keyword": "grinder skateboard",
+    "volume": 110,
+    "search_volume": 110,
+    "cpc": 0,
+    "source": "dataforseo-ranked-keywords",
+    "location_code": 2124,
+    "language_code": "en"
+  },
+  {
+    "keyword": "skateboard grind deterrents",
+    "volume": 10,
+    "search_volume": 10,
+    "cpc": 0,
+    "source": "dataforseo-ranked-keywords",
+    "location_code": 2124,
+    "language_code": "en"
+  },
+  {
+    "keyword": "decorative anti-skateboarding",
+    "volume": 10,
+    "search_volume": 10,
+    "cpc": 0,
+    "source": "dataforseo-ranked-keywords",
+    "location_code": 2124,
+    "language_code": "en"
+  },
+  {
+    "keyword": "decorative skate stoppers",
+    "volume": 10,
+    "search_volume": 10,
+    "cpc": 0,
+    "source": "dataforseo-ranked-keywords",
+    "location_code": 2124,
+    "language_code": "en"
   }
 ]

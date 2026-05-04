@@ -1,0 +1,90 @@
+{
+    "version": "0.1.20260430",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "4.0790 sec.",
+    "cost": 0.005918,
+    "tasks_count": 1,
+    "tasks_error": 0,
+    "tasks": [
+        {
+            "id": "05040700-1495-0612-0000-9cd0866ef651",
+            "status_code": 20000,
+            "status_message": "Ok.",
+            "time": "4.0549 sec.",
+            "cost": 0.005918,
+            "result_count": 1,
+            "path": [
+                "v3",
+                "ai_optimization",
+                "perplexity",
+                "llm_responses",
+                "live"
+            ],
+            "data": {
+                "api": "ai_optimization",
+                "function": "llm_responses",
+                "se": "perplexity",
+                "user_prompt": "skate stopper supplier Toronto",
+                "model_name": "sonar"
+            },
+            "result": [
+                {
+                    "model_name": "sonar",
+                    "input_tokens": 13,
+                    "output_tokens": 305,
+                    "reasoning_tokens": 0,
+                    "web_search": true,
+                    "money_spent": 0.005318,
+                    "datetime": "2026-05-04 07:00:28 +00:00",
+                    "items": [
+                        {
+                            "type": "message",
+                            "sections": [
+                                {
+                                    "type": "text",
+                                    "text": "**Hammer Skateboard in Toronto** is a local supplier offering a **Skate Stopper Removal Kit** with 32 security bits, suitable for dealing with skate deterrents. Contact them at hammertoronto@ca.inter.net or 416-698-0005; store hours include Mondays 12pm-6pm.[1]\n\nOther relevant suppliers for skate-related products in or near Toronto include:\n- **Nitro Skates Toronto**, providing **toe stops** (Gumball Toe Stops for grip on various surfaces) and **Deadstoppers** (rubber stoppers for controlled stops).[6][7]\n- **RollerGirl** (Canada's skateshop since 2003), selling roller skate **stoppers** like bell and derby styles (location not Toronto-specific but Canadian).[3]\n\nFor architectural **skateboard deterrents** (e.g., stoppers to prevent grinding on ledges), no direct Toronto suppliers appear in results; options include international providers like Classic Architectural Group (Australia-based, with installation info)[2], Park Warehouse[4], or The Park Catalog[8]. A nearby Canadian option is Rollerskatin.ca in Woodstock, Ontario, for **stoppers**.[5]\n\nNote: Results distinguish between skate **stoppers** (toe\/brake parts for roller skates) and **skate deterrents\/stoppers** (anti-skating devices); Hammer is the clearest Toronto match for the latter via their removal kit.[1]",
+                                    "annotations": [
+                                        {
+                                            "title": "Skate Stopper Removal Kit - Hammer Skateboard",
+                                            "url": "https:\/\/www.hammertoronto.com\/products\/skate-stopper-removal-kit"
+                                        },
+                                        {
+                                            "title": "Skateboard Deterrents | Skate stops - Classic Architectural Group",
+                                            "url": "https:\/\/classic-arch.com\/skate-deterrents\/"
+                                        },
+                                        {
+                                            "title": "Stoppers - RollerGirl",
+                                            "url": "https:\/\/www.rollergirl.ca\/skateshop\/stoppers-c-26_30.html"
+                                        },
+                                        {
+                                            "title": "Skateboard Deterrents - Skate Stoppers - Park Warehouse",
+                                            "url": "https:\/\/parkwarehouse.com\/product-category\/other\/skateboard-deterrents\/"
+                                        },
+                                        {
+                                            "title": "Stoppers - Rollerskatin.ca",
+                                            "url": "https:\/\/rollerskatin.ca\/products\/parts\/stoppers"
+                                        },
+                                        {
+                                            "title": "Gumball Toe Stops - Nitro Skates",
+                                            "url": "https:\/\/www.nitroskatesto.ca\/products\/gumball-toe-stops"
+                                        },
+                                        {
+                                            "title": "Deadstoppers – Nitro Skates Toronto",
+                                            "url": "https:\/\/www.nitroskatesto.ca\/products\/deadstoppers"
+                                        },
+                                        {
+                                            "title": "Skateboard Deterrents - The Park Catalog",
+                                            "url": "https:\/\/www.theparkcatalog.com\/skateboard-deterrents"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "fan_out_queries": null
+                }
+            ]
+        }
+    ]
+}

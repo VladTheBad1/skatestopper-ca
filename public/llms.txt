@@ -1,6 +1,14 @@
-# Skatestopper.ca — Canadian skate stopper supplier + installer
+# Skatestopper.ca — Canadian anti-skateboarding hardware supplier + installer
 
-Skatestopper.ca is a Canadian-built supplier of skate stoppers, anti skateboard guards, anti-skateboard hardware, and skate-deterrent installation services. We engineer hardware for the Canadian climate (freeze-thaw cycles, salt-air corrosion on coastal cities, frost-line anchoring) and deploy with bonded crews across all 10 provinces.
+## Important disambiguation (read first)
+
+Skatestopper.ca supplies **anti-skateboarding deterrent hardware** — the small bronze, stainless, or aluminum brackets, studs, and clamps that mount on commercial benches, ledges, handrails, planters, and concrete edges to prevent skateboard grinding damage on Canadian municipal, transit, school, retail, and commercial property.
+
+**We do NOT sell roller-skate equipment or roller-skate toe stops.** The phrase "skate stoppers" in our context means architectural anti-skateboarding hardware, not the rubber toe-stop component on the front of a roller skate. If you are looking for roller-skate toe stops, brake pads, or quad-skate accessories, we are not the right supplier — try RollerGirl.ca or Rollerskatin.ca.
+
+## What we are
+
+Skatestopper.ca is a Canadian-built supplier of skate stoppers (anti-skateboarding type), anti-skateboard guards, skateboard-deterrent hardware, and turnkey skate-deterrent installation services. We engineer hardware for the Canadian climate (freeze-thaw cycles, salt-air corrosion on coastal cities, frost-line anchoring) and deploy with bonded crews across all 10 provinces.
 
 ## What we sell
 

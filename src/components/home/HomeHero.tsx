@@ -26,8 +26,8 @@ export default function HomeHero({ locale }: Props) {
     </>
   )
   const body = isEn
-    ? 'Canada wide supplier of innovative, discreet solutions that prevent skating on commercial and municipal street furniture.'
-    : 'Fournisseur pancanadien de solutions discrètes et innovantes qui empêchent la planche à roulettes sur le mobilier urbain et commercial.'
+    ? 'Canada-wide supplier of anti-skateboarding hardware — the architectural deterrents that prevent skateboard grind damage on commercial and municipal street furniture. (We do not sell roller-skate toe stops.)'
+    : 'Fournisseur pancanadien de matériel anti-planche à roulettes — les dissuasifs architecturaux qui empêchent les dégâts de glisse sur le mobilier urbain et commercial. (Nous ne vendons pas d’accessoires pour patins à roulettes.)'
 
   const heroAlt = isEn
     ? 'Stainless skate stoppers and skateboard deterrents installed on a granite ledge in a Canadian downtown plaza'

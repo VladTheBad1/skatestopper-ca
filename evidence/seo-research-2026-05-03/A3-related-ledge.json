@@ -1,0 +1,1916 @@
+{
+    "version": "0.1.20260430",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "0.0577 sec.",
+    "cost": 0.0115,
+    "tasks_count": 1,
+    "tasks_error": 0,
+    "tasks": [
+        {
+            "id": "05040655-1495-0387-0000-1f10cf5f4bdb",
+            "status_code": 20000,
+            "status_message": "Ok.",
+            "time": "0.0480 sec.",
+            "cost": 0.0115,
+            "result_count": 1,
+            "path": [
+                "v3",
+                "dataforseo_labs",
+                "google",
+                "related_keywords",
+                "live"
+            ],
+            "data": {
+                "api": "dataforseo_labs",
+                "function": "related_keywords",
+                "se_type": "google",
+                "keyword": "ledge",
+                "location_code": 2124,
+                "language_code": "en",
+                "limit": 100,
+                "depth": 2
+            },
+            "result": [
+                {
+                    "se_type": "google",
+                    "seed_keyword": "ledge",
+                    "seed_keyword_data": null,
+                    "location_code": 2124,
+                    "language_code": "en",
+                    "total_count": 15,
+                    "items_count": 15,
+                    "items": [
+                        {
+                            "se_type": "google",
+                            "keyword_data": {
+                                "se_type": "google",
+                                "keyword": "ledge",
+                                "location_code": 2124,
+                                "language_code": "en",
+                                "keyword_info": {
+                                    "se_type": "google",
+                                    "last_updated_time": "2026-04-16 03:29:10 +00:00",
+                                    "competition": 0.02,
+                                    "competition_level": "LOW",
+                                    "cpc": 0.14,
+                                    "search_volume": 2900,
+                                    "low_top_of_page_bid": null,
+                                    "high_top_of_page_bid": null,
+                                    "categories": [
+                                        10004,
+                                        10282,
+                                        11297
+                                    ],
+                                    "monthly_searches": [
+                                        {
+                                            "year": 2026,
+                                            "month": 3,
+                                            "search_volume": 2900
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 2,
+                                            "search_volume": 2900
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 1,
+                                            "search_volume": 2900
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 12,
+                                            "search_volume": 2400
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 11,
+                                            "search_volume": 2900
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 10,
+                                            "search_volume": 3600
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 9,
+                                            "search_volume": 2900
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 8,
+                                            "search_volume": 2900
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 7,
+                                            "search_volume": 3600
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 6,
+                                            "search_volume": 3600
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 5,
+                                            "search_volume": 3600
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 4,
+                                            "search_volume": 3600
+                                        }
+                                    ],
+                                    "search_volume_trend": {
+                                        "monthly": 0,
+                                        "quarterly": 0,
+                                        "yearly": -19
+                                    }
+                                },
+                                "keyword_info_normalized_with_bing": null,
+                                "keyword_info_normalized_with_clickstream": null,
+                                "clickstream_keyword_info": null,
+                                "keyword_properties": {
+                                    "se_type": "google",
+                                    "core_keyword": null,
+                                    "synonym_clustering_algorithm": "text_processing",
+                                    "keyword_difficulty": 27,
+                                    "detected_language": "en",
+                                    "is_another_language": false
+                                },
+                                "serp_info": {
+                                    "se_type": "google",
+                                    "check_url": "https:\/\/www.google.com\/search?q=ledge&hl=en&gl=CA&ie=UTF-8&uule=w+CAIQIFISCdlqzDfTAw1LEaWPQ6Iqt2iZ",
+                                    "serp_item_types": [
+                                        "knowledge_graph",
+                                        "people_also_ask",
+                                        "organic",
+                                        "video",
+                                        "related_searches",
+                                        "images"
+                                    ],
+                                    "se_results_count": 56700000,
+                                    "last_updated_time": "2026-04-18 02:51:42 +00:00",
+                                    "previous_updated_time": "2026-03-04 16:04:13 +00:00"
+                                },
+                                "avg_backlinks_info": {
+                                    "se_type": "google",
+                                    "backlinks": 226,
+                                    "dofollow": 128.8,
+                                    "referring_pages": 199.7,
+                                    "referring_domains": 68.4,
+                                    "referring_main_domains": 62.8,
+                                    "rank": 162.8,
+                                    "main_domain_rank": 559.2,
+                                    "last_updated_time": "2026-04-17 23:51:42 +00:00"
+                                },
+                                "search_intent_info": {
+                                    "se_type": "google",
+                                    "main_intent": "informational",
+                                    "foreign_intent": null,
+                                    "last_updated_time": "2026-04-28 13:10:45 +00:00"
+                                }
+                            },
+                            "depth": 0,
+                            "related_keywords": [
+                                "ledge definition",
+                                "ledge in building",
+                                "ledge in french",
+                                "ledge meaning in dentistry",
+                                "ledge images",
+                                "ledge meaning in farsi",
+                                "ledge meaning slang",
+                                "ledge in chinese"
+                            ]
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword_data": {
+                                "se_type": "google",
+                                "keyword": "ledge meaning",
+                                "location_code": 2124,
+                                "language_code": "en",
+                                "keyword_info": {
+                                    "se_type": "google",
+                                    "last_updated_time": "2026-04-10 12:48:54 +00:00",
+                                    "competition": 0,
+                                    "competition_level": "LOW",
+                                    "cpc": null,
+                                    "search_volume": 1300,
+                                    "low_top_of_page_bid": null,
+                                    "high_top_of_page_bid": null,
+                                    "categories": [
+                                        10108,
+                                        10108,
+                                        10756,
+                                        10756,
+                                        13429
+                                    ],
+                                    "monthly_searches": [
+                                        {
+                                            "year": 2026,
+                                            "month": 3,
+                                            "search_volume": 1600
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 2,
+                                            "search_volume": 1300
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 1,
+                                            "search_volume": 1300
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 12,
+                                            "search_volume": 1300
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 11,
+                                            "search_volume": 1300
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 10,
+                                            "search_volume": 1300
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 9,
+                                            "search_volume": 1300
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 8,
+                                            "search_volume": 1300
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 7,
+                                            "search_volume": 1300
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 6,
+                                            "search_volume": 1300
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 5,
+                                            "search_volume": 1600
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 4,
+                                            "search_volume": 1600
+                                        }
+                                    ],
+                                    "search_volume_trend": {
+                                        "monthly": 23,
+                                        "quarterly": 23,
+                                        "yearly": 0
+                                    }
+                                },
+                                "keyword_info_normalized_with_bing": null,
+                                "keyword_info_normalized_with_clickstream": null,
+                                "clickstream_keyword_info": null,
+                                "keyword_properties": {
+                                    "se_type": "google",
+                                    "core_keyword": "ledged meaning",
+                                    "synonym_clustering_algorithm": "text_processing",
+                                    "keyword_difficulty": 5,
+                                    "detected_language": "en",
+                                    "is_another_language": false
+                                },
+                                "serp_info": {
+                                    "se_type": "google",
+                                    "check_url": "https:\/\/www.google.com\/search?q=ledge%20meaning&hl=en&gl=CA&ie=UTF-8&uule=w+CAIQIFISCdlqzDfTAw1LEaWPQ6Iqt2iZ",
+                                    "serp_item_types": [
+                                        "ai_overview",
+                                        "people_also_ask",
+                                        "organic",
+                                        "short_videos",
+                                        "images",
+                                        "related_searches"
+                                    ],
+                                    "se_results_count": 52100000,
+                                    "last_updated_time": "2026-04-18 15:33:26 +00:00",
+                                    "previous_updated_time": "2026-03-05 01:13:51 +00:00"
+                                },
+                                "avg_backlinks_info": {
+                                    "se_type": "google",
+                                    "backlinks": 416.6,
+                                    "dofollow": 10.7,
+                                    "referring_pages": 215.9,
+                                    "referring_domains": 9.4,
+                                    "referring_main_domains": 7.1,
+                                    "rank": 70.6,
+                                    "main_domain_rank": 616.8,
+                                    "last_updated_time": "2026-04-18 12:33:27 +00:00"
+                                },
+                                "search_intent_info": {
+                                    "se_type": "google",
+                                    "main_intent": "informational",
+                                    "foreign_intent": null,
+                                    "last_updated_time": "2026-04-28 14:36:53 +00:00"
+                                }
+                            },
+                            "depth": 2,
+                            "related_keywords": [
+                                "ledge meaning in trading",
+                                "ledge meaning in farsi",
+                                "ledge meaning slang",
+                                "ledge meaning in dentistry",
+                                "ledge meaning in english",
+                                "ledge meaning sentence",
+                                "ledge meaning picture",
+                                "door ledge meaning"
+                            ]
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword_data": {
+                                "se_type": "google",
+                                "keyword": "d'accord meaning",
+                                "location_code": 2124,
+                                "language_code": "en",
+                                "keyword_info": {
+                                    "se_type": "google",
+                                    "last_updated_time": "2026-04-19 00:27:12 +00:00",
+                                    "competition": 0,
+                                    "competition_level": "LOW",
+                                    "cpc": null,
+                                    "search_volume": 880,
+                                    "low_top_of_page_bid": null,
+                                    "high_top_of_page_bid": null,
+                                    "categories": [
+                                        10108,
+                                        10756,
+                                        13429
+                                    ],
+                                    "monthly_searches": [
+                                        {
+                                            "year": 2026,
+                                            "month": 3,
+                                            "search_volume": 1000
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 2,
+                                            "search_volume": 880
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 1,
+                                            "search_volume": 1000
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 12,
+                                            "search_volume": 880
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 11,
+                                            "search_volume": 880
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 10,
+                                            "search_volume": 880
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 9,
+                                            "search_volume": 880
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 8,
+                                            "search_volume": 720
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 7,
+                                            "search_volume": 720
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 6,
+                                            "search_volume": 720
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 5,
+                                            "search_volume": 720
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 4,
+                                            "search_volume": 720
+                                        }
+                                    ],
+                                    "search_volume_trend": {
+                                        "monthly": 14,
+                                        "quarterly": 0,
+                                        "yearly": 39
+                                    }
+                                },
+                                "keyword_info_normalized_with_bing": null,
+                                "keyword_info_normalized_with_clickstream": null,
+                                "clickstream_keyword_info": null,
+                                "keyword_properties": {
+                                    "se_type": "google",
+                                    "core_keyword": null,
+                                    "synonym_clustering_algorithm": "text_processing",
+                                    "keyword_difficulty": 0,
+                                    "detected_language": "en",
+                                    "is_another_language": false
+                                },
+                                "serp_info": {
+                                    "se_type": "google",
+                                    "check_url": "https:\/\/www.google.com\/search?q=d%27accord%20meaning&hl=en&gl=CA&ie=UTF-8&uule=w+CAIQIFISCdlqzDfTAw1LEaWPQ6Iqt2iZ",
+                                    "serp_item_types": [
+                                        "ai_overview",
+                                        "organic",
+                                        "people_also_ask",
+                                        "short_videos",
+                                        "related_searches"
+                                    ],
+                                    "se_results_count": 276000000,
+                                    "last_updated_time": "2026-03-27 02:52:36 +00:00",
+                                    "previous_updated_time": "2026-02-10 16:55:31 +00:00"
+                                },
+                                "avg_backlinks_info": {
+                                    "se_type": "google",
+                                    "backlinks": 0.6,
+                                    "dofollow": 0.4,
+                                    "referring_pages": 0.6,
+                                    "referring_domains": 0.5,
+                                    "referring_main_domains": 0.5,
+                                    "rank": 3.1,
+                                    "main_domain_rank": 531.7,
+                                    "last_updated_time": "2026-03-27 00:58:06 +00:00"
+                                },
+                                "search_intent_info": {
+                                    "se_type": "google",
+                                    "main_intent": "informational",
+                                    "foreign_intent": null,
+                                    "last_updated_time": "2023-03-03 12:30:50 +00:00"
+                                }
+                            },
+                            "depth": 2,
+                            "related_keywords": [
+                                "d accord meaning french",
+                                "d accord meaning in english",
+                                "d accord pronunciation",
+                                "d accord meaning slang",
+                                "d accord reply",
+                                "d accord meaning in italian",
+                                "d accord which language",
+                                "je suis d accord meaning"
+                            ]
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword_data": {
+                                "se_type": "google",
+                                "keyword": "ledge synonyms",
+                                "location_code": 2124,
+                                "language_code": "en",
+                                "keyword_info": {
+                                    "se_type": "google",
+                                    "last_updated_time": "2026-04-11 21:51:44 +00:00",
+                                    "competition": 0,
+                                    "competition_level": "LOW",
+                                    "cpc": null,
+                                    "search_volume": 110,
+                                    "low_top_of_page_bid": null,
+                                    "high_top_of_page_bid": null,
+                                    "categories": [
+                                        10108,
+                                        10756,
+                                        13429
+                                    ],
+                                    "monthly_searches": [
+                                        {
+                                            "year": 2026,
+                                            "month": 3,
+                                            "search_volume": 140
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 2,
+                                            "search_volume": 90
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 1,
+                                            "search_volume": 90
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 12,
+                                            "search_volume": 90
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 11,
+                                            "search_volume": 110
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 10,
+                                            "search_volume": 110
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 9,
+                                            "search_volume": 90
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 8,
+                                            "search_volume": 70
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 7,
+                                            "search_volume": 70
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 6,
+                                            "search_volume": 90
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 5,
+                                            "search_volume": 140
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 4,
+                                            "search_volume": 110
+                                        }
+                                    ],
+                                    "search_volume_trend": {
+                                        "monthly": 56,
+                                        "quarterly": 56,
+                                        "yearly": 27
+                                    }
+                                },
+                                "keyword_info_normalized_with_bing": null,
+                                "keyword_info_normalized_with_clickstream": null,
+                                "clickstream_keyword_info": null,
+                                "keyword_properties": {
+                                    "se_type": "google",
+                                    "core_keyword": "ledge synonym",
+                                    "synonym_clustering_algorithm": "text_processing",
+                                    "keyword_difficulty": 0,
+                                    "detected_language": "en",
+                                    "is_another_language": false
+                                },
+                                "serp_info": {
+                                    "se_type": "google",
+                                    "check_url": "https:\/\/www.google.com\/search?q=ledge%20synonyms&hl=en&gl=CA&ie=UTF-8&uule=w+CAIQIFISCdlqzDfTAw1LEaWPQ6Iqt2iZ",
+                                    "serp_item_types": [
+                                        "knowledge_graph",
+                                        "people_also_ask",
+                                        "organic",
+                                        "related_searches"
+                                    ],
+                                    "se_results_count": 544000,
+                                    "last_updated_time": "2026-03-21 22:13:11 +00:00",
+                                    "previous_updated_time": "2026-02-03 03:59:25 +00:00"
+                                },
+                                "avg_backlinks_info": {
+                                    "se_type": "google",
+                                    "backlinks": 2.2,
+                                    "dofollow": 2.2,
+                                    "referring_pages": 2.2,
+                                    "referring_domains": 1.1,
+                                    "referring_main_domains": 0.8,
+                                    "rank": 21.8,
+                                    "main_domain_rank": 548,
+                                    "last_updated_time": "2026-03-21 20:13:12 +00:00"
+                                },
+                                "search_intent_info": {
+                                    "se_type": "google",
+                                    "main_intent": "informational",
+                                    "foreign_intent": null,
+                                    "last_updated_time": "2026-04-28 12:39:27 +00:00"
+                                }
+                            },
+                            "depth": 2,
+                            "related_keywords": [
+                                "ledge synonym and antonym",
+                                "ledge synonyms slang",
+                                "ledge synonyms in english",
+                                "previous synonyms",
+                                "attic synonyms",
+                                "ledge meaning in english",
+                                "flap synonyms",
+                                "forward synonyms"
+                            ]
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword_data": {
+                                "se_type": "google",
+                                "keyword": "ledge definition",
+                                "location_code": 2124,
+                                "language_code": "en",
+                                "keyword_info": {
+                                    "se_type": "google",
+                                    "last_updated_time": "2026-04-17 16:40:30 +00:00",
+                                    "competition": 0,
+                                    "competition_level": "LOW",
+                                    "cpc": null,
+                                    "search_volume": 90,
+                                    "low_top_of_page_bid": null,
+                                    "high_top_of_page_bid": null,
+                                    "categories": [
+                                        10108,
+                                        10756
+                                    ],
+                                    "monthly_searches": [
+                                        {
+                                            "year": 2026,
+                                            "month": 3,
+                                            "search_volume": 70
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 2,
+                                            "search_volume": 90
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 1,
+                                            "search_volume": 70
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 12,
+                                            "search_volume": 70
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 11,
+                                            "search_volume": 110
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 10,
+                                            "search_volume": 70
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 9,
+                                            "search_volume": 50
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 8,
+                                            "search_volume": 50
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 7,
+                                            "search_volume": 70
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 6,
+                                            "search_volume": 90
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 5,
+                                            "search_volume": 110
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 4,
+                                            "search_volume": 110
+                                        }
+                                    ],
+                                    "search_volume_trend": {
+                                        "monthly": -22,
+                                        "quarterly": 0,
+                                        "yearly": -22
+                                    }
+                                },
+                                "keyword_info_normalized_with_bing": null,
+                                "keyword_info_normalized_with_clickstream": null,
+                                "clickstream_keyword_info": null,
+                                "keyword_properties": {
+                                    "se_type": "google",
+                                    "core_keyword": "ledged definition",
+                                    "synonym_clustering_algorithm": "text_processing",
+                                    "keyword_difficulty": 4,
+                                    "detected_language": "en",
+                                    "is_another_language": false
+                                },
+                                "serp_info": {
+                                    "se_type": "google",
+                                    "check_url": "https:\/\/www.google.com\/search?q=ledge%20definition&hl=en&gl=CA&ie=UTF-8&uule=w+CAIQIFISCdlqzDfTAw1LEaWPQ6Iqt2iZ",
+                                    "serp_item_types": [
+                                        "knowledge_graph",
+                                        "organic",
+                                        "people_also_ask",
+                                        "short_videos",
+                                        "related_searches"
+                                    ],
+                                    "se_results_count": 9980000,
+                                    "last_updated_time": "2026-04-04 08:04:40 +00:00",
+                                    "previous_updated_time": "2026-02-10 11:52:29 +00:00"
+                                },
+                                "avg_backlinks_info": {
+                                    "se_type": "google",
+                                    "backlinks": 11.3,
+                                    "dofollow": 7,
+                                    "referring_pages": 11.3,
+                                    "referring_domains": 5.5,
+                                    "referring_main_domains": 5.2,
+                                    "rank": 65,
+                                    "main_domain_rank": 624.4,
+                                    "last_updated_time": "2026-04-04 05:05:14 +00:00"
+                                },
+                                "search_intent_info": {
+                                    "se_type": "google",
+                                    "main_intent": "informational",
+                                    "foreign_intent": null,
+                                    "last_updated_time": "2026-04-28 12:10:43 +00:00"
+                                }
+                            },
+                            "depth": 1,
+                            "related_keywords": [
+                                "ledge in french",
+                                "ledge definition geography",
+                                "ledge meaning in dentistry",
+                                "ledge synonyms",
+                                "ledge definition oxford dictionary",
+                                "ledge in a sentence",
+                                "ledge definition for kids",
+                                "ledge images"
+                            ]
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword_data": {
+                                "se_type": "google",
+                                "keyword": "ledge in french",
+                                "location_code": 2124,
+                                "language_code": "en",
+                                "keyword_info": {
+                                    "se_type": "google",
+                                    "last_updated_time": "2026-04-09 14:46:28 +00:00",
+                                    "competition": 0,
+                                    "competition_level": "LOW",
+                                    "cpc": null,
+                                    "search_volume": 50,
+                                    "low_top_of_page_bid": null,
+                                    "high_top_of_page_bid": null,
+                                    "categories": [
+                                        10108,
+                                        10756,
+                                        13432
+                                    ],
+                                    "monthly_searches": [
+                                        {
+                                            "year": 2026,
+                                            "month": 3,
+                                            "search_volume": 50
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 2,
+                                            "search_volume": 40
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 1,
+                                            "search_volume": 50
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 12,
+                                            "search_volume": 50
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 11,
+                                            "search_volume": 70
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 10,
+                                            "search_volume": 50
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 9,
+                                            "search_volume": 40
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 8,
+                                            "search_volume": 30
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 7,
+                                            "search_volume": 40
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 6,
+                                            "search_volume": 40
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 5,
+                                            "search_volume": 50
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 4,
+                                            "search_volume": 50
+                                        }
+                                    ],
+                                    "search_volume_trend": {
+                                        "monthly": 25,
+                                        "quarterly": 0,
+                                        "yearly": 0
+                                    }
+                                },
+                                "keyword_info_normalized_with_bing": null,
+                                "keyword_info_normalized_with_clickstream": null,
+                                "clickstream_keyword_info": null,
+                                "keyword_properties": {
+                                    "se_type": "google",
+                                    "core_keyword": null,
+                                    "synonym_clustering_algorithm": null,
+                                    "keyword_difficulty": 12,
+                                    "detected_language": "en",
+                                    "is_another_language": false
+                                },
+                                "serp_info": {
+                                    "se_type": "google",
+                                    "check_url": "https:\/\/www.google.ca\/search?q=ledge%20in%20french&num=100&hl=en&gl=CA&gws_rd=cr&ie=UTF-8&oe=UTF-8&uule=w+CAIQIFISCdlqzDfTAw1LEaWPQ6Iqt2iZ",
+                                    "serp_item_types": [
+                                        "organic",
+                                        "related_searches"
+                                    ],
+                                    "se_results_count": 11000000,
+                                    "last_updated_time": "2022-09-07 09:26:25 +00:00",
+                                    "previous_updated_time": "2022-08-07 18:56:02 +00:00"
+                                },
+                                "avg_backlinks_info": {
+                                    "se_type": "google",
+                                    "backlinks": 0,
+                                    "dofollow": 0,
+                                    "referring_pages": 0,
+                                    "referring_domains": 0,
+                                    "referring_main_domains": 0,
+                                    "rank": 6.099999904632568,
+                                    "main_domain_rank": 535,
+                                    "last_updated_time": "2022-09-07 06:26:28 +00:00"
+                                },
+                                "search_intent_info": {
+                                    "se_type": "google",
+                                    "main_intent": "informational",
+                                    "foreign_intent": null,
+                                    "last_updated_time": "2026-04-28 12:58:07 +00:00"
+                                }
+                            },
+                            "depth": 1,
+                            "related_keywords": [
+                                "ledge meaning",
+                                "ledge in spanish",
+                                "d'accord meaning"
+                            ]
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword_data": {
+                                "se_type": "google",
+                                "keyword": "ledge in a sentence",
+                                "location_code": 2124,
+                                "language_code": "en",
+                                "keyword_info": {
+                                    "se_type": "google",
+                                    "last_updated_time": "2026-04-19 04:57:23 +00:00",
+                                    "competition": 0,
+                                    "competition_level": "LOW",
+                                    "cpc": null,
+                                    "search_volume": 20,
+                                    "low_top_of_page_bid": null,
+                                    "high_top_of_page_bid": null,
+                                    "categories": [
+                                        10008
+                                    ],
+                                    "monthly_searches": [
+                                        {
+                                            "year": 2026,
+                                            "month": 3,
+                                            "search_volume": 20
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 2,
+                                            "search_volume": 20
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 1,
+                                            "search_volume": 30
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 12,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 11,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 10,
+                                            "search_volume": 30
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 9,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 8,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 7,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 6,
+                                            "search_volume": 30
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 5,
+                                            "search_volume": 40
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 4,
+                                            "search_volume": 30
+                                        }
+                                    ],
+                                    "search_volume_trend": {
+                                        "monthly": 0,
+                                        "quarterly": -33,
+                                        "yearly": -50
+                                    }
+                                },
+                                "keyword_info_normalized_with_bing": null,
+                                "keyword_info_normalized_with_clickstream": null,
+                                "clickstream_keyword_info": null,
+                                "keyword_properties": {
+                                    "se_type": "google",
+                                    "core_keyword": "sentences with ledge",
+                                    "synonym_clustering_algorithm": "text_processing",
+                                    "keyword_difficulty": null,
+                                    "detected_language": "en",
+                                    "is_another_language": false
+                                },
+                                "serp_info": null,
+                                "avg_backlinks_info": null,
+                                "search_intent_info": {
+                                    "se_type": "google",
+                                    "main_intent": "informational",
+                                    "foreign_intent": null,
+                                    "last_updated_time": "2026-04-28 11:39:06 +00:00"
+                                }
+                            },
+                            "depth": 2,
+                            "related_keywords": null
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword_data": {
+                                "se_type": "google",
+                                "keyword": "ledge in building",
+                                "location_code": 2124,
+                                "language_code": "en",
+                                "keyword_info": {
+                                    "se_type": "google",
+                                    "last_updated_time": "2026-04-19 06:41:32 +00:00",
+                                    "competition": 0,
+                                    "competition_level": "LOW",
+                                    "cpc": null,
+                                    "search_volume": 10,
+                                    "low_top_of_page_bid": null,
+                                    "high_top_of_page_bid": null,
+                                    "categories": [
+                                        10004,
+                                        10273,
+                                        11130
+                                    ],
+                                    "monthly_searches": [
+                                        {
+                                            "year": 2026,
+                                            "month": 3,
+                                            "search_volume": 20
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 2,
+                                            "search_volume": 20
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 1,
+                                            "search_volume": 20
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 12,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 11,
+                                            "search_volume": 20
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 10,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 9,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 8,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 7,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 6,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 5,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 4,
+                                            "search_volume": 10
+                                        }
+                                    ],
+                                    "search_volume_trend": {
+                                        "monthly": 0,
+                                        "quarterly": 0,
+                                        "yearly": 100
+                                    }
+                                },
+                                "keyword_info_normalized_with_bing": null,
+                                "keyword_info_normalized_with_clickstream": null,
+                                "clickstream_keyword_info": null,
+                                "keyword_properties": {
+                                    "se_type": "google",
+                                    "core_keyword": null,
+                                    "synonym_clustering_algorithm": "text_processing",
+                                    "keyword_difficulty": null,
+                                    "detected_language": "en",
+                                    "is_another_language": false
+                                },
+                                "serp_info": null,
+                                "avg_backlinks_info": null,
+                                "search_intent_info": {
+                                    "se_type": "google",
+                                    "main_intent": "informational",
+                                    "foreign_intent": null,
+                                    "last_updated_time": "2026-04-29 15:47:40 +00:00"
+                                }
+                            },
+                            "depth": 1,
+                            "related_keywords": null
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword_data": {
+                                "se_type": "google",
+                                "keyword": "ledge meaning in dentistry",
+                                "location_code": 2124,
+                                "language_code": "en",
+                                "keyword_info": {
+                                    "se_type": "google",
+                                    "last_updated_time": "2026-04-11 14:27:56 +00:00",
+                                    "competition": 0,
+                                    "competition_level": "LOW",
+                                    "cpc": null,
+                                    "search_volume": 10,
+                                    "low_top_of_page_bid": null,
+                                    "high_top_of_page_bid": null,
+                                    "categories": [
+                                        10011,
+                                        10085,
+                                        10487
+                                    ],
+                                    "monthly_searches": [
+                                        {
+                                            "year": 2026,
+                                            "month": 3,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 2,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 1,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 12,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 11,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 10,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 9,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 8,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 7,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 6,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 5,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 4,
+                                            "search_volume": 0
+                                        }
+                                    ],
+                                    "search_volume_trend": {
+                                        "monthly": 0,
+                                        "quarterly": null,
+                                        "yearly": 0
+                                    }
+                                },
+                                "keyword_info_normalized_with_bing": null,
+                                "keyword_info_normalized_with_clickstream": null,
+                                "clickstream_keyword_info": null,
+                                "keyword_properties": {
+                                    "se_type": "google",
+                                    "core_keyword": null,
+                                    "synonym_clustering_algorithm": null,
+                                    "keyword_difficulty": null,
+                                    "detected_language": "en",
+                                    "is_another_language": false
+                                },
+                                "serp_info": null,
+                                "avg_backlinks_info": null,
+                                "search_intent_info": {
+                                    "se_type": "google",
+                                    "main_intent": "informational",
+                                    "foreign_intent": null,
+                                    "last_updated_time": "2026-04-29 18:25:36 +00:00"
+                                }
+                            },
+                            "depth": 1,
+                            "related_keywords": null
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword_data": {
+                                "se_type": "google",
+                                "keyword": "ledge images",
+                                "location_code": 2124,
+                                "language_code": "en",
+                                "keyword_info": {
+                                    "se_type": "google",
+                                    "last_updated_time": "2026-04-12 08:52:24 +00:00",
+                                    "competition": 0,
+                                    "competition_level": "LOW",
+                                    "cpc": null,
+                                    "search_volume": 10,
+                                    "low_top_of_page_bid": null,
+                                    "high_top_of_page_bid": null,
+                                    "categories": [
+                                        10019,
+                                        10168,
+                                        10885,
+                                        11368,
+                                        12701
+                                    ],
+                                    "monthly_searches": [
+                                        {
+                                            "year": 2026,
+                                            "month": 3,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 2,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 1,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 12,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 11,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 10,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 9,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 8,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 7,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 6,
+                                            "search_volume": 20
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 5,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 4,
+                                            "search_volume": 20
+                                        }
+                                    ],
+                                    "search_volume_trend": {
+                                        "monthly": 0,
+                                        "quarterly": 0,
+                                        "yearly": 0
+                                    }
+                                },
+                                "keyword_info_normalized_with_bing": null,
+                                "keyword_info_normalized_with_clickstream": null,
+                                "clickstream_keyword_info": null,
+                                "keyword_properties": {
+                                    "se_type": "google",
+                                    "core_keyword": null,
+                                    "synonym_clustering_algorithm": null,
+                                    "keyword_difficulty": null,
+                                    "detected_language": "en",
+                                    "is_another_language": false
+                                },
+                                "serp_info": null,
+                                "avg_backlinks_info": null,
+                                "search_intent_info": {
+                                    "se_type": "google",
+                                    "main_intent": "informational",
+                                    "foreign_intent": null,
+                                    "last_updated_time": "2026-04-29 15:59:04 +00:00"
+                                }
+                            },
+                            "depth": 1,
+                            "related_keywords": null
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword_data": {
+                                "se_type": "google",
+                                "keyword": "ledge meaning in farsi",
+                                "location_code": 2124,
+                                "language_code": "en",
+                                "keyword_info": {
+                                    "se_type": "google",
+                                    "last_updated_time": "2026-04-17 00:15:33 +00:00",
+                                    "competition": 0,
+                                    "competition_level": "LOW",
+                                    "cpc": null,
+                                    "search_volume": 10,
+                                    "low_top_of_page_bid": null,
+                                    "high_top_of_page_bid": null,
+                                    "categories": [
+                                        10013,
+                                        10108,
+                                        10109,
+                                        10589
+                                    ],
+                                    "monthly_searches": [
+                                        {
+                                            "year": 2026,
+                                            "month": 3,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 2,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 1,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 12,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 11,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 10,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 9,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 8,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 7,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 6,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 5,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 4,
+                                            "search_volume": 0
+                                        }
+                                    ],
+                                    "search_volume_trend": {
+                                        "monthly": 0,
+                                        "quarterly": null,
+                                        "yearly": null
+                                    }
+                                },
+                                "keyword_info_normalized_with_bing": null,
+                                "keyword_info_normalized_with_clickstream": null,
+                                "clickstream_keyword_info": null,
+                                "keyword_properties": {
+                                    "se_type": "google",
+                                    "core_keyword": null,
+                                    "synonym_clustering_algorithm": null,
+                                    "keyword_difficulty": null,
+                                    "detected_language": "en",
+                                    "is_another_language": false
+                                },
+                                "serp_info": null,
+                                "avg_backlinks_info": null,
+                                "search_intent_info": {
+                                    "se_type": "google",
+                                    "main_intent": "informational",
+                                    "foreign_intent": null,
+                                    "last_updated_time": "2026-05-03 20:50:10 +00:00"
+                                }
+                            },
+                            "depth": 1,
+                            "related_keywords": null
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword_data": {
+                                "se_type": "google",
+                                "keyword": "ledge meaning slang",
+                                "location_code": 2124,
+                                "language_code": "en",
+                                "keyword_info": {
+                                    "se_type": "google",
+                                    "last_updated_time": "2026-04-11 13:48:30 +00:00",
+                                    "competition": 0,
+                                    "competition_level": "LOW",
+                                    "cpc": null,
+                                    "search_volume": 10,
+                                    "low_top_of_page_bid": null,
+                                    "high_top_of_page_bid": null,
+                                    "categories": [
+                                        10108,
+                                        10756
+                                    ],
+                                    "monthly_searches": [
+                                        {
+                                            "year": 2026,
+                                            "month": 3,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 2,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 1,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 12,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 11,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 10,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 9,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 8,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 7,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 6,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 5,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 4,
+                                            "search_volume": 10
+                                        }
+                                    ],
+                                    "search_volume_trend": {
+                                        "monthly": 0,
+                                        "quarterly": 0,
+                                        "yearly": 0
+                                    }
+                                },
+                                "keyword_info_normalized_with_bing": null,
+                                "keyword_info_normalized_with_clickstream": null,
+                                "clickstream_keyword_info": null,
+                                "keyword_properties": {
+                                    "se_type": "google",
+                                    "core_keyword": null,
+                                    "synonym_clustering_algorithm": null,
+                                    "keyword_difficulty": null,
+                                    "detected_language": "en",
+                                    "is_another_language": false
+                                },
+                                "serp_info": null,
+                                "avg_backlinks_info": null,
+                                "search_intent_info": {
+                                    "se_type": "google",
+                                    "main_intent": "informational",
+                                    "foreign_intent": null,
+                                    "last_updated_time": "2026-04-28 17:15:33 +00:00"
+                                }
+                            },
+                            "depth": 1,
+                            "related_keywords": null
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword_data": {
+                                "se_type": "google",
+                                "keyword": "ledge in chinese",
+                                "location_code": 2124,
+                                "language_code": "en",
+                                "keyword_info": {
+                                    "se_type": "google",
+                                    "last_updated_time": "2026-04-10 23:56:43 +00:00",
+                                    "competition": 0,
+                                    "competition_level": "LOW",
+                                    "cpc": null,
+                                    "search_volume": 10,
+                                    "low_top_of_page_bid": null,
+                                    "high_top_of_page_bid": null,
+                                    "categories": [
+                                        10015,
+                                        10128,
+                                        10889,
+                                        12226,
+                                        13792
+                                    ],
+                                    "monthly_searches": [
+                                        {
+                                            "year": 2026,
+                                            "month": 3,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 2,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 1,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 12,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 11,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 10,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 9,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 8,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 7,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 6,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 5,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 4,
+                                            "search_volume": 10
+                                        }
+                                    ],
+                                    "search_volume_trend": {
+                                        "monthly": 0,
+                                        "quarterly": 0,
+                                        "yearly": 0
+                                    }
+                                },
+                                "keyword_info_normalized_with_bing": null,
+                                "keyword_info_normalized_with_clickstream": null,
+                                "clickstream_keyword_info": null,
+                                "keyword_properties": {
+                                    "se_type": "google",
+                                    "core_keyword": null,
+                                    "synonym_clustering_algorithm": null,
+                                    "keyword_difficulty": null,
+                                    "detected_language": "en",
+                                    "is_another_language": false
+                                },
+                                "serp_info": null,
+                                "avg_backlinks_info": null,
+                                "search_intent_info": {
+                                    "se_type": "google",
+                                    "main_intent": "informational",
+                                    "foreign_intent": null,
+                                    "last_updated_time": "2026-04-29 14:13:02 +00:00"
+                                }
+                            },
+                            "depth": 1,
+                            "related_keywords": null
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword_data": {
+                                "se_type": "google",
+                                "keyword": "ledge definition geography",
+                                "location_code": 2124,
+                                "language_code": "en",
+                                "keyword_info": {
+                                    "se_type": "google",
+                                    "last_updated_time": "2026-04-10 03:07:50 +00:00",
+                                    "competition": null,
+                                    "competition_level": null,
+                                    "cpc": null,
+                                    "search_volume": 10,
+                                    "low_top_of_page_bid": null,
+                                    "high_top_of_page_bid": null,
+                                    "categories": [
+                                        10108,
+                                        10756
+                                    ],
+                                    "monthly_searches": [
+                                        {
+                                            "year": 2026,
+                                            "month": 3,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 2,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 1,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 12,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 11,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 10,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 9,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 8,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 7,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 6,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 5,
+                                            "search_volume": 0
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 4,
+                                            "search_volume": 0
+                                        }
+                                    ],
+                                    "search_volume_trend": {
+                                        "monthly": 0,
+                                        "quarterly": 0,
+                                        "yearly": 0
+                                    }
+                                },
+                                "keyword_info_normalized_with_bing": null,
+                                "keyword_info_normalized_with_clickstream": null,
+                                "clickstream_keyword_info": null,
+                                "keyword_properties": {
+                                    "se_type": "google",
+                                    "core_keyword": null,
+                                    "synonym_clustering_algorithm": null,
+                                    "keyword_difficulty": null,
+                                    "detected_language": "en",
+                                    "is_another_language": false
+                                },
+                                "serp_info": null,
+                                "avg_backlinks_info": null,
+                                "search_intent_info": {
+                                    "se_type": "google",
+                                    "main_intent": "informational",
+                                    "foreign_intent": null,
+                                    "last_updated_time": "2026-04-28 11:53:33 +00:00"
+                                }
+                            },
+                            "depth": 2,
+                            "related_keywords": null
+                        },
+                        {
+                            "se_type": "google",
+                            "keyword_data": {
+                                "se_type": "google",
+                                "keyword": "ledge in spanish",
+                                "location_code": 2124,
+                                "language_code": "en",
+                                "keyword_info": {
+                                    "se_type": "google",
+                                    "last_updated_time": "2026-04-17 19:27:29 +00:00",
+                                    "competition": 0,
+                                    "competition_level": "LOW",
+                                    "cpc": null,
+                                    "search_volume": 10,
+                                    "low_top_of_page_bid": null,
+                                    "high_top_of_page_bid": null,
+                                    "categories": [
+                                        10108,
+                                        10756,
+                                        13432
+                                    ],
+                                    "monthly_searches": [
+                                        {
+                                            "year": 2026,
+                                            "month": 3,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 2,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2026,
+                                            "month": 1,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 12,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 11,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 10,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 9,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 8,
+                                            "search_volume": 20
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 7,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 6,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 5,
+                                            "search_volume": 10
+                                        },
+                                        {
+                                            "year": 2025,
+                                            "month": 4,
+                                            "search_volume": 10
+                                        }
+                                    ],
+                                    "search_volume_trend": {
+                                        "monthly": 0,
+                                        "quarterly": 0,
+                                        "yearly": 0
+                                    }
+                                },
+                                "keyword_info_normalized_with_bing": null,
+                                "keyword_info_normalized_with_clickstream": null,
+                                "clickstream_keyword_info": null,
+                                "keyword_properties": {
+                                    "se_type": "google",
+                                    "core_keyword": "ledge spanish",
+                                    "synonym_clustering_algorithm": "text_processing",
+                                    "keyword_difficulty": null,
+                                    "detected_language": "en",
+                                    "is_another_language": false
+                                },
+                                "serp_info": null,
+                                "avg_backlinks_info": null,
+                                "search_intent_info": {
+                                    "se_type": "google",
+                                    "main_intent": "informational",
+                                    "foreign_intent": null,
+                                    "last_updated_time": "2026-04-29 17:05:46 +00:00"
+                                }
+                            },
+                            "depth": 2,
+                            "related_keywords": null
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
