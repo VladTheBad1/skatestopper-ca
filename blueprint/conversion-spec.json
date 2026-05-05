@@ -44,8 +44,8 @@
     "Real Canadian addresses on case studies (no stock testimonials)"
   ],
   "phoneStrategy": {
-    "displayedNumber": "1-800-SKT-STOP",
-    "telLink": "tel:+18007587867",
+    "displayedNumber": "(888) 663-2244",
+    "telLink": "tel:+18886632244",
     "placement": ["Header (clickable mobile)", "Footer", "Contact page", "FAQ"],
     "businessHours": "Monday-Friday 08:00-17:00 ET"
   },
