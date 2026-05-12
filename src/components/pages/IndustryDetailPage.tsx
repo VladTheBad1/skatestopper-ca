@@ -2,8 +2,9 @@ import Image from 'next/image'
 import Link from 'next/link'
 import PageHero from '@/components/PageHero'
 import SectionHeader from '@/components/SectionHeader'
+import { industryImageAlt, productImageAlt } from '@/lib/image-alt'
 import { t, getAllCities } from '@/lib/data'
-import { contactUrl, cityUrl, productUrl, staticUrl } from '@/lib/routes'
+import { contactUrl, cityUrl, geoUrl, productUrl, staticUrl } from '@/lib/routes'
 import { markdownToHtml, stripMarkdown } from '@/lib/markdown'
 import { KeyTakeaways } from '@/lib/content-format'
 import { autoBold, generateKeyTakeaways } from '@/lib/prose'
@@ -160,7 +161,7 @@ export default function IndustryDetailPage({
                 <div className="relative aspect-[4/3] rounded-2xl overflow-hidden shadow-xl border border-[var(--line)]">
                   <Image
                     src={industry.image}
-                    alt={industry.name}
+                    alt={industryImageAlt(industry.slug, locale, (industry as { imageHint?: string }).imageHint, industry.name)}
                     fill
                     className="object-cover"
                     sizes="(max-width: 1024px) 100vw, 50vw"
@@ -362,7 +363,7 @@ export default function IndustryDetailPage({
                     <div className="relative aspect-[4/3] overflow-hidden">
                       <Image
                         src={p.image}
-                        alt={p.name}
+                        alt={productImageAlt(p.slug, locale, (p as { imageHint?: string }).imageHint, p.name)}
                         fill
                         className="object-cover group-hover:scale-105 transition-transform duration-500"
                       />
@@ -409,13 +410,15 @@ export default function IndustryDetailPage({
               {topCities.map((c: { slug: string; name: string; province: string }) => (
                 <Link
                   key={c.slug}
-                  href={cityUrl(c.slug, locale)}
+                  href={geoUrl(c.slug, industry.slug, (industry as { slugFr?: string }).slugFr || industry.slug, locale)}
                   className="block text-center p-4 rounded-xl border border-[var(--line)] bg-[var(--surface)] hover:border-[var(--accent)]/40 hover:bg-[var(--accent)]/5 transition-all"
                 >
                   <span className="font-bold text-[var(--text)] text-sm block">
-                    {c.name}
+                    {industry.name}
                   </span>
-                  <span className="text-xs text-[var(--text-light)]">{c.province}</span>
+                  <span className="text-xs text-[var(--text-light)]">
+                    {locale === 'en' ? 'in' : 'à'} {c.name}, {c.province}
+                  </span>
                 </Link>
               ))}
             </div>

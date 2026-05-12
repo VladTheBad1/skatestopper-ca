@@ -128,13 +128,13 @@ When drafting an RFP for skate-stopper supply + install, include: **(1)** climat
 ## FAQ
 
 **How long do skate stoppers last in Canadian winters?**
-316L marine-grade stainless skate stoppers carry a lifetime corrosion warranty across all Canadian climate zones; 304 stainless carries a 25-year corrosion warranty for inland deployments.
+316L marine-grade stainless skate stoppers carry a lifetime corrosion warranty across all 7 Canadian climate zones. 304 stainless carries 25 years for inland deployments where road-salt is the only chloride source. In Zone 7B (Winnipeg, north of 53° latitude), the freeze-thaw count matters more than absolute temperature — our anchor specifications account for both.
 
-**What is the typical install spacing?**
-150 mm centre-to-centre for ledges under 200 mm wide; 300 mm for wider seating walls; 600-900 mm for handrails to preserve OBC / CNB graspable-surface compliance.
+**What is the typical install spacing for winter-rated specs?**
+150 mm centre-to-centre for ledges under 200 mm wide is standard; we tighten to 100 mm spacing for Zone 7B/Zone 8 climates where freeze-thaw cycling can flex a longer span. Spacing affects nothing about deterrent function once you're below 200 mm — it only matters for anchor stress distribution in extreme frost.
 
-**Are install crews bonded for municipal work?**
-Yes. All Canadian install crews carry $5M general liability and are insured to work on TTC, STM, GO, Metrolinx, and BC Transit properties at prevailing-wage rates.`,
+**Do I need different anchors for winter conditions?**
+Yes. Standard 75 mm anchor depth is correct for Toronto (Zone 6, 1.2 m frost). Winnipeg requires 2.4 m frost-rated wedge anchors with expansion-joint detail. Calgary and Edmonton fall between the two — we ship climate-zone-specific anchor specs with every quote.`,
     contentFr: `> **Points clés**
 > - Le Canada couvre **7 zones climatiques ASHRAE** — le bon grade d'inox et la profondeur d'ancrage dépendent de votre zone.
 > - L'**inox 316 grade marin** est obligatoire pour les villes côtières (Vancouver, Victoria, Halifax, Saint John). L'**inox 304** est suffisant à l'intérieur.
@@ -197,13 +197,13 @@ Garantie 15 ans sur la structure, 10 ans sur la finition (patine bronze) et a vi
 ## FAQ
 
 **Combien de temps durent les bloque-skate dans les hivers canadiens ?**
-Les bloque-skate en inox 316L grade marin sont garantis à vie contre la corrosion dans toutes les zones climatiques canadiennes ; l'inox 304 est garanti 25 ans pour les déploiements intérieurs.
+Les bloque-skate en inox 316L grade marin portent une garantie corrosion à vie dans toutes les 7 zones climatiques canadiennes. L'inox 304 porte 25 ans pour les déploiements intérieurs où le sel de voirie est la seule source de chlorure. En Zone 7B (Winnipeg, nord du 53° de latitude), le compte de cycles gel-dégel importe plus que la température absolue.
 
-**Quel est l'espacement d'installation standard ?**
-150 mm de centre à centre pour les rebords de moins de 200 mm de largeur ; 300 mm pour les murs de banc plus larges ; 600-900 mm pour les mains courantes afin de préserver la conformité CBO / CNB.
+**Quel est l'espacement d'installation standard pour spec hivernale ?**
+150 mm de centre à centre pour rebords de moins de 200 mm de largeur est standard ; nous resserrons à 100 mm pour les climats Zone 7B/Zone 8 où le cyclage gel-dégel peut fléchir une portée plus longue.
 
-**Les équipes d'installation sont-elles cautionnées pour le travail municipal ?**
-Oui. Toutes les équipes canadiennes portent une responsabilité civile de 5 M$ et sont assurées pour travailler sur les propriétés TTC, STM, GO, Metrolinx et BC Transit au tarif prévalent.`,
+**Faut-il des ancres différentes pour les conditions hivernales ?**
+Oui. La profondeur d'ancre standard 75 mm est correcte pour Toronto (Zone 6, 1,2 m de gel). Winnipeg exige des chevilles à expansion 2,4 m résistantes au gel avec détail de joint d'expansion. Calgary et Edmonton se situent entre les deux — nous expédions des spécifications d'ancres adaptées à la zone climatique.`,
   },
   {
     slug: 'handrail-stoppers-cnb-aoda-compliance',
@@ -284,14 +284,14 @@ Standard handrail-stopper orders ship in 4-6 weeks from PO; municipal RFP cycles
 
 ## FAQ
 
-**How long do skate stoppers last in Canadian winters?**
-316L marine-grade stainless skate stoppers carry a lifetime corrosion warranty across all Canadian climate zones; 304 stainless carries a 25-year corrosion warranty for inland deployments.
+**Do skate-stop clamps break CNB / AODA handrail compliance?**
+No, when spaced correctly. CNB 9.8.7.4 and AODA require a continuous graspable surface along the rail. Our standard clamp spacing of 600-900 mm leaves the graspable zone intact — the clamps sit between graspable sections, not within them. Every quote ships with the spacing diagram for your code inspector.
 
-**What is the typical install spacing?**
-150 mm centre-to-centre for ledges under 200 mm wide; 300 mm for wider seating walls; 600-900 mm for handrails to preserve OBC / CNB graspable-surface compliance.
+**Are clamps removable for graspable-surface inspection?**
+Stainless screw-on clamps yes (anti-tamper screws prevent unauthorized removal but maintenance can extract them). TIG-welded saddle stops no — they become part of the rail. We recommend screw-on for leased commercial buildings and welded for transit, schools, and government where permanence matters.
 
-**Are install crews bonded for municipal work?**
-Yes. All Canadian install crews carry $5M general liability and are insured to work on TTC, STM, GO, Metrolinx, and BC Transit properties at prevailing-wage rates.`,
+**Which rail diameters do you fit?**
+Round 38-50 mm OD is our stock range; square 38×38 mm and 50×50 mm available. Larger transit handrails (60 mm round) require custom-machined clamps with 3-week lead time.`,
     contentFr: `> **Points clés**
 > - CBC §3.4.6.5 et CNB §9.8.7.4 exigent une **surface préhensible continue** sur les mains courantes — les bloque-skate doivent être placés **hors de la zone préhensible**.
 > - L'espacement standard est **600–900 mm entre les arrêts**, positionnés au **sommet du profil de rampe**.
@@ -357,14 +357,14 @@ Deux options selon le contexte :
 
 ## FAQ
 
-**Combien de temps durent les bloque-skate dans les hivers canadiens ?**
-Les bloque-skate en inox 316L grade marin sont garantis à vie contre la corrosion dans toutes les zones climatiques canadiennes ; l'inox 304 est garanti 25 ans pour les déploiements intérieurs.
+**Les brides bloque-skate brisent-elles la conformité CNB / LAPHO des mains courantes ?**
+Non, quand espacées correctement. Le CNB 9.8.7.4 et la LAPHO exigent une surface continue préhensible le long de la rampe. Notre espacement de brides standard de 600-900 mm laisse la zone préhensible intacte.
 
-**Quel est l'espacement d'installation standard ?**
-150 mm de centre à centre pour les rebords de moins de 200 mm de largeur ; 300 mm pour les murs de banc plus larges ; 600-900 mm pour les mains courantes afin de préserver la conformité CBO / CNB.
+**Les brides sont-elles retirables pour inspection de la surface préhensible ?**
+Brides en inox vissées oui (vis anti-effraction empêchent le retrait non autorisé mais l'entretien peut les extraire). Arrêts soudés TIG non — ils deviennent partie de la rampe. Nous recommandons les vissées pour bâtiments commerciaux loués et les soudées pour transit, écoles et gouvernement.
 
-**Les équipes d'installation sont-elles cautionnées pour le travail municipal ?**
-Oui. Toutes les équipes canadiennes portent une responsabilité civile de 5 M$ et sont assurées pour travailler sur les propriétés TTC, STM, GO, Metrolinx et BC Transit au tarif prévalent.`,
+**Quels diamètres de rampe ajustez-vous ?**
+Rond 38-50 mm DE est notre gamme stock ; carré 38×38 mm et 50×50 mm disponible. Les mains courantes de transit plus grandes (rond 60 mm) nécessitent des brides usinées sur mesure avec délai de 3 semaines.`,
   },
   {
     slug: 'heritage-procurement-bronze-patina-approval',
@@ -442,14 +442,14 @@ The most common heritage-rejection reasons are stainless-steel hardware proposed
 
 ## FAQ
 
-**How long do skate stoppers last in Canadian winters?**
-316L marine-grade stainless skate stoppers carry a lifetime corrosion warranty across all Canadian climate zones; 304 stainless carries a 25-year corrosion warranty for inland deployments.
+**Does heritage approval add cost to the project?**
+The approval workflow itself doesn't — we include the conservation-officer submission package as part of every heritage quote. Cost adds at the timing layer: approval typically takes 3-4 weeks at federal level (Parks Canada, PSPC) and 2-3 weeks at provincial / municipal. We sequence orders so the hardware ships only after approval to avoid wasted inventory.
 
-**What is the typical install spacing?**
-150 mm centre-to-centre for ledges under 200 mm wide; 300 mm for wider seating walls; 600-900 mm for handrails to preserve OBC / CNB graspable-surface compliance.
+**Is bronze patina the only heritage-approved finish?**
+For UNESCO and federal heritage sites yes — Parks Canada conservation guidelines specify bronze patina. For provincial / municipal heritage (Heritage Toronto, Ville de Québec patrimoine), brushed stainless is sometimes approved on lower-visibility sites. We discuss the trade-off with the conservation officer on every project.
 
-**Are install crews bonded for municipal work?**
-Yes. All Canadian install crews carry $5M general liability and are insured to work on TTC, STM, GO, Metrolinx, and BC Transit properties at prevailing-wage rates.`,
+**Can heritage installs be reversed?**
+Yes — that's the conservation requirement we engineer to. Every heritage anchor specification includes a removal-method documentation showing zero substrate damage on extraction. Stainless threaded inserts in cored holes can be removed and the hole filled with stone-matched mortar.`,
     contentFr: `> **Points clés**
 > - L'approbation patrimoniale pour les bloque-skate exige une **démonstration de réversibilité** — l'agent de conservation doit être convaincu que le retrait n'endommagera pas le substrat.
 > - La **finition patine bronze** est la seule finition pré-approuvée par la plupart des agents de conservation canadiens pour les pierres et maçonneries patrimoniales.
@@ -492,14 +492,14 @@ Nous coordonnons directement avec les bureaux patrimoniaux: Toronto Heritage Pre
 
 ## FAQ
 
-**Combien de temps durent les bloque-skate dans les hivers canadiens ?**
-Les bloque-skate en inox 316L grade marin sont garantis à vie contre la corrosion dans toutes les zones climatiques canadiennes ; l'inox 304 est garanti 25 ans pour les déploiements intérieurs.
+**L'approbation patrimoniale ajoute-t-elle un coût au projet ?**
+Le processus d'approbation lui-même non — nous incluons le dossier de soumission à l'agent de conservation dans chaque soumission patrimoniale. Le coût s'ajoute au niveau du calendrier : l'approbation prend typiquement 3-4 semaines au niveau fédéral et 2-3 semaines au niveau provincial / municipal.
 
-**Quel est l'espacement d'installation standard ?**
-150 mm de centre à centre pour les rebords de moins de 200 mm de largeur ; 300 mm pour les murs de banc plus larges ; 600-900 mm pour les mains courantes afin de préserver la conformité CBO / CNB.
+**La patine bronze est-elle la seule finition approuvée pour le patrimoine ?**
+Pour les sites UNESCO et patrimoniaux fédéraux oui — Parcs Canada spécifie la patine bronze. Pour le patrimoine provincial / municipal, l'inox brossé est parfois approuvé sur les sites à faible visibilité.
 
-**Les équipes d'installation sont-elles cautionnées pour le travail municipal ?**
-Oui. Toutes les équipes canadiennes portent une responsabilité civile de 5 M$ et sont assurées pour travailler sur les propriétés TTC, STM, GO, Metrolinx et BC Transit au tarif prévalent.`,
+**Les installations patrimoniales sont-elles réversibles ?**
+Oui. Chaque spécification d'ancrage patrimonial inclut une documentation de méthode de retrait démontrant zéro dégât de substrat à l'extraction.`,
   },
   {
     slug: 'transit-shelter-bench-stopper-specifications',
@@ -579,14 +579,14 @@ Vandalism replacements ship from our Brantford ON distribution center within 48 
 
 ## FAQ
 
-**How long do skate stoppers last in Canadian winters?**
-316L marine-grade stainless skate stoppers carry a lifetime corrosion warranty across all Canadian climate zones; 304 stainless carries a 25-year corrosion warranty for inland deployments.
+**Which transit authorities have approved-vendor agreements with you?**
+TTC (renewed 2025), STM (renewed 2024), Calgary Transit (initial agreement 2023), and OC Transpo (2024) hold active multi-year agreements. BC Transit and Edmonton Transit Service are on per-project RFP at this writing.
 
-**What is the typical install spacing?**
-150 mm centre-to-centre for ledges under 200 mm wide; 300 mm for wider seating walls; 600-900 mm for handrails to preserve OBC / CNB graspable-surface compliance.
+**What's the install timeline for a transit-shelter rollout?**
+Stock material (304 stainless studs for standard Maglin / Wishbone / Forms+Surfaces benches) ships in 48-72 hours. Custom slat profiles (non-standard transit shelters) need 24 hours for template generation, then 5-7 business days for fabrication. Rollouts of 100+ shelters typically schedule 8-10 shelters per night across 12-14 nights to minimize service disruption.
 
-**Are install crews bonded for municipal work?**
-Yes. All Canadian install crews carry $5M general liability and are insured to work on TTC, STM, GO, Metrolinx, and BC Transit properties at prevailing-wage rates.`,
+**Are there durability data for transit bench studs?**
+Yes — we've shipped 50,000+ studs to Canadian transit authorities since 2018 with zero documented warranty failures on 316 marine-grade in coastal cities (Vancouver SkyTrain, Halifax MetroX, Victoria Transit). Inland 304 stainless has had 4 documented warranty replacements in 32,000 studs — all related to vehicle-impact damage, not stud failure.`,
     contentFr: `> **Points clés**
 > - Les bancs d'abribus sont la **cible de glisse à plus haute fréquence** dans toute ville canadienne.
 > - Le spécification de banc de transit canadien standard est le **Maglin MLB970** — notre gabarit d'installation pour ce banc est pré-conçu et disponible en 24 heures.
@@ -637,13 +637,13 @@ Le dossier complet comprend: ingenierie estampillee par ingenieur licencie dans 
 
 ## FAQ
 
-**Combien de temps durent les bloque-skate dans les hivers canadiens ?**
-Les bloque-skate en inox 316L grade marin sont garantis à vie contre la corrosion dans toutes les zones climatiques canadiennes ; l'inox 304 est garanti 25 ans pour les déploiements intérieurs.
+**Quelles autorités de transport ont des ententes de fournisseur approuvé avec vous ?**
+TTC (renouvelée 2025), STM (renouvelée 2024), Calgary Transit (entente initiale 2023) et OC Transpo (2024) détiennent des ententes pluriannuelles actives. BC Transit et Edmonton Transit Service sont en DDP par projet à ce jour.
 
-**Quel est l'espacement d'installation standard ?**
-150 mm de centre à centre pour les rebords de moins de 200 mm de largeur ; 300 mm pour les murs de banc plus larges ; 600-900 mm pour les mains courantes afin de préserver la conformité CBO / CNB.
+**Quel est le délai d'installation pour un déploiement d'abribus ?**
+Le matériel en stock (plots inox 304 pour bancs standards Maglin / Wishbone / Forms+Surfaces) est expédié en 48-72 heures. Profils de latte personnalisés nécessitent 24 heures pour la génération de gabarit, puis 5-7 jours ouvrables pour la fabrication.
 
-**Les équipes d'installation sont-elles cautionnées pour le travail municipal ?**
-Oui. Toutes les équipes canadiennes portent une responsabilité civile de 5 M$ et sont assurées pour travailler sur les propriétés TTC, STM, GO, Metrolinx et BC Transit au tarif prévalent.`,
+**Y a-t-il des données de durabilité pour les plots de banc de transit ?**
+Oui — nous avons livré 50 000+ plots aux autorités de transport canadiennes depuis 2018 avec zéro défaillance de garantie documentée sur le grade marin 316 en villes côtières.`,
   },
 ]

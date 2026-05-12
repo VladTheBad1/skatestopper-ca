@@ -67,3 +67,6 @@ phase6-homepage.html
 
 # Build artifacts
 /.factory-build-state.json
+
+# Soma agent state (local-only)
+.soma/

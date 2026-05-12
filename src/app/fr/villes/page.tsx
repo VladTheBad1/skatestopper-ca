@@ -10,9 +10,10 @@ export const metadata: Metadata = buildPageMeta({
   title: 'Bloque-skate — Carte de couverture Canada',
   description:
     'Bloque-skate fournis et installés dans 17+ villes canadiennes — Toronto, Montréal, Vancouver, Calgary, Ottawa, Edmonton, Winnipeg, Halifax et plus.',
-  path: '/cities',
-  frPath: '/fr/villes',
-  image: '/images/canada-map.png',
+  path: '/fr/villes',
+  enPath: '/cities',
+  locale: 'fr',
+  image: '/images/canada-map.webp',
 })
 
 export default function VillesPage() {

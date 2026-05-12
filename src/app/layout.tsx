@@ -4,6 +4,7 @@ import { headers } from 'next/headers'
 import './globals.css'
 import VisitTracker from '@/components/VisitTracker'
 import { siteConfig } from '@/config/site-config'
+import { buildOrganizationSchema } from '@/lib/seo'
 
 const inter = Inter({
   subsets: ['latin'],
@@ -39,6 +40,9 @@ export const metadata: Metadata = {
   robots: {
     index: true,
     follow: true,
+    'max-image-preview': 'large',
+    'max-snippet': -1,
+    'max-video-preview': -1,
     googleBot: {
       index: true,
       follow: true,
@@ -63,6 +67,14 @@ export default async function RootLayout({ children }: { children: React.ReactNo
     <html lang={htmlLang}>
       <head>
         <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+        {/* Sitewide Organization JSON-LD — FACTORY-MASTER §B.1. */}
+        {/* WebSite SD is emitted on the homepage only (avoid duplication). */}
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(buildOrganizationSchema({ includeWebSite: false })),
+          }}
+        />
       </head>
       <body className={`${inter.variable} ${oswald.variable} bg-white text-[var(--text)] antialiased overflow-x-hidden`} style={{ fontFamily: "var(--font-inter), 'Inter', sans-serif" }}>
         {/* Skip to content — accessibility */}

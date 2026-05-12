@@ -10,8 +10,9 @@ export const metadata: Metadata = buildPageMeta({
   title: 'Bloque-skate et matériel anti-planche',
   description:
     'Gamme complète conçue au Canada — plots, dômes, plots de banc, plaques de surface, bandes. Inox 316 marin pour tous les climats.',
-  path: '/products',
-  frPath: '/fr/produits',
+  path: '/fr/produits',
+  enPath: '/products',
+  locale: 'fr',
   image: '/images/hero/hero.webp',
 })
 

@@ -10,8 +10,9 @@ export const metadata: Metadata = buildPageMeta({
   title: 'Secteurs — Applications de bloque-skate',
   description:
     'Bloque-skate pour municipalités, sociétés de transport, immobilier commercial, écoles, hôpitaux et sites patrimoniaux. Cautionné, LAPHO, prêt DDP.',
-  path: '/industries',
-  frPath: '/fr/secteurs',
+  path: '/fr/secteurs',
+  enPath: '/industries',
+  locale: 'fr',
   image: '/images/hero/hero.webp',
 })
 

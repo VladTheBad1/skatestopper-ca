@@ -1,6 +1,7 @@
 import Image from 'next/image'
 import Link from 'next/link'
 import PageHero from '@/components/PageHero'
+import { productImageAlt } from '@/lib/image-alt'
 import RelatedServices from '@/components/RelatedServices'
 import RelatedCities from '@/components/RelatedCities'
 import { t } from '@/lib/data'
@@ -49,9 +50,16 @@ export default function CityDetailPage({ city, products, locale }: CityDetailPag
           ? `Canadian-engineered skate stoppers — stamped engineering, climate-rated stainless, bylaw-compliant install.`
           : `Bloque-skate conçus au Canada — ingénierie estampillée, inox climat-adapté, installation conforme aux règlements.`}
         imageSrc={`/images/cities/${city.slug}-hero.webp`}
-        imageAlt={isEn
-          ? `Downtown ${city.name}, ${city.province} — commercial plaza context where stainless skate stoppers and skateboard deterrents are installed on ledges, benches, and handrails`
-          : `Centre-ville de ${city.name}, ${city.province} — contexte de place commerciale où les bloque-skate et dissuasifs anti-planche sont installés sur rebords, bancs et mains courantes`}
+        imageAlt={(() => {
+          const zones = ((city as { popularSkateZones?: string[] }).popularSkateZones || []).slice(0, 2).join(' and ')
+          const transit = (city as { transitAuthority?: string }).transitAuthority || ''
+          if (isEn) {
+            if (zones) return `${city.name}, ${city.province} — stainless skate stoppers and skateboard deterrents installed on ${zones} ledges, benches, and handrails${transit ? `; bonded for ${transit} infrastructure` : ''}`
+            return `${city.name}, ${city.province} downtown plaza — stainless skate stoppers and anti-skateboarding deterrents protecting commercial ledges, benches, and handrails`
+          }
+          if (zones) return `${city.name}, ${city.province} — bloque-skate en inox et dissuasifs anti-planche installés sur les rebords, bancs et mains courantes de ${zones}${transit ? ` ; cautionné pour le réseau ${transit}` : ''}`
+          return `Centre-ville de ${city.name}, ${city.province} — bloque-skate en inox et dissuasifs anti-planche protégeant rebords, bancs et mains courantes commerciaux`
+        })()}
         breadcrumbs={[
           { label: t('nav.cities', locale), href: staticUrl('cities', locale) },
           { label: city.name },
@@ -211,7 +219,7 @@ export default function CityDetailPage({ city, products, locale }: CityDetailPag
               >
                 {p.image && (
                   <div className="relative h-32 overflow-hidden">
-                    <Image src={p.image} alt={p.name} fill className="object-cover group-hover:scale-105 transition-transform duration-300" />
+                    <Image src={p.image} alt={productImageAlt(p.slug, locale, (p as { imageHint?: string }).imageHint, p.name)} fill className="object-cover group-hover:scale-105 transition-transform duration-300" />
                   </div>
                 )}
                 <div className="p-3">

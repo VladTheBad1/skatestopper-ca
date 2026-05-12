@@ -52,11 +52,12 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   }
   const industry = getIndustry(slug, 'en')
   if (industry) {
+    const indRec = (industry as { slugFr?: string })
     return buildPageMeta({
       title: `${siteConfig.nicheShortEn} for ${industry.name}`,
-      description: `Specialized ${siteConfig.nicheEn.toLowerCase()} for ${industry.name} across Canada.`,
+      description: `Skate stoppers and anti-skateboard deterrents for ${industry.name} across Canada — stamped engineering, AODA-compliant, bonded install crews, RFP-ready procurement.`,
       path: `/${slug}`,
-      frPath: `/fr/${slug}`,
+      frPath: `/fr/${indRec.slugFr ?? slug}`,
       image: industry.image,
     })
   }
@@ -67,6 +68,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       description: `${siteConfig.nicheShortEn} supplied + installed in ${city.name}, ${city.province}. Climate-engineered for local conditions, bonded crews, RFP-ready.`,
       path: `/${slug}`,
       frPath: `/fr/${slug}`,
+      image: `/images/cities/${slug}-hero.webp`,
     })
   }
   const kp = keywordPages.find(k => k.slugEn === slug)
@@ -165,6 +167,13 @@ export default async function SlugPage({ params }: PageProps) {
     return (
       <>
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(buildFAQSchema(keywordFaqs)) }} />
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(
+          buildBreadcrumbSchema([
+            { name: 'Home', url: '/' },
+            { name: 'Products', url: '/products' },
+            { name: kp.nameEn, url: `/${kp.slugEn}` },
+          ])
+        ) }} />
         <KeywordDetailPage kp={kp} locale="en" />
       </>
     )

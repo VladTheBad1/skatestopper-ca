@@ -35,7 +35,7 @@ export default function TrustStrip({ locale }: Props) {
                   it fills without clipping, and the column's items-center
                   centres it under the title. */}
               <Icon className={`text-[var(--accent)] ${leaf ? 'w-14 h-9' : 'w-8 h-8'}`} strokeWidth={1.6} />
-              <h3 className="mt-4 text-[13px] font-bold tracking-[0.06em] uppercase text-[var(--text)]">{title}</h3>
+              <h2 className="mt-4 text-[13px] font-bold tracking-[0.06em] uppercase text-[var(--text)]">{title}</h2>
               <p className="mt-2 text-[13px] leading-[1.55] text-[var(--text-light)] max-w-[220px]">{body}</p>
             </div>
           ))}

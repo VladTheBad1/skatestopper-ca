@@ -41,7 +41,7 @@ export default function CoverageMap({ locale }: Props) {
           {/* Map: user-provided PNG, no overlays */}
           <div className="relative">
             <img
-              src="/images/canada-map.png"
+              src="/images/canada-map.webp"
               alt=""
               aria-hidden="true"
               className="w-full h-auto"

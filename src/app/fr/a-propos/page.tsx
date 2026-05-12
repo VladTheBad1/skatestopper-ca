@@ -6,8 +6,9 @@ export const metadata: Metadata = buildPageMeta({
   title: 'À propos — Matériel anti-skate canadien',
   description:
     "Bloque-skate fournis, livrés et installés au Canada — municipalités, autorités de transport, écoles, immobilier commercial. LAPHO, RC 5 M $, prêt DDP.",
-  path: '/about',
-  frPath: '/fr/a-propos',
+  path: '/fr/a-propos',
+  enPath: '/about',
+  locale: 'fr',
 })
 
 export default function AProposPage() {

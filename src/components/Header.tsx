@@ -41,6 +41,7 @@ export default function Header({ locale }: HeaderProps) {
     { href: staticUrl('cities', locale), label: locale === 'en' ? 'Cities' : 'Villes' },
     { href: staticUrl('blog', locale), label: locale === 'en' ? 'Resources' : 'Ressources' },
     { href: staticUrl('about', locale), label: locale === 'en' ? 'About' : 'À propos' },
+    { href: staticUrl('faq', locale), label: 'FAQ' },
     { href: contactUrl(locale), label: locale === 'en' ? 'Contact' : 'Contact' },
   ]
 

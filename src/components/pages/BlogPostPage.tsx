@@ -1,6 +1,7 @@
 import Image from 'next/image'
 import Link from 'next/link'
 import PageHero from '@/components/PageHero'
+import { blogImageAlt } from '@/lib/image-alt'
 import { t } from '@/lib/data'
 import { staticUrl, blogUrl } from '@/lib/routes'
 import { markdownToHtml } from '@/lib/markdown'
@@ -94,7 +95,7 @@ export default function BlogPostPage({ post, relatedPosts, locale }: BlogPostPag
                 <Link key={rp.slug} href={blogUrl(rp.slug, rp.slugFr || rp.slug, locale)} className="group block bg-[var(--surface)] rounded-xl overflow-hidden border border-[var(--line)] hover:shadow-lg transition-all">
                   {rp.image && (
                     <div className="relative h-40 overflow-hidden">
-                      <Image src={rp.image} alt={rp.title} fill className="object-cover group-hover:scale-105 transition-transform duration-300" />
+                      <Image src={rp.image} alt={blogImageAlt(rp as { title: string; imageAlt?: string; imageAltFr?: string }, locale)} fill className="object-cover group-hover:scale-105 transition-transform duration-300" />
                     </div>
                   )}
                   <div className="p-5">

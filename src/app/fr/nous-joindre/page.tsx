@@ -3,7 +3,7 @@ import { buildPageMeta } from '@/lib/seo'
 import ContactPage from '@/components/pages/ContactPage'
 
 export const metadata: Metadata = buildPageMeta({
-  title: 'Nous joindre — Skatestopper.ca',
+  title: 'Nous joindre',
   description: 'Demandes de devis, soumissions DDP et enquêtes d\u2019approvisionnement pour les installations de bloque-skate au Canada.',
   path: '/fr/nous-joindre',
   enPath: '/contact',

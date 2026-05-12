@@ -12,7 +12,7 @@ export const metadata: Metadata = buildPageMeta({
     'Skate stoppers supplied + installed in 17+ Canadian cities — Toronto, Montréal, Vancouver, Calgary, Ottawa, Halifax. Bonded, AODA-compliant.',
   path: '/cities',
   frPath: '/fr/villes',
-  image: '/images/canada-map.png',
+  image: '/images/canada-map.webp',
 })
 
 export default function CitiesPage() {

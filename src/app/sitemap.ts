@@ -28,7 +28,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   }
 
   // ── Category pages ──
-  for (const [en, fr] of [['products', 'produits'], ['industries', 'industries'], ['cities', 'villes'], ['contact', 'contact'], ['faq', 'faq'], ['blog', 'blogue']]) {
+  for (const [en, fr] of [['products', 'produits'], ['industries', 'secteurs'], ['cities', 'villes'], ['contact', 'nous-joindre'], ['faq', 'faq'], ['blog', 'blogue']]) {
     entries.push({ url: `${BASE_URL}/${en}`, lastModified: now })
     entries.push({ url: `${BASE_URL}/fr/${fr}`, lastModified: now })
   }

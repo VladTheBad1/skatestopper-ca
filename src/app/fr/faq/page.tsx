@@ -8,8 +8,9 @@ export const metadata: Metadata = buildPageMeta({
   title: 'FAQ Bloque-skate — Matériaux & prix',
   description:
     "Réponses sur les grades d'inox, l'espacement d'installation, la résistance gel-dégel, la conformité LAPHO et les délais d'approvisionnement DDP.",
-  path: '/faq',
-  frPath: '/fr/faq',
+  path: '/fr/faq',
+  enPath: '/faq',
+  locale: 'fr',
 })
 
 export default function FAQFrPage() {

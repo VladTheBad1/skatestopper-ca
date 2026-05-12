@@ -1267,5 +1267,14 @@
     "source": "dataforseo-ranked-keywords",
     "location_code": 2124,
     "language_code": "en"
+  },
+  {
+    "keyword": "skateboard deterrents for ledges",
+    "volume": 10,
+    "search_volume": 10,
+    "cpc": 0,
+    "source": "cluster-derivation",
+    "location_code": 2124,
+    "language_code": "en"
   }
 ]
