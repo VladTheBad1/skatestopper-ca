@@ -1,10 +1,15 @@
 import { NextRequest, NextResponse } from 'next/server'
 import { saveQuote } from '@/lib/db'
 import { sendQuoteEmail } from '@/lib/email'
+import { pushLead } from '@/lib/leads-hub'
 
 export async function POST(request: NextRequest) {
   try {
     const data = await request.json()
+
+    if (typeof data.website === 'string' && data.website.trim().length > 0) {
+      return NextResponse.json({ success: true })
+    }
 
     const { name, email, phone, service, lotSize, message, city, page, locale } = data
 
@@ -29,6 +34,33 @@ export async function POST(request: NextRequest) {
       locale: locale || 'en',
       ip,
       userAgent,
+    })
+
+    // Push to Leads Hub (fire-and-forget, queues to outbox on failure)
+    void pushLead({
+      external_id: String(quote.id),
+      created_at: quote.createdAt ?? new Date().toISOString(),
+      name,
+      email,
+      phone: phone || null,
+      message: message || null,
+      city: city || null,
+      service: service || null,
+      page_url: page || null,
+      raw_payload: {
+        id: quote.id,
+        name,
+        email,
+        phone: phone || '',
+        service: service || '',
+        lot_size: lotSize || '',
+        message: message || '',
+        city: city || '',
+        page: page || '',
+        locale: locale || 'en',
+        ip,
+        user_agent: userAgent,
+      },
     })
 
     // Send email notification (non-blocking)

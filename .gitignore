@@ -70,3 +70,7 @@ phase6-homepage.html
 
 # Soma agent state (local-only)
 .soma/
+
+# SQLite runtime files
+data/*.db-shm
+data/*.db-wal
