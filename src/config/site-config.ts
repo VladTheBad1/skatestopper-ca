@@ -64,7 +64,7 @@ export const siteConfig = {
   openingHours: [
     { dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'], opens: '08:00', closes: '17:00' },
   ],
-  googleVerification: '',
+  googleVerification: 'DvE73FGekoJ8FnmbZNst3MfSm-ZopRURtnLJ1bqgrlY',
   googleMapsApiKey: '',
   googlePlaceId: '',
 }
