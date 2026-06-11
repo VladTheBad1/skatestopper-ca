@@ -87,8 +87,8 @@ export default function ContactForm({ locale }: ContactFormProps) {
             className="w-full px-4 py-3 border border-[var(--line)] rounded-lg bg-[var(--surface)] text-[var(--text)] focus:border-[var(--primary)] focus:outline-none transition-colors" />
         </div>
         <div>
-          <label className="block text-sm font-bold text-[var(--text)] mb-2">{labels.city}</label>
-          <input name="city" placeholder={labels.cityHint}
+          <label className="block text-sm font-bold text-[var(--text)] mb-2">{labels.city} *</label>
+          <input name="city" required placeholder={labels.cityHint}
             className="w-full px-4 py-3 border border-[var(--line)] rounded-lg bg-[var(--surface)] text-[var(--text)] focus:border-[var(--primary)] focus:outline-none transition-colors" />
         </div>
       </div>

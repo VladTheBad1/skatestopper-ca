@@ -17,6 +17,10 @@ export async function POST(request: NextRequest) {
       return NextResponse.json({ error: 'Name and email are required' }, { status: 400 })
     }
 
+    if (!city || typeof city !== 'string' || city.trim().length === 0) {
+      return NextResponse.json({ error: 'City is required' }, { status: 400 })
+    }
+
     // Get client info
     const ip = request.headers.get('x-forwarded-for') || request.headers.get('x-real-ip') || 'unknown'
     const userAgent = request.headers.get('user-agent') || ''
