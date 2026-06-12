@@ -83,6 +83,9 @@ export default async function RootLayout({ children }: { children: React.ReactNo
         </a>
         <VisitTracker />
         {children}
+        {/* Heatmap + Session Replay tracker (sites-hub). Override host via NEXT_PUBLIC_HM_SRC for dev/staging. */}
+        {/* eslint-disable-next-line @next/next/no-sync-scripts */}
+        <script async src={process.env.NEXT_PUBLIC_HM_SRC ?? "https://app.anydomain.ca/hm.js?p=skatestopper"} />
       </body>
     </html>
   )
