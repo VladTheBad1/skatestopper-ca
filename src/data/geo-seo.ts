@@ -21,10 +21,10 @@ export function generateAllGeoParams(): GeoParam[] {
   const params: GeoParam[] = []
   for (const city of cities) {
     for (const material of materials) {
-      params.push({ slug: city.slug, service: material.slug })
+      params.push({ slug: city.slug, service: material.slug, serviceFr: material.slugFr ?? material.slug })
     }
     for (const industry of industries) {
-      params.push({ slug: city.slug, service: industry.slug })
+      params.push({ slug: city.slug, service: industry.slug, serviceFr: industry.slugFr ?? industry.slug })
     }
   }
   return params

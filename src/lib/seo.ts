@@ -365,7 +365,7 @@ export function buildGeoMaterialMeta(city: City, material: Material, locale: 'en
     return buildPageMeta({
       title: `${material.nameFr.split(' — ')[0]} à ${city.name}, ${provShort(city)}`,
       description: `${material.nameFr} à ${city.name}, ${city.province}. Conception, installation et entretien partout au Canada. Obtenez une soumission gratuite.`,
-      path: `/fr/${city.slug}/${material.slug}`,
+      path: `/fr/${city.slug}/${material.slugFr ?? material.slug}`,
       enPath: `/${city.slug}/${material.slug}`,
       locale: 'fr',
       image: material.image,
@@ -376,7 +376,7 @@ export function buildGeoMaterialMeta(city: City, material: Material, locale: 'en
     title: `${material.nameEn.split(' — ')[0]} in ${city.name}, ${provShort(city)}`,
     description: `${material.nameEn} in ${city.name}, ${city.province}. Engineered, installed, and maintained for Canadian climate. Get a free quote.`,
     path: `/${city.slug}/${material.slug}`,
-    frPath: `/fr/${city.slug}/${material.slug}`,
+    frPath: `/fr/${city.slug}/${material.slugFr ?? material.slug}`,
     locale: 'en',
     image: material.image,
   })
@@ -387,7 +387,7 @@ export function buildGeoIndustryMeta(city: City, industry: Industry, locale: 'en
     return buildPageMeta({
       title: `${industry.nameFr} à ${city.name}`,
       description: `${siteConfig.nicheFr} pour ${industry.nameFr.toLowerCase()} à ${city.name}, ${city.province}. Conception canadienne, installation et entretien.`,
-      path: `/fr/${city.slug}/${industry.slug}`,
+      path: `/fr/${city.slug}/${industry.slugFr ?? industry.slug}`,
       enPath: `/${city.slug}/${industry.slug}`,
       locale: 'fr',
       image: industry.image,
@@ -399,7 +399,7 @@ export function buildGeoIndustryMeta(city: City, industry: Industry, locale: 'en
     title: `${industry.nameEn} in ${city.name}`,
     description: `${siteConfig.nicheEn} for ${industry.nameEn.toLowerCase()} in ${city.name}, ${city.province}. Engineered, installed, and maintained Canada-wide.`,
     path: `/${city.slug}/${industry.slug}`,
-    frPath: `/fr/${city.slug}/${industry.slug}`,
+    frPath: `/fr/${city.slug}/${industry.slugFr ?? industry.slug}`,
     locale: 'en',
     image: industry.image,
   })

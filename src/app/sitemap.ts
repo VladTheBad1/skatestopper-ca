@@ -77,7 +77,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const geoParams = generateAllGeoParams()
   for (const p of geoParams) {
     entries.push({ url: `${BASE_URL}/${p.slug}/${p.service}`, lastModified: now })
-    entries.push({ url: `${BASE_URL}/fr/${p.slugFr ?? p.slug}/${p.service}`, lastModified: now })
+    entries.push({ url: `${BASE_URL}/fr/${p.slugFr ?? p.slug}/${p.serviceFr ?? p.service}`, lastModified: now })
   }
 
   return entries

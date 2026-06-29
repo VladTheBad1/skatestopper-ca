@@ -18,7 +18,9 @@ interface PageProps {
 }
 
 export async function generateStaticParams() {
-  return generateAllGeoParams().map(p => ({ slug: p.slug, service: p.service }))
+  // FR geo pages live at the French service slug — pre-render those so the
+  // canonical URL (which now uses slugFr) is statically generated.
+  return generateAllGeoParams().map(p => ({ slug: p.slug, service: p.serviceFr ?? p.service }))
 }
 
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
