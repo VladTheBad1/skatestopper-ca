@@ -4,7 +4,6 @@ import { industries } from '@/data/industries'
 import { cities, provinces } from '@/data/locations'
 import { keywordPages } from '@/data/keyword-pages'
 import { blogPosts } from '@/data/blog'
-import { generateAllGeoParams } from '@/data/geo-seo'
 import { siteConfig } from '@/config/site-config'
 
 const BASE_URL = `https://${siteConfig.domain}`
@@ -73,12 +72,14 @@ export default function sitemap(): MetadataRoute.Sitemap {
     entries.push({ url: `${BASE_URL}/fr/blogue/${bp.slugFr ?? bp.slug}`, lastModified: new Date(bp.updatedAt || bp.publishedAt) })
   }
 
-  // ── Geo-SEO pages (EN + FR) ──
-  const geoParams = generateAllGeoParams()
-  for (const p of geoParams) {
-    entries.push({ url: `${BASE_URL}/${p.slug}/${p.service}`, lastModified: now })
-    entries.push({ url: `${BASE_URL}/fr/${p.slugFr ?? p.slug}/${p.serviceFr ?? p.service}`, lastModified: now })
-  }
+  // ── Geo-SEO pages (city × service matrix) — INTENTIONALLY EXCLUDED ──
+  // The {city}/{service} matrix (~1256 EN+FR URLs) is near-duplicate
+  // programmatic content. On a low-authority domain Google marks these
+  // "Discovered/Crawled – currently not indexed" and they dilute crawl
+  // budget away from the core pages above. Keep them out of the sitemap so
+  // Google focuses on the strong core (homepage, products, industries,
+  // cities, keyword pages, blog). The routes still exist and stay reachable
+  // via internal links; re-add here once the domain has crawl authority.
 
   return entries
 }
