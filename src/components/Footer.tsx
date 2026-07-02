@@ -4,6 +4,7 @@ import { siteConfig } from '@/config/site-config'
 import { staticUrl, contactUrl, productUrl } from '@/lib/routes'
 import { materials } from '@/data/products'
 import { industries } from '@/data/industries'
+import { keywordPages } from '@/data/keyword-pages'
 import CTABanner from '@/components/CTABanner'
 import Logo from '@/components/Logo'
 
@@ -86,6 +87,26 @@ export default function Footer({ locale }: FooterProps) {
               </div>
             </FooterCol>
           </div>
+
+        {/* Popular topics — internal links that de-orphan the keyword landing
+            pages (previously reachable only via the sitemap). Real <a href>
+            on every page so Google discovers + flows equity to them. */}
+        <div className="border-t border-[var(--border-faint)] py-6">
+          <h4 className="text-[11px] font-semibold uppercase tracking-[0.16em] text-[var(--accent)] mb-3">
+            {isEn ? 'Popular Topics' : 'Sujets populaires'}
+          </h4>
+          <div className="flex flex-wrap gap-x-5 gap-y-2">
+            {keywordPages.map((kp) => (
+              <Link
+                key={kp.slugEn}
+                href={isEn ? `/${kp.slugEn}` : `/fr/${kp.slugFr}`}
+                className="text-[12.5px] text-white/70 hover:text-white transition-colors leading-snug"
+              >
+                {isEn ? kp.nameEn : kp.nameFr}
+              </Link>
+            ))}
+          </div>
+        </div>
 
         {/* Trust strip — three signals, full-width, separates content from legal */}
         <div className="border-t border-[var(--border-faint)] py-5 grid grid-cols-1 sm:grid-cols-3 gap-y-3 gap-x-6 text-[12px] text-white/75">

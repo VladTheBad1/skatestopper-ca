@@ -371,10 +371,8 @@ export function buildGeoMaterialMeta(city: City, material: Material, locale: 'en
       enPath: `/${city.slug}/${material.slug}`,
       locale: 'fr',
       image: material.image,
-      // FR geo pages are near-duplicate translations of their EN twin and
-      // Google clusters them as "Alternate page" duplicates anyway. noindex
-      // the FR side so crawl budget + authority concentrate on the EN geo
-      // page (which keeps hreflang → this page for language targeting).
+      // Consolidation: whole city×service geo matrix (EN + FR) is
+      // noindex,follow — see the EN branch below for rationale.
       noindex: true,
     })
   }
@@ -386,6 +384,13 @@ export function buildGeoMaterialMeta(city: City, material: Material, locale: 'en
     frPath: `/fr/${city.slug}/${material.slugFr ?? material.slug}`,
     locale: 'en',
     image: material.image,
+    // Consolidation: the whole city×service geo matrix is noindex,follow.
+    // It is thin near-duplicate programmatic content ("scaled content" /
+    // doorway pattern) that Google leaves at "Discovered/Crawled – not
+    // indexed" and that drags down site-wide quality. Indexable surface is
+    // the strong core (city pages, product/service pages, industry pages,
+    // keyword pages, blog). `follow` keeps link equity flowing to the core.
+    noindex: true,
   })
 }
 
@@ -411,6 +416,8 @@ export function buildGeoIndustryMeta(city: City, industry: Industry, locale: 'en
     frPath: `/fr/${city.slug}/${industry.slugFr ?? industry.slug}`,
     locale: 'en',
     image: industry.image,
+    // See buildGeoMaterialMeta: whole geo matrix is noindex (consolidation).
+    noindex: true,
   })
 }
 
