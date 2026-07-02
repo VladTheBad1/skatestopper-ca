@@ -23,8 +23,9 @@ export function buildPageMeta(opts: {
   enPath?: string        // EN equivalent path (for hreflang from FR pages)
   locale?: 'en' | 'fr'
   image?: string         // page-specific OG image path
+  noindex?: boolean      // emit robots noindex,follow (for thin/duplicate pages)
 }): Metadata {
-  const { title, description, path, frPath, enPath, locale = 'en', image } = opts
+  const { title, description, path, frPath, enPath, locale = 'en', image, noindex } = opts
   const url = `${SITE_URL}${path}`
   // OG image must resolve (og-image-resolves-gate). Default → /og-default.png (1200×630).
   const ogImage = image ? `${SITE_URL}${image}` : `${SITE_URL}/og-default.png`
@@ -50,6 +51,7 @@ export function buildPageMeta(opts: {
   return {
     title: cleanTitle,
     description,
+    ...(noindex && { robots: { index: false, follow: true } }),
     alternates,
     openGraph: {
       title,
@@ -369,6 +371,11 @@ export function buildGeoMaterialMeta(city: City, material: Material, locale: 'en
       enPath: `/${city.slug}/${material.slug}`,
       locale: 'fr',
       image: material.image,
+      // FR geo pages are near-duplicate translations of their EN twin and
+      // Google clusters them as "Alternate page" duplicates anyway. noindex
+      // the FR side so crawl budget + authority concentrate on the EN geo
+      // page (which keeps hreflang → this page for language targeting).
+      noindex: true,
     })
   }
 
@@ -391,6 +398,8 @@ export function buildGeoIndustryMeta(city: City, industry: Industry, locale: 'en
       enPath: `/${city.slug}/${industry.slug}`,
       locale: 'fr',
       image: industry.image,
+      // See buildGeoMaterialMeta: noindex FR geo duplicates.
+      noindex: true,
     })
   }
 

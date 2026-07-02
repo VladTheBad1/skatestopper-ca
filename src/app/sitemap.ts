@@ -9,7 +9,12 @@ import { siteConfig } from '@/config/site-config'
 const BASE_URL = `https://${siteConfig.domain}`
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const now = new Date()
+  // Stable content-modification date for pages without their own date.
+  // Bump this ONLY when core page content meaningfully changes — do NOT use
+  // `new Date()`, which stamps every URL "changed today" on each deploy and
+  // trains Google to distrust our lastmod (Search Central lastmod guidance).
+  // Blog posts below still use their own real publish/update dates.
+  const now = new Date('2026-07-01')
   const entries: MetadataRoute.Sitemap = []
 
   // ── Homepage ──
