@@ -31,10 +31,9 @@ export function middleware(request: NextRequest) {
   }
 
   // Pass through — headers handled in next.config.ts.
-  // Inject x-url so root layout can read pathname for SSR <html lang>.
-  const response = NextResponse.next()
-  response.headers.set('x-url', request.nextUrl.pathname)
-  return response
+  // <html lang> is static per-locale in the (en)/fr root layouts — no x-url
+  // header needed (reading headers() in a root layout forces dynamic rendering).
+  return NextResponse.next()
 }
 
 export const config = {

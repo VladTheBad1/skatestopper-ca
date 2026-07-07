@@ -1,4 +1,13 @@
+import './globals.css'
 import Link from 'next/link'
+
+/**
+ * Global 404. With per-locale root layouts (no shared app/layout.tsx) Next
+ * wraps this not-found in an auto-generated minimal <html>/<body>, so it must
+ * be CONTENT-ONLY (no own <html> here → nested <html>). The globals.css import
+ * pulls the stylesheet into that minimal shell so the page is still styled.
+ * Served with a real HTTP 404 for any unmatched / non-existent route.
+ */
 export default function NotFound() {
   return (
     <main className="min-h-screen flex items-center justify-center bg-[#FAFAFA] px-6">
