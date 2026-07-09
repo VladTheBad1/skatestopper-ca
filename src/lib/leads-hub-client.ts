@@ -39,6 +39,8 @@ export interface LeadPayload {
   readonly city?: string | null
   readonly service?: string | null
   readonly utm?: Record<string, unknown> | null
+  /** document.referrer of the visit (first-touch preferred) — the hub classifies it into a source (ChatGPT, Google, …). */
+  readonly referrer?: string | null
   readonly page_url?: string | null
   readonly raw_payload: Record<string, unknown>
 }

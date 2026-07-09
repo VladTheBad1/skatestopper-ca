@@ -6,6 +6,7 @@ import Header from '@/components/Header'
 import Footer from '@/components/Footer'
 import FloatingCTA from '@/components/FloatingCTA'
 import { buildOrganizationSchema } from '@/lib/seo'
+import AttributionTracker from '@/components/AttributionTracker'
 
 const inter = Inter({
   subsets: ['latin'],
@@ -41,6 +42,7 @@ export default function FrRootLayout({ children }: { children: React.ReactNode }
         />
       </head>
       <body className={`${inter.variable} ${oswald.variable} bg-white text-[var(--text)] antialiased overflow-x-hidden`} style={{ fontFamily: "var(--font-inter), 'Inter', sans-serif" }}>
+        <AttributionTracker />
         {/* A/B + CTR experiment engine (sites-hub). Render-blocking (no async)
             so an assigned variant applies before paint. No-op unless an
             experiment is active for the page. See sites-hub public/xp.js. */}

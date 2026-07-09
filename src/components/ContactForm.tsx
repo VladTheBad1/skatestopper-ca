@@ -3,6 +3,7 @@
 import { useState } from 'react'
 import { siteConfig } from '@/config/site-config'
 import { t } from '@/lib/data'
+import { getAttribution } from '@/lib/attribution-client'
 
 interface ContactFormProps {
   locale: 'en' | 'fr'
@@ -42,6 +43,7 @@ export default function ContactForm({ locale }: ContactFormProps) {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
+          attribution: getAttribution(),
           name: form.get('name'),
           email: form.get('email'),
           phone: form.get('phone'),

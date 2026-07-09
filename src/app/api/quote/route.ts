@@ -41,6 +41,12 @@ export async function POST(request: NextRequest) {
     })
 
     // Push to Leads Hub (fire-and-forget, queues to outbox on failure)
+    // First-touch attribution captured in the browser (referrer + UTM) — hub-only.
+    const attribution =
+      data.attribution && typeof data.attribution === 'object'
+        ? (data.attribution as { referrer?: string | null; landing_page?: string | null; utm?: Record<string, string> | null })
+        : null
+
     void pushLead({
       external_id: String(quote.id),
       created_at: quote.createdAt ?? new Date().toISOString(),
@@ -50,6 +56,8 @@ export async function POST(request: NextRequest) {
       message: message || null,
       city: city || null,
       service: service || null,
+      referrer: attribution?.referrer ?? null,
+      utm: attribution?.utm ?? null,
       page_url: page || null,
       raw_payload: {
         id: quote.id,
@@ -64,6 +72,7 @@ export async function POST(request: NextRequest) {
         locale: locale || 'en',
         ip,
         user_agent: userAgent,
+        ...(attribution?.landing_page ? { landing_page: attribution.landing_page } : {}),
       },
     })
 
