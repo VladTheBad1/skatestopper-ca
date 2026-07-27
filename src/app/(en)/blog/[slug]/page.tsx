@@ -66,7 +66,7 @@ export default async function BlogPostRoute({ params }: PageProps) {
       url: `https://${siteConfig.domain}`,
       logo: {
         '@type': 'ImageObject',
-        url: `https://${siteConfig.domain}/images/logo.png`,
+        url: `https://${siteConfig.domain}/og-default.png`,
       },
     },
     mainEntityOfPage: `https://${siteConfig.domain}/blog/${slug}`,

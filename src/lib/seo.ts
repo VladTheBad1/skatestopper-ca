@@ -93,7 +93,7 @@ export function buildOrganizationSchema(opts: { includeWebSite?: boolean } = {})
     '@type': 'Organization',
     name: siteConfig.brandName,
     url: SITE_URL,
-    logo: `${SITE_URL}/images/logo.png`,
+    logo: `${SITE_URL}/og-default.png`,
     description: siteConfig.descriptionEn,
     contactPoint: {
       '@type': 'ContactPoint',
@@ -135,7 +135,7 @@ export function buildCityServiceSchema(city: City, service?: string) {
       '@type': 'Organization',
       name: siteConfig.brandName,
       url: SITE_URL,
-      logo: `${SITE_URL}/images/logo.png`,
+      logo: `${SITE_URL}/og-default.png`,
       telephone: `+1-${siteConfig.phoneRaw}`,
       email: siteConfig.email,
     },
@@ -176,7 +176,7 @@ export function buildContactSchema() {
     '@type': 'Organization',
     name: siteConfig.brandName,
     url: SITE_URL,
-    logo: `${SITE_URL}/images/logo.png`,
+    logo: `${SITE_URL}/og-default.png`,
     contactPoint: [
       {
         '@type': 'ContactPoint',
