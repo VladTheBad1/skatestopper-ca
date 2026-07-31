@@ -95,8 +95,8 @@ export default function ContactForm({ locale }: ContactFormProps) {
         </div>
       </div>
       <div>
-        <label className="block text-sm font-bold text-[var(--text)] mb-2">{labels.project}</label>
-        <textarea name="message" rows={4} placeholder={labels.projectHint}
+        <label className="block text-sm font-bold text-[var(--text)] mb-2">{labels.project} *</label>
+        <textarea name="message" required minLength={10} rows={4} placeholder={labels.projectHint}
           className="w-full px-4 py-3 border border-[var(--line)] rounded-lg bg-[var(--surface)] text-[var(--text)] focus:border-[var(--primary)] focus:outline-none transition-colors resize-none" />
       </div>
 
