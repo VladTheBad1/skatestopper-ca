@@ -10,10 +10,27 @@ interface ContactFormProps {
 }
 
 /**
+ * Validate + normalize a phone number on submit. Returns '' for empty input,
+ * "+1XXXXXXXXXX" for NANP, "+<digits>" for international, or null if invalid.
+ */
+function normalizePhone(raw: string): string | null {
+  const trimmed = raw.trim()
+  if (!trimmed) return ''
+  const digits = trimmed.replace(/\D/g, '')
+  if (trimmed.startsWith('+')) {
+    return digits.length >= 8 && digits.length <= 15 ? `+${digits}` : null
+  }
+  if (digits.length === 10) return `+1${digits}`
+  if (digits.length === 11 && digits.startsWith('1')) return `+${digits}`
+  return null
+}
+
+/**
  * ContactForm — niche-neutral. Labels from translations. Colors from CSS vars.
  */
 export default function ContactForm({ locale }: ContactFormProps) {
   const [status, setStatus] = useState<'idle' | 'sending' | 'sent' | 'error'>('idle')
+  const [phoneError, setPhoneError] = useState(false)
   const isEn = locale === 'en'
 
   // Form labels — generic enough to keep simple, but niche-specific
@@ -32,13 +49,20 @@ export default function ContactForm({ locale }: ContactFormProps) {
     thanks: isEn ? 'Thank you!' : 'Merci!',
     thanksSub: t('contactForm.thanksSub', locale) || (isEn ? 'We\'ll respond within 24 hours.' : 'Nous répondrons dans les 24 heures.'),
     error: isEn ? 'Something went wrong. Please try again.' : 'Une erreur est survenue. Réessayez.',
+    phoneError: isEn ? 'Please enter a valid phone number.' : 'Veuillez entrer un numéro de téléphone valide.',
   }
 
   async function handleSubmit(e: React.FormEvent<HTMLFormElement>) {
     e.preventDefault()
+    const form = new FormData(e.currentTarget)
+    const phone = normalizePhone(String(form.get('phone') ?? ''))
+    if (phone === null) {
+      setPhoneError(true)
+      return
+    }
+    setPhoneError(false)
     setStatus('sending')
     try {
-      const form = new FormData(e.currentTarget)
       const res = await fetch('/api/quote', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
@@ -46,7 +70,7 @@ export default function ContactForm({ locale }: ContactFormProps) {
           attribution: getAttribution(),
           name: form.get('name'),
           email: form.get('email'),
-          phone: form.get('phone'),
+          phone,
           city: form.get('city'),
           message: form.get('message'),
           locale,
@@ -85,8 +109,9 @@ export default function ContactForm({ locale }: ContactFormProps) {
         </div>
         <div>
           <label className="block text-sm font-bold text-[var(--text)] mb-2">{labels.phone}</label>
-          <input name="phone" type="tel" placeholder="(416) 555-0100"
+          <input name="phone" type="tel" inputMode="tel" autoComplete="tel" placeholder="(416) 555-0100"
             className="w-full px-4 py-3 border border-[var(--line)] rounded-lg bg-[var(--surface)] text-[var(--text)] focus:border-[var(--primary)] focus:outline-none transition-colors" />
+          {phoneError && <p className="text-red-500 text-sm mt-2">{labels.phoneError}</p>}
         </div>
         <div>
           <label className="block text-sm font-bold text-[var(--text)] mb-2">{labels.city} *</label>
