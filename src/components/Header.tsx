@@ -146,9 +146,9 @@ export default function Header({ locale }: HeaderProps) {
           </div>
         </div>
 
-        {/* Mobile menu */}
+        {/* Mobile menu — full-height overlay so no page content shows below it */}
         {open && (
-          <div className="lg:hidden border-t border-[var(--border-faint)] py-4 space-y-2">
+          <div className="lg:hidden fixed inset-x-0 top-[72px] bottom-0 overflow-y-auto bg-[var(--bg-dark)] border-t border-[var(--border-faint)] px-5 py-4 space-y-2">
             {navLinks.map((l) => (
               <Link
                 key={l.label}
