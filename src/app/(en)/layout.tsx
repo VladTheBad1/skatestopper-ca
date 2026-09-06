@@ -51,7 +51,7 @@ export default function EnRootLayout({ children }: { children: React.ReactNode }
             so an assigned variant applies before paint. No-op unless an
             experiment is active for the page. See sites-hub public/xp.js. */}
         {/* eslint-disable-next-line @next/next/no-sync-scripts */}
-        <script src={process.env.NEXT_PUBLIC_XP_SRC ?? "https://app.anydomain.ca/xp.js"} data-site="skatestopper" />
+        <script src={process.env.NEXT_PUBLIC_XP_SRC ?? "https://app.wtf.ca/xp.js"} data-site="skatestopper" />
         {/* Skip to content — accessibility */}
         <a href="#main-content" className="sr-only focus:not-sr-only focus:absolute focus:top-4 focus:left-4 focus:z-[100] focus:px-4 focus:py-2 focus:bg-[var(--accent)] focus:text-white focus:rounded focus:text-sm focus:font-semibold">
           Skip to main content
@@ -65,7 +65,7 @@ export default function EnRootLayout({ children }: { children: React.ReactNode }
         </div>
         {/* Heatmap + Session Replay tracker (sites-hub). Override host via NEXT_PUBLIC_HM_SRC for dev/staging. */}
         {/* eslint-disable-next-line @next/next/no-sync-scripts */}
-        <script async src={process.env.NEXT_PUBLIC_HM_SRC ?? "https://app.anydomain.ca/hm.js?p=skatestopper"} />
+        <script async src={process.env.NEXT_PUBLIC_HM_SRC ?? "https://app.wtf.ca/hm.js?p=skatestopper"} />
       </body>
     </html>
   )
